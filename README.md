@@ -56,4 +56,46 @@
 
 2025 - 01
 
+
+---
+
+# Registro de Versiones del Informe
+
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #333; color: #fff;">Versión</th>
+      <th style="background-color: #333; color: #fff;">Fecha</th>
+      <th style="background-color: #333; color: #fff;">Autor</th>
+      <th style="background-color: #333; color: #fff;">Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ---
