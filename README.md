@@ -278,4 +278,80 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 ### [Anexos](/chapter05.md)
 - [Anexos](/chapter05.md#anexos)
 
+
 ---
+
+
+
+# Student Outcome
+El curso tiene el Student Outcome 3, el cual consiste en la capacidad de comunicarse efectivamente con un rango de audiencias.
+
+En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones realizadas de manera grupal.
+
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #333; color: #fff;">Criterio Específico</th>
+      <th style="background-color: #333; color: #fff;">Acciones Realizadas</th>
+      <th style="background-color: #333; color: #fff;">Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+      <td>
+        <strong>ENTREGABLE TB1:</strong>
+        <br><br>
+        <strong>Castañeda, Santiago - TB1:</strong> message here
+        <br><br>
+        <strong>Gonzales, Carlos - TB1:</strong> message here
+        <br><br>
+        <strong>Lizano, Fernando - TB1:</strong> message here
+        <br><br>
+        <strong>Nikaido, Javier - TB1:</strong> message here
+        <br><br>
+        <strong>Trillo, Anghel - TB1:</strong> message here
+      <td>
+        <strong>ENTREGABLE TB1:</strong>
+        <br><br>
+        <strong>Castañeda, Santiago - TB1:</strong> message here
+        <br><br>
+        <strong>Gonzales, Carlos - TB1:</strong> message here
+        <br><br>
+        <strong>Lizano, Fernando - TB1:</strong> message here
+        <br><br>
+        <strong>Nikaido, Javier - TB1:</strong> message here
+        <br><br>
+        <strong>Trillo, Anghel - TB1:</strong> message here
+      </td>
+      </tr>
+      <tr>
+      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+      <td>
+        <strong>ENTREGABLE TB1:</strong>
+        <br><br>
+        <strong>Castañeda, Santiago - TB1:</strong> message here
+        <br><br>
+        <strong>Gonzales, Carlos - TB1:</strong> message here
+        <br><br>
+        <strong>Lizano, Fernando - TB1:</strong> message here
+        <br><br>
+        <strong>Nikaido, Javier - TB1:</strong> message here
+        <br><br>
+        <strong>Trillo, Anghel - TB1:</strong> message here
+      <td>
+        <strong>ENTREGABLE TB1:</strong>
+        <br><br>
+        <strong>Castañeda, Santiago - TB1:</strong> message here
+        <br><br>
+        <strong>Gonzales, Carlos - TB1:</strong> message here
+        <br><br>
+        <strong>Lizano, Fernando - TB1:</strong> message here
+        <br><br>
+        <strong>Nikaido, Javier - TB1:</strong> message here
+        <br><br>
+        <strong>Trillo, Anghel - TB1:</strong> message here
+      </td>
+</tr>
+</tbody>
+</table>
