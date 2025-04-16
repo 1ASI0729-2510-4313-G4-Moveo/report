@@ -28,3 +28,9 @@
     margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
   }
 </style>
+
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+## 3.2. User Stories
+## 3.3. Impact Mapping
+## 3.4. Product Backlog
