@@ -42,27 +42,34 @@ Actualmente muchas personas desean conseguir un medio de transporte propio, ya s
 Por otro lado, muchos propietarios de vehículos enfrentan el problema contrario, ya que, sus autos pasan largos periodos sin uso, acumulando costos por mantenimiento, seguros y depreciación, sin generar ningún tipo de retorno económico.
 #### 5W&2H
 **What**
+
 Las personas que necesitan una movilidad flexible y asequible se enfrentan a barreras para acceder a vehículos sin tener que comprar uno o depender de taxis o apps de transporte, lo que resulta costoso o poco eficiente.
 Por otro lado, muchos propietarios de autos tienen vehículos que permanecen estacionados gran parte del tiempo, generando gastos en lugar de ingresos.
 
 **Why**
+
 Actualmente comprar un auto es una inversión alta y no siempre rentable si solo se necesita esporadicamente, ademas utilizar otras alternativas como Uber o taxis no siempre resultará económico o eficientes.
 Por el lado contrario, las personas que no utilizan sus autos representa un desperdicio de recursos y espacio en el garaje.
 
 **Who**
+
 Los afectados que identificamos son en su mayoría trabajadores urbanos o básicamente personas sin auto propio ya que necesitan un medio de transporte práctico y económico pero no desean asumir los gastos de un auto propio y además los propietarios de autos sin utilizar ya que tienen vehículos que solo usan ocasionalmente y podrían generarse ingresos pasivos en vez de acumular gastos de mantenimiento, seguros e impuestos
 
 **When**
+
 Usualmente este problema ocurre a diario, especialmente en horas punta o cuando el transporte público es ineficiente, en temporadas de alta demanda como eventos, feriados, etc.  
 
 **Where**
+
 El problema se hace más visible en ciudades urbanas, como Lima, donde la movilidad es un caos y ir en transporte público a veces puede ser una pesadilla.
 
 **How**
+
 En su mayoría los trabajadores que dependen del transporte público lo encuentran poco seguro, incómodo o en su mayoría encuentran una sensación de incomodidad. Día a día se ven a trabajadores yendo con la preocupación de llegar tarde a su trabajo debido a no encontrar un transporte público a tiempo.  
 Por otro lado los propietarios de autos que no le dan utilidad no suelen pensar en la idea de rentar sus vehículos a terceros, pero siempre esta la oportunidad de generar un ingreso pasivo lo cual podrá sonar atractivo para ellos
 
 **How Much**
+
 El problema en sí puede variar de precios, en este caso para los trabajadores puede ser un promedio elevado especialmente si necesitan de movilidad frecuente y por largos trayectos.  
 Para los propietarios de autos en este caso sería una perdida de oportunidades económicas, sus autos podrían generar gastos a futuro como mantenimiento y seguro.
 ### 1.2.2 Lean UX Process
