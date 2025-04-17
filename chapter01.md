@@ -77,11 +77,92 @@ Por otro lado los propietarios de autos que no le dan utilidad no suelen pensar 
 
 El problema en sí puede variar de precios, en este caso para los trabajadores puede ser un promedio elevado especialmente si necesitan de movilidad frecuente y por largos trayectos.  
 Para los propietarios de autos en este caso sería una perdida de oportunidades económicas, sus autos podrían generar gastos a futuro como mantenimiento y seguro.
-### 1.2.2 Lean UX Process
+### 1.2.2. Lean UX Process
+
 #### 1.2.2.1. Lean UX Problem Statements
+
+**Usuario objetivo:**
+
+Trabajadores que necesitan moverse con libertad, pero que no tienen auto, y personas que tienen autos que casi no usan y quieren ganar algo extra con ellos.
+
+**Qué necesitan:**
+
+- Los trabajadores buscan una forma fácil y económica de tener un auto por un tiempo sin tener que comprarlo.
+- Los dueños de autos quieren prestarlo, pero de forma segura y sin tantas complicaciones.
+
+**Problemas que tienen:**
+
+- No hay muchas plataformas que conecten a ambas partes sin cobrar mucho o pedir mil requisitos.
+- A veces hay desconfianza en prestar un auto a alguien desconocido o en subirse a un auto ajeno.
+
+**Nuestra propuesta:**
+
+Una app llamada **Moveo** que sirva de intermediario. Los trabajadores pueden buscar un auto cerca, y los dueños lo pueden ofrecer con seguridad. Todo el proceso sería por la app: verificación, pagos, soporte, etc.
+
+---
+
 #### 1.2.2.2. Lean UX Assumptions
+
+**Supuestos de negocio:**
+
+1. Creemos que los usuarios quieren alquilar autos sin tantas vueltas, sin ir a una agencia.
+2. Pensamos que con una app donde todo esté claro (precios, disponibilidad, contacto) se animarían más.
+3. Los primeros que usarán la app serían trabajadores que se movilizan a diario y dueños de autos que no usan mucho su carro.
+4. El valor que más les importa es sentirse seguros y que el servicio sea práctico.
+5. También valoran el hecho de que puedan resolver todo desde su celular, sin salir de casa.
+6. Vamos a llegar a los usuarios por redes, referidos, promociones y quizás convenios con empresas.
+7. La app ganaría por comisión en cada alquiler o planes premium para dueños frecuentes.
+8. Nuestra competencia serían agencias de alquiler, Uber o incluso grupos de Facebook para alquilar carros.
+9. Nuestra ventaja es que somos más accesibles, rápidos y enfocados en trayectos diarios o alquileres cortos.
+10. Un riesgo es que la gente tenga miedo de prestar su carro.
+11. Planeamos resolver eso con seguros, perfiles verificados y un sistema de reputación.
+
+**Supuestos de usuario:**
+
+- **¿Quiénes son?** Trabajadores sin auto propio y dueños de autos que no usan mucho.
+- **¿Qué queremos resolver?** Que los primeros puedan movilizarse mejor y los segundos ganen dinero con sus autos.
+- **¿Qué buscan en la app?** Que sea clara, que no se complique, y que se sientan protegidos.
+- **¿Dónde encaja en su vida?** Para el trabajador, es una forma de llegar al trabajo o moverse sin depender de buses o taxis caros. Para el dueño del auto, es una forma pasiva de tener ingresos extra.
+- **¿Cuándo y cómo usan la app?** Cuando necesitan moverse o cuando su carro esté libre. Desde el celular, viendo autos cercanos o viendo si alguien quiere usar su auto.
+- **¿Cómo debe verse la app?** Bonita, simple, con botones grandes. Que no te pierdas buscando funciones, y que puedas hacer todo en pocos pasos.
+
+---
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Hipótesis 1:**
+  - Creemos que los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse.
+  - Cuando entren a la app, van a buscar un auto cerca para unas horas o todo el día.
+  - Entonces podrán reservarlo desde la app, pagar y usarlo.
+  - Sabremos que funcionó si repiten el uso varias veces en una semana.
+
+- **Hipótesis 2:**
+  - Creemos que los dueños de autos quieren una forma de ganar dinero sin estrés.
+  - Cuando suban su auto a Moveo, pondrán su horario y condiciones.
+  - Entonces alguien lo reservará y ellos solo tendrán que entregarlo (o no, si se hace con recojo automático).
+  - Sabremos que está funcionando si hay más autos publicados y los dueños están contentos con sus ganancias.
+
+- **Hipótesis 3:**
+  - Creemos que los usuarios quieren saber que están protegidos si pasa algo malo.
+  - Cuando ocurra un problema, podrán reportarlo por la app.
+  - Entonces activamos soporte o el seguro según el caso.
+  - Sabremos que la experiencia es buena si los problemas se resuelven rápido y sin peleas.
+
+---
+
 #### 1.2.2.4. Lean UX Canvas
+
+El Lean UX Canvas nos ayudó a organizar nuestras ideas sobre cómo ayudar a nuestros usuarios y validar si el proyecto tiene futuro. Estas son algunas partes clave:
+
+1. **Usuarios:** Trabajadores urbanos y dueños de autos.
+2. **Problemas:** No tienen cómo moverse bien / tienen autos sin usar.
+3. **Solución:** Una app para conectar a ambos, de forma segura.
+4. **Resultado esperado:** Más gente movilizándose y ganando plata con sus carros.
+5. **Supuestos:** Que hay interés en alquilar y prestar, pero falta confianza.
+6. **Métricas:** Reservas diarias, repeticiones, cantidad de autos publicados.
+7. **Estrategia de difusión:** Redes, TikTok, alianzas con empresas o negocios locales.
+
+
 ## 1.3. Segmentos Objetivos
 #### Segmento objetivo 1: Trabajadores Urbanos  
 **Descripción:**  
