@@ -154,14 +154,7 @@ Una app llamada **Moveo** que sirva de intermediario. Los trabajadores pueden bu
 
 El Lean UX Canvas nos ayudó a organizar nuestras ideas sobre cómo ayudar a nuestros usuarios y validar si el proyecto tiene futuro. Estas son algunas partes clave:
 
-1. **Usuarios:** Trabajadores urbanos y dueños de autos.
-2. **Problemas:** No tienen cómo moverse bien / tienen autos sin usar.
-3. **Solución:** Una app para conectar a ambos, de forma segura.
-4. **Resultado esperado:** Más gente movilizándose y ganando plata con sus carros.
-5. **Supuestos:** Que hay interés en alquilar y prestar, pero falta confianza.
-6. **Métricas:** Reservas diarias, repeticiones, cantidad de autos publicados.
-7. **Estrategia de difusión:** Redes, TikTok, alianzas con empresas o negocios locales.
-
+ <img src="./assets/leanuxcanva.jpg" alt="leanuxcanvaimagen">   
 
 ## 1.3. Segmentos Objetivos
 #### Segmento objetivo 1: Trabajadores Urbanos  
