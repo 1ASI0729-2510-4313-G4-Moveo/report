@@ -74,6 +74,52 @@ A continuación realizaremos el análisis necesario para ver qué estrategias po
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+Para las preguntas decidimos antes de todo explicar de qué va nuestro tema, las entrevistas contarán con un tiempo de entre 10 a 15 minutos o la disposición del entrevistado el cual puede cancelar la entrevista en cualquier momento lo desee.
+
+**Para segmento objetivo trabajadores urbanos**
+
+1. Cuéntame cómo es tu rutina diaria cuando necesitas trasladarte de un lugar a otro. ¿Qué medios usas?
+
+2. ¿En qué medio de transportes vas usualmente?
+
+3. ¿En qué situaciones sientes que el transporte que usas no es suficiente o no cumple tus necesidades?
+
+4. ¿Qué factores consideras antes de elegir cómo moverte a tu destino? (Ej. tiempo, costo, comodidad)
+
+5. ¿Qué tan importante es para ti tener autonomía y flexibilidad en tus traslados diarios?
+
+6. ¿Has tenido que pedir prestado un vehículo a amigos o familiares? Cuéntame cómo fue esa experiencia.
+
+7. Cuando tu transporte habitual no está disponible, ¿cómo sueles resolverlo?
+
+8. ¿Cómo te sientes cuando dependes de transporte público o de terceros para llegar a tiempo?
+
+9. Imagina que tienes acceso a un vehículo solo cuando lo necesitas, ¿cómo crees que cambiaría tu día a día?
+
+10. ¿Qué aspectos te harían confiar en una nueva solución de movilidad que te dé más independencia?
+
+**Para segmento objetivo proveedor de autos**
+
+1. En tu día a día, ¿con qué frecuencia utilizas tu auto? ¿Sientes que pasa mucho tiempo estacionado?
+
+2. ¿Qué significa para ti tener un auto? ¿Lo ves más como una inversión, una herramienta o un metodo para tener más libertad?
+
+3. Si tu auto pudiera generarte ingresos cuando no lo usas, ¿qué pensarías de esa posibilidad?
+
+4. ¿Qué condiciones te harían sentir seguro al permitir que otras personas usen tu auto temporalmente?
+
+5. ¿Alguna vez has pensado en formas de obtener ganancias adicionales a partir de las cosas que ya posees? ¿Cómo te ha ido?
+
+6. ¿Conoces a alguien que haya logrado sacarle provecho a su auto aparte de la movilización? (Ejm. Uber, InDrive o rentandolo mismamente)
+
+7. En otros países es común que las personas renten sus autos de forma flexible. ¿Te imaginas que eso pueda funcionar aquí?
+
+8. ¿Qué sentirías si, en lugar de tener tu auto estacionado, pudiera ayudarte a cubrir parte de tus gastos mensuales?
+
+9. ¿Qué características crees que debería tener una plataforma para que sientas que tu auto está protegido cuando lo usa otra persona?
+
+10. ¿Cómo te sentirías al formar parte de una red donde los autos que no están siendo utilizados se ponen a disposición de personas que los necesitan?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Need finding
