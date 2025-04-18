@@ -62,6 +62,16 @@ A continuación realizaremos el análisis necesario para ver qué estrategias po
 |**Amenazas**|Alta competencia, proveedores limitados en fases iniciales, cambios regulatorios|Nuevos entrantes y modelos de negocio Open Source como Moveo|Competencia local y competencia externa fuerte|Cambios regulatorios en transporte urbano; competencia de apps como Uber y Lyft|
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+-   Se realizarán diversas entrevistas con nuestros segmentos objetivos para comprobar si nuestra idea les parece razonable y si estarían dispuestos a probarla.
+    
+-   Con base en los resultados de la investigación, implementaremos las ideas más innovadoras que saquemos e intentemos acoplarlos a nuestra aplicación.
+    
+-   Buscaremos una diferenciación clara con nuestros competidores, intentaremos destacar en la autonomia y libertad que puede ofrecer nuestro producto a la hora de desplazarse.
+    
+-   Los propietarios de autos que no usan sus vehiculos constantemente son un mercado muy poco atendido que creemos que podemos captar antes de que crezcan nuestros competidores
+    
+-   Cada vez más usuarios valoran la flexibilidad de tener un auto solo por horas o días sin asumir costos de propiedad, creemos que nuestra app podria ser de gusto para ellos
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
