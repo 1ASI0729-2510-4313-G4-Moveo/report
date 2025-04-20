@@ -98,6 +98,22 @@ Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la
 URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Moveo/backend
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Se inicio con la creación de la organización en github. 
+
+<img src="./assets/chapter5/software-deployment-organization.png" />
+
+Posteriormente, se asocio a los integrantes del equipo para poder colaborar en los repositorios de la organización.
+
+<img src="./assets/chapter5/software-deployment-organization-members.png" />
+
+Luego, se crearon los repositorios del reporte, Landing Page, Frontend y Backend para organizar los productos entregables.
+
+<img src="./assets/chapter5/software-deployment-repositories.png" />
+
+Finalmente, se configuro y desplegó la versión inicial del Landing Page en **GitHub Pages** desde la sección "Pages" seleccionando la rama **main**.
+
+<img src="./assets/chapter5/landing-deployment.png" />
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
