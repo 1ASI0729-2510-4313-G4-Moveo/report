@@ -58,6 +58,38 @@ A continuación, se presenta una breve descripción de los colores que se utiliz
   <img src="assets/chapter04/achromatic%20colors/blue_color.png" style="width:500px; height:auto;">
 </p>
 
+**Achromatic Colors:**
+
+#FFFFFF (Blanco Puro): El blanco es fundamental para los espacios en blanco y como color de fondo principal. Representa la pureza y la claridad, asegurando que el contenido sea fácilmente legible y que la interfaz se sienta abierta y acogedora.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/white_color.png" style="width:500px; height:auto;">
+</p>
+
+#EEEEEE (Gris Suave): Un gris muy claro que se emplea en fondos y separadores. Ofrece una base limpia y ligera, perfecta para mantener una apariencia fresca y ordenada en la interfaz.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/soft_gray_color.png" style="width:500px; height:auto;">
+</p>
+
+#727272 (Gris Equilibrio): Este tono de gris medio se utiliza para elementos secundarios y textos que requieren un enfoque sutil. Representa el equilibrio y la neutralidad, aportando un contraste suave sin dominar la atención visual.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/other_gray.png" style="width:500px; height:auto;">
+</p>
+
+#4F4F4F (Gris Profundo): Este gris oscuro se utiliza para textos y elementos gráficos que requieren mayor peso visual, sin llegar a la intensidad del negro. Es un color que transmite seriedad y formalidad, ideal para secciones importantes del proyecto.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/gray_color.png" style="width:500px; height:auto;">
+</p>
+
+#000000 (Negro Absoluto): El negro se reserva para elementos que necesitan el máximo contraste y definición, como el texto principal y ciertos íconos. Representa la autoridad y la claridad, garantizando la máxima legibilidad y enfoque.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/black_color.png" style="width:500px; height:auto;">
+</p>
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.2. Labeling Systems
