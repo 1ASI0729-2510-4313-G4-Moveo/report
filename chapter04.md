@@ -34,6 +34,28 @@
 En esta sección, presentaremos el concepto de diseño para la página web y la aplicación, para proporcionar a nuestros usuarios una interfaz amigable y funcional. Con este propósito en mente, hemos optado por utilizar elementos visuales que sean fáciles de percibir y que resulten atractivos a la vista.
 
 ### 4.1.1. General Style Guidelines
+Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digital de apoyo a la salud mental y el bienestar, tanto para los psiquiatras como para sus pacientes. El objetivo principal de nuestra plataforma es crear un espacio donde la confianza, la claridad y la seguridad sean primordiales, asegurando que la interacción entre profesionales y pacientes sea fluida y efectiva. Este enfoque se refleja en la selección de colores, que buscan transmitir calma, confiabilidad y profesionalismo. A continuación, se presenta una breve descripción de los colores que se utilizarán en nuestra aplicación:
+
+**Chromatic Colors:**
+
+#10BEAE (Verde Vitalidad - Principal): Este verde vibrante es el color principal para gran parte de nuestro proyecto. Inspira renovación y energía positiva, reflejando la vitalidad y el bienestar que Psymed busca promover en sus usuarios. Este tono se utiliza para destacar elementos clave e inspirar confianza a lo largo de la experiencia del usuario.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/aqua_color.png"  style="width:500px; height:auto;">
+</p>
+
+#68D585 (Verde Serenidad): Este verde suave y sereno se utiliza para ciertos íconos, aportando una sensación de equilibrio y sutileza. Es un tono que complementa la paleta principal, ayudando a guiar visualmente al usuario sin distraer.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/green_icons_color.png" style="width:500px; height:auto;">
+</p>
+
+#081828 (Azul Profundo - Secundario): Este color azul oscuro se emplea como color secundario en botones, el pie de página y otros elementos visuales. Representa la estabilidad y la confianza, ofreciendo un contraste sólido y profesional frente a los tonos verdes más brillantes de la paleta.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/blue_color.png" style="width:500px; height:auto;">
+</p>
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.2. Labeling Systems
