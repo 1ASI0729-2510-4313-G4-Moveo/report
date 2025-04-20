@@ -126,12 +126,66 @@ Nuestro diseño adaptable y la implementación del patrón en Z aseguran que, si
 ## 4.2. Information Architecture
 Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page.
 
-
+### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
+Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de Moveo.
+
+**Para la Landing Page:**
+- Título: Moveo 
+
+
+- Descripción: Moveo - aplicación de movilidad para alquilar autos cercanos y generar ingresos compartiendo tu vehículo - Landing Page.
+
+
+- Keywords: Alquiler de Autos, Movilidad Urbana, Compartir Vehículo, Rentar Auto, Carsharing, Ingresos por Vehículo, Transporte Inteligente, Plataforma de Autos, Movilidad Sostenible, Moveo App
+
+
+- Author: GPT4 team
+
+- - -
+
+**Para el Sitio Web:**
+- Título: Moveo 
+
+
+- Descripción: Moveo - aplicación de movilidad para alquilar autos cercanos y generar ingresos compartiendo tu vehículo - Web Site.
+
+
+- Keywords: Alquiler de Autos, Movilidad Urbana, Compartir Vehículo, Rentar Auto, Carsharing, Ingresos por Vehículo, Transporte Inteligente, Plataforma de Autos, Movilidad Sostenible, Moveo App
+
+
+- Author: GPT4 team
+
 ### 4.2.4. Searching Systems
+Para garantizar una experiencia de usuario eficiente y libre de frustraciones, Moveo implementa un sistema de búsqueda optimizado que permite a los usuarios acceder rápidamente a la información que necesitan, sin sentirse perdidos en medio del volumen de datos.
+
+Dentro de la aplicación, los usuarios podrán realizar búsquedas a través de una barra inteligente ubicada en la parte superior de las secciones principales, como el catálogo de vehículos, historial de alquileres y panel de gestión de vehículos compartidos. Esta barra permitirá búsqueda por palabras clave, como modelo del vehículo, ubicación, precio, tipo de combustible, disponibilidad por fechas, y más.
+
+Además, se incorporarán filtros dinámicos que permitirán refinar los resultados según:
+
+- Ubicación
+
+- Rango de precios
+
+- Tipo de vehículo
+
+- Valoraciones de otros usuarios
+
+- Disponibilidad por horario o fechas específicas
+
+Una vez realizada la búsqueda, los resultados se mostrarán en un diseño de tarjetas visuales, que incluirán imágenes del vehículo, características principales (año, modelo, precio por hora/día), distancia al usuario, y botón de acción rápida para reservar o solicitar más información. Este enfoque visual permite una navegación rápida e intuitiva.
+
+Del lado de los propietarios, el sistema también incluirá un buscador de reservas activas, ingresos generados, y opciones de filtrado por fechas o tipo de uso del vehículo, facilitando el monitoreo de su rendimiento dentro de la plataforma. Con estas funcionalidades, Moveo se asegura de que tanto arrendatarios como propietarios puedan encontrar exactamente lo que necesitan, de forma clara, rápida y ordenada.
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+- **Desktop - Wireframes:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/wireframe/wireframe.png" style="width:800px; height:auto;">
+</p>
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
