@@ -117,6 +117,12 @@ El ícono de Moveo transmite una sensación de dinamismo, dirección y fluidez, 
 Este logo no solo representa la identidad visual de Moveo, sino que también encarna nuestra misión de brindar soluciones tecnológicas innovadoras que impulsan el movimiento inteligente, optimizan procesos y conectan a las personas con herramientas diseñadas para mejorar su día a día de manera ágil, intuitiva y eficiente.
 
 ### 4.1.2. Web Style Guidelines
+Las Web Style Guidelines de Moveo han sido desarrolladas con el objetivo de ofrecer una experiencia de usuario óptima y consistente en todos los dispositivos. Siendo diseñada bajo los principios de Web Responsive Design, asegurando que cada elemento de la interfaz se ajuste fluidamente a diferentes tamaños de pantalla, desde dispositivos móviles hasta monitores de escritorio.
+
+Uno de los enfoques clave en el diseño de nuestra interfaz es la implementación del patrón de diseño en forma de Z. Este patrón guía intuitivamente el ojo del usuario a través de la página, comenzando desde la esquina superior izquierda, pasando por el contenido central y terminando en la esquina inferior derecha. Este flujo natural facilita la navegación, permitiendo que los usuarios accedan rápidamente a la información más importante, como diagnósticos, citas y seguimientos de síntomas.
+
+Nuestro diseño adaptable y la implementación del patrón en Z aseguran que, sin importar el dispositivo utilizado, la experiencia de usuario sea fluida, intuitiva y centrada en las necesidades de todas las personas que interactúan con la plataforma.
+
 ## 4.2. Information Architecture
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
