@@ -104,6 +104,18 @@ Para el proyecto Moveo, utilizaremos una fuente sans serif, que asegura una lect
   <img src="assets/chapter04/fonts/spartan.png" style="width:500px; height:auto;">
 </p>
 
+**Icon:**
+<p align="center">
+  <img src="assets/icons/moveo_logo.svg" style="width:300px; height:auto;">
+</p>
+
+El ícono de Moveo transmite una sensación de dinamismo, dirección y fluidez, elementos clave que reflejan el propósito del proyecto. Con una forma circular abierta y una flecha curva hacia el interior, simboliza movimiento continuo, conexión y evolución constante. Este diseño sugiere un enfoque moderno y ágil, ideal para representar soluciones tecnológicas relacionadas con la movilidad, la gestión eficiente de procesos o el flujo inteligente de información. Su estilo minimalista refuerza la idea de claridad, precisión y enfoque en el usuario, atributos que posicionan a Moveo como una propuesta innovadora y en constante avance.
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/aqua_color.png" style="width:500px; height:auto;">
+</p>
+
+Este logo no solo representa la identidad visual de Moveo, sino que también encarna nuestra misión de brindar soluciones tecnológicas innovadoras que impulsan el movimiento inteligente, optimizan procesos y conectan a las personas con herramientas diseñadas para mejorar su día a día de manera ágil, intuitiva y eficiente.
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.2. Labeling Systems
