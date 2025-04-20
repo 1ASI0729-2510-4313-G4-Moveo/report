@@ -191,7 +191,11 @@ Una app llamada **Moveo** que sirva de intermediario. Los trabajadores pueden bu
 
 El Lean UX Canvas nos ayudó a organizar nuestras ideas sobre cómo ayudar a nuestros usuarios y validar si el proyecto tiene futuro. Estas son algunas partes clave:
 
- <img src="./assets/leanuxcanva.jpg" alt="leanuxcanvaimagen">   
+<p align="center">
+  <a>
+    <img src="assets/chapter01/lean%20ux/leanuxcanva.jpg" style="width:1000px; height:auto;" alt="">
+  </a>
+</p>
 
 ## 1.3. Segmentos Objetivos
 #### Segmento objetivo 1: Trabajadores Urbanos  
