@@ -186,6 +186,13 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
   <img src="assets/chapter04/landing%20page%20design/wireframe/wireframe.png" style="width:800px; height:auto;">
 </p>
 
+- **Mobile - Wireframes:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/wireframe/wireframe-mobile.png" style="width:350px; height:auto;">
+</p>
+
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
