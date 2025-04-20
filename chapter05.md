@@ -77,6 +77,14 @@ Se emplea para los mensajes de commmits el estándar de **Conventional Commits**
 
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
+Para la realizacion del despliegue debemos seguir los siguientes pasos:
+  1. Primero, creamos un nuevo [repositorio en GitHub](https://github.com/1ASI0729-2510-4313-G4-Moveo/Landing-Page). Después, subimos los archivos del  proyecto a ese repositorio.
+  2. Una vez que se haya subido todo, nos dirigimos a la configuración del repositorio. Allí, buscamos la sección de **"Pages"**, que aparece en la barra lateral izquierda.
+  3. Luego, se vera una opción que permite seleccionar la rama desde la cual quieres hacer el despliegue. Normalmente, se elige **main**.
+  4. Después de esto, GitHub generará automáticamente una URL para tu sitio.
+<br>
+<img src="./assets/chapter5/landing-deployment.png" />
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ## 5.2.X. Sprint n
 ## 5.2.X.1. Sprint Planning n
