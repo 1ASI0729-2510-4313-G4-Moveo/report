@@ -40,7 +40,7 @@ Nuestra Startup “GPT4” ofrece una aplicación innovadora de préstamos de au
   <th colspan="2">Castañeda Guimas, Giancarlo Santiago</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/team/castañeda.jpg" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/team/castañeda.jpg" style="width:700px; height:auto;" alt=""></td>
     <td>Estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas cursando el 5to ciclo. Me considero una persona activa y que siempre busca terminar las cosas bien y de ser posible rápidamente. También me gusta la responsabilidad y el buen ambiente entre mis compañeros de grupo.</td>
   </tr>
 
@@ -48,7 +48,7 @@ Nuestra Startup “GPT4” ofrece una aplicación innovadora de préstamos de au
   <th colspan="2">Gonzales Valverde, Carlos Matthew</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/team/gonzales.jpg" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/team/gonzales.jpg" style="width:700px; height:auto;" alt=""></td>
     <td> descripción </td>
   </tr>
 
@@ -56,7 +56,7 @@ Nuestra Startup “GPT4” ofrece una aplicación innovadora de préstamos de au
   <th colspan="2">Lizano Coll Cardenas, Fernando Jesus</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/team/lizano.jpg" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/team/lizano.jpg" style="width:700px; height:auto;" alt=""></td>
     <td>Me llamo Fernando Jesus Lizano Coll Cardenas. A mis 20 años me considero un apasionado por el mundo de la programación y aprendizaje constante. Actualmente tengo conocimientos en el lenguaje de C++, HTML, CSS, JavaScript y Python. Aunque mis conocimientos son todavía básicos. Me identifico como alguien de pensamiento de superación. Busco crecer en cada aspecto de mi vida y enfrentar desafíos con una actitud positiva y resoluta. Espero poder aportar y motivar a mis compañeros durante la elaboración de este proyecto.</td>
   </tr>
 
@@ -64,7 +64,7 @@ Nuestra Startup “GPT4” ofrece una aplicación innovadora de préstamos de au
     <th colspan="2">Nikaido Vargas, Javier Masaru</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/team/masaru.jpg" style="width:700px; height:auto;"></td>
+    <td><img src="assets/chapter01/team/masaru.jpg" style="width:700px; height:auto;" alt=""></td>
     <td>Estudiante de Ingenieria de Software de 5to ciclo de la Universidad Peruana de Ciencias Aplicadas. Me gusta hacer las cosas con tiempo y ordenadamente, trabajar con tranquilidad y terminar mis deberes a tiempo.</td>
   </tr>
 
@@ -72,7 +72,7 @@ Nuestra Startup “GPT4” ofrece una aplicación innovadora de préstamos de au
     <th colspan="2">Trillo Hernandez, Anghel Melanie</th>
   </tr>
   <tr>
-    <td><img src="/assets/chapter01/team/trillo.jpg" style="width:700px; height:auto;"></td> 
+    <td><img src="/assets/chapter01/team/trillo.jpg" style="width:700px; height:auto;" alt=""></td> 
     <td>Estudiante de la carrera de Ingenieria de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo, lo que me gusta de la carrera es desarrollar soluciones innovadoras que contribuyen a la sociedad. Me considero una persona responsable y orientada a resultados. Asimismo, me comprometo a colaborar en el equipo de forma continua y puntual.</td>
   </tr>
 </table>
