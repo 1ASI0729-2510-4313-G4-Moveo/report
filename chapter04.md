@@ -90,6 +90,20 @@ A continuación, se presenta una breve descripción de los colores que se utiliz
   <img src="assets/chapter04/chromatic%20colors/black_color.png" style="width:500px; height:auto;">
 </p>
 
+**Typography: Sans Serif**
+
+Para el proyecto Moveo, utilizaremos una fuente sans serif, que asegura una lectura clara y moderna. Dentro de esta categoría, emplearemos las variaciones de DM Sans y Spartan, ambas conocidas por su simplicidad y elegancia, ideales para mantener una estética limpia y profesional en todos los elementos textuales del sistema.
+
+- **DM Sans - Sans Serif**
+<p align="center">
+  <img src="assets/chapter04/fonts/DMSans.png" style="width:500px; height:auto;">
+</p>
+
+- **Spartan - Sans Serif**
+<p align="center">
+  <img src="assets/chapter04/fonts/spartan.png" style="width:500px; height:auto;">
+</p>
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.2. Labeling Systems
