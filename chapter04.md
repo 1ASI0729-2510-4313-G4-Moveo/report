@@ -124,6 +124,9 @@ Uno de los enfoques clave en el diseño de nuestra interfaz es la implementació
 Nuestro diseño adaptable y la implementación del patrón en Z aseguran que, sin importar el dispositivo utilizado, la experiencia de usuario sea fluida, intuitiva y centrada en las necesidades de todas las personas que interactúan con la plataforma.
 
 ## 4.2. Information Architecture
+Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page.
+
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
