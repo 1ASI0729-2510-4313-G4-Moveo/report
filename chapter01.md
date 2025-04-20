@@ -35,49 +35,85 @@
 Nuestra Startup “GPT4” ofrece una aplicación innovadora de préstamos de autos “Moveo” enfocadas a ser un intermediario entre trabajadores que necesiten un auto para movilizarse con facilidad y proveedores los cuales decidan prestar sus autos a cambio de un monto razonable. Ofrecemos una solución independiente al ofrecer los autos como producto principal y contaremos con un modelo de negocio basado en los pagos que se realizarán en la aplicación por el préstamo de los autos. Para ello investigaremos cómo cumplir con esta meta recolectando fuentes sobre modelos de negocios similares y planificamos el diseño y la codificación de nuestra solución.
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                 | Alumno            | Descripción                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|         Foto aqui                             |       **Giancarlo Santiago Castañeda Guimas**               |                 Estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas cursando el 5to ciclo. Me considero una persona activa y que siempre busca terminar las cosas bien y de ser posible rápidamente. También me gusta la responsabilidad y el buen ambiente entre mis compañeros de grupo.
-|        <img src="./assets/masaru.jpg" alt="masaruimagen">                          |       **Javier Masaru Nikaido Vargas**               |                 Estudiante de Ingenieria de Software de 5to ciclo de la Universidad Peruana de Ciencias Aplicadas. Me gusta hacer las cosas con tiempo y ordenadamente, trabajar con tranquilidad y terminar mis deberes a tiempo.
-|        <img src="./assets/trillo.jpg" alt="masaruimagen">                           |       **Anghel Melanie Trillo Hernández**             |   Estudiante de la carrera de Ingenieria de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo, lo que me gusta de la carrera es desarrollar soluciones innovadoras que contribuyen a la sociedad. Me considero una persona responsable y orientada a resultados. Asimismo, me comprometo a colaborar en el equipo de forma continua y puntual.     
-|         Foto aqui                             |       Nombre aqui               |                 Descripción tuya aqui                                                  |         Foto aqui                             |       Nombre aqui               |                 Descripción tuya aqui       
+<table>
+  <tr>
+  <th colspan="2">Castañeda Guimas, Giancarlo Santiago</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/team/castañeda.jpg" style="width:700px; height:auto;" alt=""></td>
+    <td>Estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas cursando el 5to ciclo. Me considero una persona activa y que siempre busca terminar las cosas bien y de ser posible rápidamente. También me gusta la responsabilidad y el buen ambiente entre mis compañeros de grupo.</td>
+  </tr>
+
+  <tr>
+  <th colspan="2">Gonzales Valverde, Carlos Matthew</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/team/gonzales.jpg" style="width:700px; height:auto;" alt=""></td>
+    <td> descripción </td>
+  </tr>
+
+  <tr>
+  <th colspan="2">Lizano Coll Cardenas, Fernando Jesus</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/team/lizano.jpg" style="width:700px; height:auto;" alt=""></td>
+    <td>Me llamo Fernando Jesus Lizano Coll Cardenas. A mis 20 años me considero un apasionado por el mundo de la programación y aprendizaje constante. Actualmente tengo conocimientos en el lenguaje de C++, HTML, CSS, JavaScript y Python. Aunque mis conocimientos son todavía básicos. Me identifico como alguien de pensamiento de superación. Busco crecer en cada aspecto de mi vida y enfrentar desafíos con una actitud positiva y resoluta. Espero poder aportar y motivar a mis compañeros durante la elaboración de este proyecto.</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Nikaido Vargas, Javier Masaru</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/team/masaru.jpg" style="width:700px; height:auto;" alt=""></td>
+    <td>Estudiante de Ingenieria de Software de 5to ciclo de la Universidad Peruana de Ciencias Aplicadas. Me gusta hacer las cosas con tiempo y ordenadamente, trabajar con tranquilidad y terminar mis deberes a tiempo.</td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Trillo Hernandez, Anghel Melanie</th>
+  </tr>
+  <tr>
+    <td><img src="/assets/chapter01/team/trillo.jpg" style="width:700px; height:auto;" alt=""></td> 
+    <td>Estudiante de la carrera de Ingenieria de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo, lo que me gusta de la carrera es desarrollar soluciones innovadoras que contribuyen a la sociedad. Me considero una persona responsable y orientada a resultados. Asimismo, me comprometo a colaborar en el equipo de forma continua y puntual.</td>
+  </tr>
+</table>
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
-Actualmente muchas personas desean conseguir un medio de transporte propio, ya sea para transportarse libremente o tener que transportarse a lugares específicos como los trabajadores a sus centros de trabajo, lamentablemente para ellos representa un gran reto económico y logístico. Este problema se vuelve más evidente en contextos urbanos donde las distancias laborales son largas y los horarios de transporte público no siempre se adaptan a las necesidades individuales. 
+Actualmente, muchas personas desean conseguir un medio de transporte propio, ya sea para transportarse libremente o tener que transportarse a lugares específicos como los trabajadores a sus centros de trabajo, lamentablemente para ellos representa un gran reto económico y logístico. Este problema se vuelve más evidente en contextos urbanos donde las distancias laborales son largas y los horarios de transporte público no siempre se adaptan a las necesidades individuales. 
 Por otro lado, muchos propietarios de vehículos enfrentan el problema contrario, ya que, sus autos pasan largos periodos sin uso, acumulando costos por mantenimiento, seguros y depreciación, sin generar ningún tipo de retorno económico.
-#### 5W&2H
-**What**
 
-Las personas que necesitan una movilidad flexible y asequible se enfrentan a barreras para acceder a vehículos sin tener que comprar uno o depender de taxis o apps de transporte, lo que resulta costoso o poco eficiente.
-Por otro lado, muchos propietarios de autos tienen vehículos que permanecen estacionados gran parte del tiempo, generando gastos en lugar de ingresos.
+Así mismo, Para analizar los antecedentes y problemáticas del desarrollo nuestro proyecto, estaremos utilizando la técnica de las 5W y 2H (Who, What, When, Where, Why, How, How much). La cual ha sido estructurada de la siguiente manera:
 
-**Why**
+- **Who:** Los principales afectados son trabajadores urbanos y personas sin vehículo propio, quienes requieren un medio de transporte práctico, flexible y económico sin tener que asumir los altos costos de adquirir un auto. Asimismo, también se ven involucrados los propietarios de autos subutilizados, ya que poseen vehículos que permanecen inactivos la mayor parte del tiempo y podrían estar generando ingresos pasivos en lugar de acumular gastos en mantenimiento, seguros e impuestos.  
 
-Actualmente comprar un auto es una inversión alta y no siempre rentable si solo se necesita esporadicamente, ademas utilizar otras alternativas como Uber o taxis no siempre resultará económico o eficientes.
-Por el lado contrario, las personas que no utilizan sus autos representa un desperdicio de recursos y espacio en el garaje.
 
-**Who**
+- **What:** Aquellos que necesitan una alternativa de movilidad accesible enfrentan barreras para acceder a vehículos sin comprarlos o depender de taxis y apps de transporte, que suelen ser costosos o poco eficientes. Al mismo tiempo, muchos dueños de autos se ven perjudicados al no sacar provecho de un recurso valioso que permanece estacionado y genera costos sin retorno.
 
-Los afectados que identificamos son en su mayoría trabajadores urbanos o básicamente personas sin auto propio ya que necesitan un medio de transporte práctico y económico pero no desean asumir los gastos de un auto propio y además los propietarios de autos sin utilizar ya que tienen vehículos que solo usan ocasionalmente y podrían generarse ingresos pasivos en vez de acumular gastos de mantenimiento, seguros e impuestos
 
-**When**
+- **Where:** Esta problemática es especialmente evidente en zonas urbanas densamente pobladas, como Lima, donde el tráfico es caótico, el transporte público suele ser deficiente y las distancias pueden representar un reto para quienes no cuentan con un medio de transporte propio.
 
-Usualmente este problema ocurre a diario, especialmente en horas punta o cuando el transporte público es ineficiente, en temporadas de alta demanda como eventos, feriados, etc.  
 
-**Where**
+- **When:** El problema ocurre de forma recurrente, especialmente durante horas punta, días laborales o épocas de alta demanda como feriados, eventos masivos o temporadas vacacionales, cuando la necesidad de un transporte eficiente se vuelve aún más urgente.  
 
-El problema se hace más visible en ciudades urbanas, como Lima, donde la movilidad es un caos y ir en transporte público a veces puede ser una pesadilla.
 
-**How**
+- **Why:** Comprar un auto representa una inversión elevada que no siempre es rentable para quienes solo lo utilizarían ocasionalmente. Por otro lado, el uso de servicios de taxi o transporte por aplicación puede resultar poco práctico a largo plazo. Al mismo tiempo, tener un vehículo inactivo implica un desperdicio de recursos y espacio, sin aprovechar su potencial económico.  
 
-En su mayoría los trabajadores que dependen del transporte público lo encuentran poco seguro, incómodo o en su mayoría encuentran una sensación de incomodidad. Día a día se ven a trabajadores yendo con la preocupación de llegar tarde a su trabajo debido a no encontrar un transporte público a tiempo.  
-Por otro lado los propietarios de autos que no le dan utilidad no suelen pensar en la idea de rentar sus vehículos a terceros, pero siempre esta la oportunidad de generar un ingreso pasivo lo cual podrá sonar atractivo para ellos
 
-**How Much**
+- **How:** La mayoría de personas que dependen del transporte público lo consideran inseguro, incómodo y poco confiable. Es común ver trabajadores preocupados por llegar tarde debido a la falta de disponibilidad o demoras en el servicio. Por su parte, los propietarios de autos muchas veces no contemplan la opción de alquilar sus vehículos, aunque la posibilidad de obtener ingresos pasivos puede resultarles atractiva si se presenta de manera segura y accesible.  
 
-El problema en sí puede variar de precios, en este caso para los trabajadores puede ser un promedio elevado especialmente si necesitan de movilidad frecuente y por largos trayectos.  
-Para los propietarios de autos en este caso sería una perdida de oportunidades económicas, sus autos podrían generar gastos a futuro como mantenimiento y seguro.
+
+- **How Much:** El impacto económico varía: para los usuarios frecuentes de transporte, los costos pueden ser elevados, especialmente si requieren desplazamientos largos o diarios. Para los propietarios, se traduce en una pérdida de oportunidades de generar ingresos, además del riesgo de que el vehículo represente un pasivo en lugar de un activo, acumulando gastos por mantenimiento, seguro e impuestos.  
+
+<br>
+
+<p align="center">
+  <a>
+    <img src="assets/chapter01/5W2H/5w2h.jpg" style="width:500px; height:auto;" alt="">
+  </a>
+</p>
+
+El problema en sí puede variar de precios, en este caso para los trabajadores puede ser un promedio elevado especialmente si necesitan de movilidad frecuente y por largos trayectos. Para los propietarios de autos en este caso sería una perdida de oportunidades económicas, sus autos podrían generar gastos a futuro como mantenimiento y seguro.
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
@@ -155,7 +191,11 @@ Una app llamada **Moveo** que sirva de intermediario. Los trabajadores pueden bu
 
 El Lean UX Canvas nos ayudó a organizar nuestras ideas sobre cómo ayudar a nuestros usuarios y validar si el proyecto tiene futuro. Estas son algunas partes clave:
 
- <img src="./assets/leanuxcanva.jpg" alt="leanuxcanvaimagen">   
+<p align="center">
+  <a>
+    <img src="assets/chapter01/lean%20ux/leanuxcanva.jpg" style="width:1000px; height:auto;" alt="">
+  </a>
+</p>
 
 ## 1.3. Segmentos Objetivos
 #### Segmento objetivo 1: Trabajadores Urbanos  
