@@ -107,7 +107,7 @@ Así mismo, Para analizar los antecedentes y problemáticas del desarrollo nuest
 <br>
 
 <p align="center">
-  <a href="https://github.com/Teemo-Solutions/report-v2">
+  <a>
     <img src="assets/chapter01/5W2H/5w2h.jpg" style="width:500px; height:auto;" alt="">
   </a>
 </p>
