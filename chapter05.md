@@ -39,7 +39,7 @@ En nuestro proyecto, utilizamos **GitHub** como plataforma para gestionar el có
 - Report: https://github.com/1ASI0729-2510-4313-G4-Moveo/report
 - Landing page: https://github.com/1ASI0729-2510-4313-G4-Moveo/Landing-Page
 - Frontend: https://github.com/1ASI0729-2510-4313-G4-Moveo/frontend
-- Backend: https://github.com/1ASI0729-2510-4313-G4-Moveo/frontend
+- Backend: https://github.com/1ASI0729-2510-4313-G4-Moveo/backend
 
 #### GitFlow Workflow
 Se implementa el modelo de **GitFlow** para gestionar las ramas en nuestros repositorios. A continuación, se detallan las ramas principales:
@@ -86,19 +86,23 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 <img src="./assets/chapter5/landing-deployment.png" />
 
 ## 5.2. Landing Page, Services & Applications Implementation
-## 5.2.X. Sprint n
-## 5.2.X.1. Sprint Planning n
-## 5.2.X.2. Sprint Backlog n
-## 5.2.X.3. Development Evidence for Sprint Review
-## 5.2.X.4. Testing Suite Evidence for Sprint Review
-## 5.2.X.5. Execution Evidence for Sprint Review
-## 5.2.X.6. Services Documentation Evidence for Sprint Review
-## 5.2.X.7. Software Deployment Evidence for Sprint Review
-## 5.2.X.8. Team Collaboration Insights during Sprint
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
+#### 5.2.1.2. Aspect Leaders and Collaborators
+#### 5.2.1.3. Sprint Backlog 1
+#### 5.2.1.4. Development Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
+
+URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Moveo/backend
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
-## 5.3.1. Diseño de Entrevistas
-## 5.3.2. Registro de Entrevistas
-## 5.3.3. Evaluaciones según heurísticas
+### 5.3.1. Diseño de Entrevistas
+### 5.3.2. Registro de Entrevistas
+### 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
 
 ## Conclusiones
