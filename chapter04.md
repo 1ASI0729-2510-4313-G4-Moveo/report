@@ -31,14 +31,168 @@
 
 # **CAPÍTULO IV: PRODUCT DESIGN**
 ## 4.1. Style Guidelines
+En esta sección, presentaremos el concepto de diseño para la página web y la aplicación, para proporcionar a nuestros usuarios una interfaz amigable y funcional. Con este propósito en mente, hemos optado por utilizar elementos visuales que sean fáciles de percibir y que resulten atractivos a la vista.
+
 ### 4.1.1. General Style Guidelines
+Nuestra paleta de colores ha sido cuidadosamente elegida para reflejar los valores centrales de Moveo: movilidad accesible, confianza entre usuarios y proveedores, y una experiencia moderna y sin complicaciones. La interfaz busca ser clara, intuitiva y profesional, transmitiendo seguridad y dinamismo tanto a quienes alquilan vehículos como a quienes los ofrecen. Los colores seleccionados ayudan a reforzar este ambiente, promoviendo una sensación de fluidez, control y cercanía tecnológica.
+
+A continuación, se presenta una breve descripción de los colores que se utilizarán en nuestra aplicación:
+
+**Chromatic Colors:**
+
+#10BEAE (Verde Vitalidad - Principal): Este verde vibrante es el color principal para gran parte de nuestro proyecto. Inspira renovación y energía positiva que se busca promover en los usuarios. Este tono se utiliza para destacar elementos clave e inspirar confianza a lo largo de la experiencia del usuario.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/aqua_color.png"  style="width:500px; height:auto;">
+</p>
+
+#68D585 (Verde Serenidad): Este verde suave y sereno se utiliza para ciertos íconos, aportando una sensación de equilibrio y sutileza. Es un tono que complementa la paleta principal, ayudando a guiar visualmente al usuario sin distraer.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/green_icons_color.png" style="width:500px; height:auto;">
+</p>
+
+#081828 (Azul Profundo - Secundario): Este color azul oscuro se emplea como color secundario en botones, el pie de página y otros elementos visuales. Representa la estabilidad y la confianza, ofreciendo un contraste sólido y profesional frente a los tonos verdes más brillantes de la paleta.
+
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/blue_color.png" style="width:500px; height:auto;">
+</p>
+
+**Achromatic Colors:**
+
+#FFFFFF (Blanco Puro): El blanco es fundamental para los espacios en blanco y como color de fondo principal. Representa la pureza y la claridad, asegurando que el contenido sea fácilmente legible y que la interfaz se sienta abierta y acogedora.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/white_color.png" style="width:500px; height:auto;">
+</p>
+
+#EEEEEE (Gris Suave): Un gris muy claro que se emplea en fondos y separadores. Ofrece una base limpia y ligera, perfecta para mantener una apariencia fresca y ordenada en la interfaz.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/soft_gray_color.png" style="width:500px; height:auto;">
+</p>
+
+#727272 (Gris Equilibrio): Este tono de gris medio se utiliza para elementos secundarios y textos que requieren un enfoque sutil. Representa el equilibrio y la neutralidad, aportando un contraste suave sin dominar la atención visual.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/other_gray.png" style="width:500px; height:auto;">
+</p>
+
+#4F4F4F (Gris Profundo): Este gris oscuro se utiliza para textos y elementos gráficos que requieren mayor peso visual, sin llegar a la intensidad del negro. Es un color que transmite seriedad y formalidad, ideal para secciones importantes del proyecto.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/gray_color.png" style="width:500px; height:auto;">
+</p>
+
+#000000 (Negro Absoluto): El negro se reserva para elementos que necesitan el máximo contraste y definición, como el texto principal y ciertos íconos. Representa la autoridad y la claridad, garantizando la máxima legibilidad y enfoque.
+
+<p align="center">
+  <img src="assets/chapter04/chromatic%20colors/black_color.png" style="width:500px; height:auto;">
+</p>
+
+**Typography: Sans Serif**
+
+Para el proyecto Moveo, utilizaremos una fuente sans serif, que asegura una lectura clara y moderna. Dentro de esta categoría, emplearemos las variaciones de DM Sans y Spartan, ambas conocidas por su simplicidad y elegancia, ideales para mantener una estética limpia y profesional en todos los elementos textuales del sistema.
+
+- **DM Sans - Sans Serif**
+<p align="center">
+  <img src="assets/chapter04/fonts/DMSans.png" style="width:500px; height:auto;">
+</p>
+
+- **Spartan - Sans Serif**
+<p align="center">
+  <img src="assets/chapter04/fonts/spartan.png" style="width:500px; height:auto;">
+</p>
+
+**Icon:**
+<p align="center">
+  <img src="assets/icons/moveo_logo.svg" style="width:300px; height:auto;">
+</p>
+
+El ícono de Moveo transmite una sensación de dinamismo, dirección y fluidez, elementos clave que reflejan el propósito del proyecto. Con una forma circular abierta y una flecha curva hacia el interior, simboliza movimiento continuo, conexión y evolución constante. Este diseño sugiere un enfoque moderno y ágil, ideal para representar soluciones tecnológicas relacionadas con la movilidad, la gestión eficiente de procesos o el flujo inteligente de información. Su estilo minimalista refuerza la idea de claridad, precisión y enfoque en el usuario, atributos que posicionan a Moveo como una propuesta innovadora y en constante avance.
+<p align="center">
+  <img src="assets/chapter04/achromatic%20colors/aqua_color.png" style="width:500px; height:auto;">
+</p>
+
+Este logo no solo representa la identidad visual de Moveo, sino que también encarna nuestra misión de brindar soluciones tecnológicas innovadoras que impulsan el movimiento inteligente, optimizan procesos y conectan a las personas con herramientas diseñadas para mejorar su día a día de manera ágil, intuitiva y eficiente.
+
 ### 4.1.2. Web Style Guidelines
+Las Web Style Guidelines de Moveo han sido desarrolladas con el objetivo de ofrecer una experiencia de usuario óptima y consistente en todos los dispositivos. Siendo diseñada bajo los principios de Web Responsive Design, asegurando que cada elemento de la interfaz se ajuste fluidamente a diferentes tamaños de pantalla, desde dispositivos móviles hasta monitores de escritorio.
+
+Uno de los enfoques clave en el diseño de nuestra interfaz es la implementación del patrón de diseño en forma de Z. Este patrón guía intuitivamente el ojo del usuario a través de la página, comenzando desde la esquina superior izquierda, pasando por el contenido central y terminando en la esquina inferior derecha. Este flujo natural facilita la navegación, permitiendo que los usuarios accedan rápidamente a la información más importante, como diagnósticos, citas y seguimientos de síntomas.
+
+Nuestro diseño adaptable y la implementación del patrón en Z aseguran que, sin importar el dispositivo utilizado, la experiencia de usuario sea fluida, intuitiva y centrada en las necesidades de todas las personas que interactúan con la plataforma.
+
 ## 4.2. Information Architecture
+Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page.
+
+### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
+Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de Moveo.
+
+**Para la Landing Page:**
+- Título: Moveo 
+
+
+- Descripción: Moveo - aplicación de movilidad para alquilar autos cercanos y generar ingresos compartiendo tu vehículo - Landing Page.
+
+
+- Keywords: Alquiler de Autos, Movilidad Urbana, Compartir Vehículo, Rentar Auto, Carsharing, Ingresos por Vehículo, Transporte Inteligente, Plataforma de Autos, Movilidad Sostenible, Moveo App
+
+
+- Author: GPT4 team
+
+- - -
+
+**Para el Sitio Web:**
+- Título: Moveo 
+
+
+- Descripción: Moveo - aplicación de movilidad para alquilar autos cercanos y generar ingresos compartiendo tu vehículo - Web Site.
+
+
+- Keywords: Alquiler de Autos, Movilidad Urbana, Compartir Vehículo, Rentar Auto, Carsharing, Ingresos por Vehículo, Transporte Inteligente, Plataforma de Autos, Movilidad Sostenible, Moveo App
+
+
+- Author: GPT4 team
+
 ### 4.2.4. Searching Systems
+Para garantizar una experiencia de usuario eficiente y libre de frustraciones, Moveo implementa un sistema de búsqueda optimizado que permite a los usuarios acceder rápidamente a la información que necesitan, sin sentirse perdidos en medio del volumen de datos.
+
+Dentro de la aplicación, los usuarios podrán realizar búsquedas a través de una barra inteligente ubicada en la parte superior de las secciones principales, como el catálogo de vehículos, historial de alquileres y panel de gestión de vehículos compartidos. Esta barra permitirá búsqueda por palabras clave, como modelo del vehículo, ubicación, precio, tipo de combustible, disponibilidad por fechas, y más.
+
+Además, se incorporarán filtros dinámicos que permitirán refinar los resultados según:
+
+- Ubicación
+
+- Rango de precios
+
+- Tipo de vehículo
+
+- Valoraciones de otros usuarios
+
+- Disponibilidad por horario o fechas específicas
+
+Una vez realizada la búsqueda, los resultados se mostrarán en un diseño de tarjetas visuales, que incluirán imágenes del vehículo, características principales (año, modelo, precio por hora/día), distancia al usuario, y botón de acción rápida para reservar o solicitar más información. Este enfoque visual permite una navegación rápida e intuitiva.
+
+Del lado de los propietarios, el sistema también incluirá un buscador de reservas activas, ingresos generados, y opciones de filtrado por fechas o tipo de uso del vehículo, facilitando el monitoreo de su rendimiento dentro de la plataforma. Con estas funcionalidades, Moveo se asegura de que tanto arrendatarios como propietarios puedan encontrar exactamente lo que necesitan, de forma clara, rápida y ordenada.
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+- **Desktop - Wireframes:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/wireframe/wireframe.png" style="width:800px; height:auto;">
+</p>
+
+- **Mobile - Wireframes:**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20design/wireframe/wireframe-mobile.png" style="width:350px; height:auto;">
+</p>
+
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
