@@ -34,11 +34,13 @@
 En esta sección, presentaremos el concepto de diseño para la página web y la aplicación, para proporcionar a nuestros usuarios una interfaz amigable y funcional. Con este propósito en mente, hemos optado por utilizar elementos visuales que sean fáciles de percibir y que resulten atractivos a la vista.
 
 ### 4.1.1. General Style Guidelines
-Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digital de apoyo a la salud mental y el bienestar, tanto para los psiquiatras como para sus pacientes. El objetivo principal de nuestra plataforma es crear un espacio donde la confianza, la claridad y la seguridad sean primordiales, asegurando que la interacción entre profesionales y pacientes sea fluida y efectiva. Este enfoque se refleja en la selección de colores, que buscan transmitir calma, confiabilidad y profesionalismo. A continuación, se presenta una breve descripción de los colores que se utilizarán en nuestra aplicación:
+Nuestra paleta de colores ha sido cuidadosamente elegida para reflejar los valores centrales de Moveo: movilidad accesible, confianza entre usuarios y proveedores, y una experiencia moderna y sin complicaciones. La interfaz busca ser clara, intuitiva y profesional, transmitiendo seguridad y dinamismo tanto a quienes alquilan vehículos como a quienes los ofrecen. Los colores seleccionados ayudan a reforzar este ambiente, promoviendo una sensación de fluidez, control y cercanía tecnológica.
+
+A continuación, se presenta una breve descripción de los colores que se utilizarán en nuestra aplicación:
 
 **Chromatic Colors:**
 
-#10BEAE (Verde Vitalidad - Principal): Este verde vibrante es el color principal para gran parte de nuestro proyecto. Inspira renovación y energía positiva, reflejando la vitalidad y el bienestar que Psymed busca promover en sus usuarios. Este tono se utiliza para destacar elementos clave e inspirar confianza a lo largo de la experiencia del usuario.
+#10BEAE (Verde Vitalidad - Principal): Este verde vibrante es el color principal para gran parte de nuestro proyecto. Inspira renovación y energía positiva que se busca promover en los usuarios. Este tono se utiliza para destacar elementos clave e inspirar confianza a lo largo de la experiencia del usuario.
 
 <p align="center">
   <img src="assets/chapter04/achromatic%20colors/aqua_color.png"  style="width:500px; height:auto;">
