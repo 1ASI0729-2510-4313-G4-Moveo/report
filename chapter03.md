@@ -67,3 +67,27 @@
 |US22|Visualizar reservas de mis vehículos|Como visitante del segmento proveedores, quiero consultar un historial y estado de reservas realizadas a mis vehículos|**Scenario 1:**<br>**Given** qué hay reservas activas o pasadas<br>**When** accede a la sección “Reservas de mis vehículos”<br>**Then** ve una lista con cada reserva, fechas y estado<br>**Scenario 2:**<br>**Given** que no hay reservas registradas<br>**When** ingresa a esa sección<br>**Then** ve un mensaje “Aún no tienes reservas”|EP02|
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
+|**# Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points(1 / 2 / 3 / 5)**|
+|--|-| --| --|-- |
+|1|US01|Registro de nuevos usuarios|Como visitante del segmento del segmento trabajadores, quiero registrarme para acceder al servicio de alquiler de autos.|3|
+|2|US02|Inicio de sesión seguro|Como visitante del segmento trabajadores, quiero iniciar sesión de manera segura para usar la plataforma.|2|
+|3|US03|Registro de autos por proveedor|Como visitante del segmento de proveedores, quiero registrar mis autos para ponerlos en alquiler.|3|
+|4|US04|Visualización de autos disponibles|Como visitante del segmento trabajadores, quiero visualizar los autos disponibles en un mapa.|3|
+|5|US05|Reserva de auto|Como visitante del segmento trabajadores, quiero reservar un auto para asegurar su disponibilidad.|2|
+|6|US06|Implementación de Call to Action|Como visitante del segmento trabajadores, quiero encontrar botones de acción clara para facilitar la interacción.|3|
+|7|US07|Creación de Footer Informativo|Como visitante del segmento (trabajadores), quiero encontrar en el footer información sobre contacto, términos y condiciones y enlaces sociales.|1|
+|8|US08|Sección de Testimonios de Usuarios|Como visitante del segmento trabajadores, quiero visualizar opiniones y experiencias de otros usuarios para confiar en el servicio antes de usarlo.|3|
+|9|US09|Sección de Preguntas Frecuentes (FAQ)|Como visitante del segmento trabajadores, quiero consultar una sección de preguntas frecuentes para resolver mis dudas sin contacto humano.|2|
+|10|US10|Visualización de estacionamientos en el mapa|Como usuario, quiero ver en el mapa los estacionamientos disponibles cercanos para poder elegir uno al recibir el auto|5|
+|11|US11|Desbloqueo del auto mediante la app|Como usuario, quiero desbloquear el auto desde la aplicación sin necesidad de contacto físico o intermediarios|3|
+|12|US12|Verificación de mantenimiento del vehículo|Como usuario, quiero recibir notificaciones sobre cuándo es necesario realizar mantenimiento a mis vehículos en renta|3|
+|13|US13|Visualizar precios y tarifas|Como visitante del segmento objetivo trabajadores quisiera poder visualizar los precios y tarifas que ofrece la aplicación para saber si me conviene comprar sus servicios|2|
+|14|US14|Visualizar principales funciones|Como visitante del segmento objetivo de trabajadores y proveedores, quiero poder ver las funcionalidades que ofrece la aplicación para saber qué beneficio puedo tener|3|
+|15|US15|Ver el nombre, logo y eslogan de la aplicación|Como visitante del segmento trabajadores y proveedores, quiero poder visualizar el nombre y eslogan de la aplicación para saber de qué se trata a primera vista |1|
+|16|US16|Visualizar el nombre del equipo |Como visitante del segmento trabajadores y proveedores, quiero poder visualizar el nombre del equipo que diseñó la aplicación para saber quién la creó y darle mis respetos|3|
+|17|US17|Sección de contacto|Como visitante del segmento trabajadores y proveedores, quiero poder contactar a la startup creadora de la app para notificar si hay algun error o si simplemente quiero hablar con ellos|3|
+|18|US18|Landing Page Responsive|Como visitante del segmento trabajadores y proveedores, quiero entrar a la landing page desde mi movil y mi pc sin ningun problema para tener más flexibilidad al momento de registrarse|2|
+|19|US19|Editar información de un vehículo|Como visitante del segmento proveedores, quiero actualizar datos de un vehículo (tarifa, descripción) para mantener la información al día.|3|
+|20|US20|Desactivar vehículo de la plataforma|Como visitante del segmento proveedores, quiero desactivar un vehículo para que deje de aparecer disponible en Moveo.|3|
+|21|US21|Subir fotos al listado de vehículo|Como visitante del segmento proveedores, quiero agregar o eliminar fotos de mis vehículos para mostrarlos mejor a los arrendatarios.|5|
+|22|US22|Visualizar reservas de mis vehículos|Como visitante del segmento proveedores, quiero consultar un historial y estado de reservas realizadas a mis vehículos|3|
