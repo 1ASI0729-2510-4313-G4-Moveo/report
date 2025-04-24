@@ -76,6 +76,54 @@ Se emplea para los mensajes de commmits el estándar de **Conventional Commits**
 - **revert**: Revierte un commit anterior
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+
+Usaremos buenas prácticas para que el código sea coherente, entendible y sostenible a lo largo del tiempo.
+
+### General
+
+- Todo el código y sus elementos estarán escritos en **inglés**.
+- La codificación será en **UTF-8**: `<meta charset="UTF-8">`.
+- Convenciones en nombres:
+  - **lowercase** para etiquetas HTML.
+  - **kebab-case** para clases CSS.
+  - **camelCase** para IDs, variables y funciones en JavaScript.
+  - **PascalCase** para clases en C#.
+- Indentación uniforme: 2 o 4 espacios (según el proyecto).
+- Comentarios claros y en inglés, explicando el *por qué*, no solo el *qué*.
+
+### HTML
+
+- Todas las etiquetas deben cerrarse correctamente (`<img />`, `<input />`).
+- Incluir la extensión en las referencias a archivos (.css, .js, .png, etc.).
+- Se utilizó una estructura semántica clara:
+
+| Etiqueta | Uso |
+|---------|-----|
+| `<header>` | Contiene elementos introductorios como la barra de búsqueda. |
+| `<nav>` | Define la navegación principal del sitio. |
+| `<div>` | Contenedor general para aplicar estilos y organizar el layout. |
+| `<img />` | Inserta imágenes en distintas secciones. |
+| `<ul>` | Define listas desordenadas (ej. menú de navegación). |
+| `<li>` | Elementos dentro de listas, como en la barra de navegación o en el blog. |
+| `<a>` | Crea hipervínculos para navegar entre secciones. |
+| `<p>` | Define párrafos de texto. |
+| `<button>` | Botones para acciones específicas del usuario. |
+| `<h1>` - `<h4>` | Títulos y subtítulos jerárquicos. |
+
+### CSS
+
+- El `body` tendrá `width: 100%`.
+- Clases en `kebab-case` según su propósito: `.header`, `.main-container`, `.cta-button`.
+- No se deben usar nombres genéricos como `.red`, `.big` o `.centered`.
+- Reinicio global de márgenes y padding:
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 ### 5.1.4. Software Deployment Configuration
 Para la realizacion del despliegue debemos seguir los siguientes pasos:
   1. Primero, creamos un nuevo [repositorio en GitHub](https://github.com/1ASI0729-2510-4313-G4-Moveo/Landing-Page). Después, subimos los archivos del  proyecto a ese repositorio.
