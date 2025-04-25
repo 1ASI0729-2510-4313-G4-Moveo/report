@@ -91,3 +91,5 @@
 |20|US20|Desactivar vehículo de la plataforma|Como visitante del segmento proveedores, quiero desactivar un vehículo para que deje de aparecer disponible en Moveo.|3|
 |21|US21|Subir fotos al listado de vehículo|Como visitante del segmento proveedores, quiero agregar o eliminar fotos de mis vehículos para mostrarlos mejor a los arrendatarios.|5|
 |22|US22|Visualizar reservas de mis vehículos|Como visitante del segmento proveedores, quiero consultar un historial y estado de reservas realizadas a mis vehículos|3|
+
+<img alt="backlog" src="./assets/backlog.png" />
