@@ -190,7 +190,120 @@ Todas las etiquetas fueron diseñadas para ser intuitivas y facilitar la navegac
 
 **2. Etiquetas Principales**
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Plataforma</th>
+      <th>Sección</th>
+      <th>Etiqueta</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Landing Page</td>
+      <td>Home</td>
+      <td>Home</td>
+      <td>Página principal de bienvenida</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>About Us</td>
+      <td>About Us</td>
+      <td>Información sobre la Startup</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Pricing</td>
+      <td>Pricing</td>
+      <td>Planes y precios de alquiler</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Team Members</td>
+      <td>Our Team</td>
+      <td>Presentación de los miembros del equipo</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Testimonials</td>
+      <td>Testimonials</td>
+      <td>Opiniones de usuarios anteriores</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>FAQ</td>
+      <td>FAQ</td>
+      <td>Preguntas frecuentes</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Login</td>
+      <td>Sign In</td>
+      <td>Ingreso de usuario registrado</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Register</td>
+      <td>Sign Up</td>
+      <td>Registro de nuevo usuario</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Dashboard</td>
+      <td>Dashboard</td>
+      <td>Panel principal del usuario</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Search Cars</td>
+      <td>Search Cars</td>
+      <td>Buscar vehículos disponibles</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>My Reservations</td>
+      <td>My Reservations</td>
+      <td>Ver y administrar reservas</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>History</td>
+      <td>History</td>
+      <td>Historial de viajes y pagos</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Payments</td>
+      <td>Payments</td>
+      <td>Gestión de pagos y facturación</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Profile</td>
+      <td>Profile</td>
+      <td>Configuración de información personal</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Support Center</td>
+      <td>Support Center</td>
+      <td>Centro de ayuda y soporte</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Settings</td>
+      <td>Settings</td>
+      <td>Ajustes generales de la cuenta</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Log Out</td>
+      <td>Log Out</td>
+      <td>Cierre de sesión del usuario</td>
+    </tr>
+  </tbody>
+</table>
 
 **3. Asociaciones entre Etiquetas:**
 - Home lleva a About Us, Pricing, Testimonials y Our Team como extensiones naturales para conocer el servicio.
