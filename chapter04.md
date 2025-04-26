@@ -129,6 +129,52 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 ### 4.2.1. Organization Systems
 Se han definido los siguientes esquemas para organizar la información de la Web Application, la Landing Page y la App Móvil:
 
+1. **Visual Organization of Content**
+
+- **Jerárquica (Visual Hierarchy):**
+  - Web Application:
+    - Dashboard principal muestra primero:
+      - Estado actual de las reservas (activa, futura o completada). 
+      - Acciones rápidas: buscar auto, ver historial, editar perfil. 
+    - Área secundaria para gestión de cuenta, soporte técnico, configuración avanzada. 
+  - Landing Page:
+    - About us y Team Members   . 
+    - Beneficios resumidos y testimonios de clientes. 
+    - Sección de preguntas frecuentes. 
+    - Footer con links secundarios.
+
+
+- **Secuencial (Step-by-Step Process):**
+  - Proceso de alquiler en la Web Application y App Móvil:
+    1. Seleccionar ubicación de recogida y entrega. 
+    2. Elegir rango de fechas y horas. 
+    3. Seleccionar vehículo según preferencias. 
+    4. Confirmar reserva y pago. 
+    5. Obtener instrucciones para recoger el auto.
+
+
+- **Matricial (Matrix Organization):**
+  - Comparador de vehículos: Permite visualizar autos según características (precio, tamaño, tipo de motor, año de fabricación) en un formato de cuadrícula de comparación.
+
+2. **Categorization Schemes**
+   
+- **Alfabético:** Listado de vehículos organizados por marca (Ford, Hyundai, Toyota, etc.) en la sección de catálogo.
+
+- **Cronológico:** Historial de reservas organizadas de la más reciente a la más antigua en la sección “My Reservations”.
+
+- **Por Tópicos:** 
+  - FAQ dividido por categorías como: 
+    1. Reservas 
+    2. Pagos 
+    3. Multas/Infracciones 
+    4. Uso de la app
+
+- **Según Audiencia:**
+  - En la Landing Page:
+    - Segmento para Turistas (“Rent and Explore Freely”). 
+    - Segmento para Trabajadores (“Your Reliable Daily Transport”). 
+  - Diferenciación de mensajes promocionales y funcionalidades destacadas dependiendo del perfil del usuario en el onboarding.
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de Moveo.
