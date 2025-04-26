@@ -127,7 +127,194 @@ Nuestro diseño adaptable y la implementación del patrón en Z aseguran que, si
 Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page.
 
 ### 4.2.1. Organization Systems
+Se han definido los siguientes esquemas para organizar la información de la Web Application, la Landing Page y la App Móvil:
+
+1. **Visual Organization of Content**
+
+- **Jerárquica (Visual Hierarchy):**
+  - Web Application:
+    - Dashboard principal muestra primero:
+      - Estado actual de las reservas (activa, futura o completada). 
+      - Acciones rápidas: buscar auto, ver historial, editar perfil. 
+    - Área secundaria para gestión de cuenta, soporte técnico, configuración avanzada. 
+  - Landing Page:
+    - About us y Team Members   . 
+    - Beneficios resumidos y testimonios de clientes. 
+    - Sección de preguntas frecuentes. 
+    - Footer con links secundarios.
+
+
+- **Secuencial (Step-by-Step Process):**
+  - Proceso de alquiler en la Web Application y App Móvil:
+    1. Seleccionar ubicación de recogida y entrega. 
+    2. Elegir rango de fechas y horas. 
+    3. Seleccionar vehículo según preferencias. 
+    4. Confirmar reserva y pago. 
+    5. Obtener instrucciones para recoger el auto.
+
+
+- **Matricial (Matrix Organization):**
+  - Comparador de vehículos: Permite visualizar autos según características (precio, tamaño, tipo de motor, año de fabricación) en un formato de cuadrícula de comparación.
+
+2. **Categorization Schemes**
+   
+- **Alfabético:** Listado de vehículos organizados por marca (Ford, Hyundai, Toyota, etc.) en la sección de catálogo.
+
+- **Cronológico:** Historial de reservas organizadas de la más reciente a la más antigua en la sección “My Reservations”.
+
+- **Por Tópicos:** 
+  - FAQ dividido por categorías como: 
+    1. Reservas 
+    2. Pagos 
+    3. Multas/Infracciones 
+    4. Uso de la app
+
+- **Según Audiencia:**
+  - En la Landing Page:
+    - Segmento para Turistas (“Rent and Explore Freely”). 
+    - Segmento para Trabajadores (“Your Reliable Daily Transport”). 
+  - Diferenciación de mensajes promocionales y funcionalidades destacadas dependiendo del perfil del usuario en el onboarding.
+
 ### 4.2.2. Labeling Systems
+Para garantizar la simplicidad y evitar la confusión entre visitantes y usuarios, hemos definido un sistema de etiquetado claro, consistente y basado en el mínimo número de palabras posible.
+Todas las etiquetas fueron diseñadas para ser intuitivas y facilitar la navegación, la búsqueda y el entendimiento inmediato de las funcionalidades del sistema.
+
+**1. Principios a seguir:**
+
+- Uso de palabras cortas, claras y específicas. 
+- Consistencia de términos entre la Web Application y la App Móvil. 
+- Asociación directa entre las etiquetas y la acción o información representada. 
+- Evitar tecnicismos innecesarios o frases ambiguas.
+- Uso de términos universales y en inglés.
+
+
+**2. Etiquetas Principales**
+
+<table>
+  <thead>
+    <tr>
+      <th>Plataforma</th>
+      <th>Sección</th>
+      <th>Etiqueta</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Landing Page</td>
+      <td>Home</td>
+      <td>Home</td>
+      <td>Página principal de bienvenida</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>About Us</td>
+      <td>About Us</td>
+      <td>Información sobre la Startup</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Pricing</td>
+      <td>Pricing</td>
+      <td>Planes y precios de alquiler</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Team Members</td>
+      <td>Our Team</td>
+      <td>Presentación de los miembros del equipo</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Testimonials</td>
+      <td>Testimonials</td>
+      <td>Opiniones de usuarios anteriores</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>FAQ</td>
+      <td>FAQ</td>
+      <td>Preguntas frecuentes</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Login</td>
+      <td>Sign In</td>
+      <td>Ingreso de usuario registrado</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Register</td>
+      <td>Sign Up</td>
+      <td>Registro de nuevo usuario</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Dashboard</td>
+      <td>Dashboard</td>
+      <td>Panel principal del usuario</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Search Cars</td>
+      <td>Search Cars</td>
+      <td>Buscar vehículos disponibles</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>My Reservations</td>
+      <td>My Reservations</td>
+      <td>Ver y administrar reservas</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>History</td>
+      <td>History</td>
+      <td>Historial de viajes y pagos</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Payments</td>
+      <td>Payments</td>
+      <td>Gestión de pagos y facturación</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Profile</td>
+      <td>Profile</td>
+      <td>Configuración de información personal</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Support Center</td>
+      <td>Support Center</td>
+      <td>Centro de ayuda y soporte</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Settings</td>
+      <td>Settings</td>
+      <td>Ajustes generales de la cuenta</td>
+    </tr>
+    <tr>
+      <td>Web App & Mobile</td>
+      <td>Log Out</td>
+      <td>Log Out</td>
+      <td>Cierre de sesión del usuario</td>
+    </tr>
+  </tbody>
+</table>
+
+**3. Asociaciones entre Etiquetas:**
+- Home lleva a About Us, Pricing, Testimonials y Our Team como extensiones naturales para conocer el servicio.
+- Sign In y Sign Up están asociadas a la conversión del visitante en usuario registrado.
+- Search Cars se conecta directamente a la acción de Reserve Car dentro de la Web App.
+- My Reservations y History se vinculan para gestionar reservas actuales y pasadas.
+- Payments se relaciona a History para ver los detalles financieros de cada reserva.
+- Support Center refuerza la ayuda si las dudas no son resueltas en el FAQ.
+
+El sistema de etiquetado garantiza rapidez de navegación, reducción del esfuerzo cognitivo y consistencia en todo el ecosistema digital, permitiendo a los visitantes y usuarios adaptarse intuitivamente tanto en la Landing Page como en la Web Application y Mobile App.
+
 ### 4.2.3. SEO Tags and Meta Tags
 Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de Moveo.
 
