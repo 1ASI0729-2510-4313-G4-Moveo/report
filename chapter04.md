@@ -127,6 +127,8 @@ Nuestro diseño adaptable y la implementación del patrón en Z aseguran que, si
 Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de la web y la landing page.
 
 ### 4.2.1. Organization Systems
+Se han definido los siguientes esquemas para organizar la información de la Web Application, la Landing Page y la App Móvil:
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de Moveo.
