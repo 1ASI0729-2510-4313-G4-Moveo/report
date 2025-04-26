@@ -176,6 +176,32 @@ Se han definido los siguientes esquemas para organizar la información de la Web
   - Diferenciación de mensajes promocionales y funcionalidades destacadas dependiendo del perfil del usuario en el onboarding.
 
 ### 4.2.2. Labeling Systems
+Para garantizar la simplicidad y evitar la confusión entre visitantes y usuarios, hemos definido un sistema de etiquetado claro, consistente y basado en el mínimo número de palabras posible.
+Todas las etiquetas fueron diseñadas para ser intuitivas y facilitar la navegación, la búsqueda y el entendimiento inmediato de las funcionalidades del sistema.
+
+**1. Principios a seguir:**
+
+- Uso de palabras cortas, claras y específicas. 
+- Consistencia de términos entre la Web Application y la App Móvil. 
+- Asociación directa entre las etiquetas y la acción o información representada. 
+- Evitar tecnicismos innecesarios o frases ambiguas.
+- Uso de términos universales y en inglés.
+
+
+**2. Etiquetas Principales**
+
+
+
+**3. Asociaciones entre Etiquetas:**
+- Home lleva a About Us, Pricing, Testimonials y Our Team como extensiones naturales para conocer el servicio.
+- Sign In y Sign Up están asociadas a la conversión del visitante en usuario registrado.
+- Search Cars se conecta directamente a la acción de Reserve Car dentro de la Web App.
+- My Reservations y History se vinculan para gestionar reservas actuales y pasadas.
+- Payments se relaciona a History para ver los detalles financieros de cada reserva.
+- Support Center refuerza la ayuda si las dudas no son resueltas en el FAQ.
+
+El sistema de etiquetado garantiza rapidez de navegación, reducción del esfuerzo cognitivo y consistencia en todo el ecosistema digital, permitiendo a los visitantes y usuarios adaptarse intuitivamente tanto en la Landing Page como en la Web Application y Mobile App.
+
 ### 4.2.3. SEO Tags and Meta Tags
 Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de Moveo.
 
