@@ -131,6 +131,40 @@ Para las preguntas decidimos antes de todo explicar de qué va nuestro tema, las
 <img src="assets/chapter2/User persona - Proveedor.png">
 
 ### 2.3.2. User Task Matrix
+
+#### Trabajador Urbano
+
+Esta tabla resume las principales actividades que realiza un usuario trabajador urbano, quien necesita soluciones eficientes para sus desplazamientos cotidianos por la ciudad, especialmente hacia su trabajo.
+
+----------
+|Task|Importancia|Frecuencia|
+|-----|--------------|---------|
+|Buscar rutas eficientes para ir al trabajo|High|Daily|
+|Comparar precios entre opciones de movilidad|High|Daily|
+|Reservar transporte de manera rápida y segura|High|Many|
+|Verificar el tiempo estimado de llegada y condiciones del tráfico|High|Many|
+|Valorar o calificar el servicio recibido|Moderate|Rare|
+|Guardar rutas favoritas|Low|Rare|
+|Contactar al proveedor en caso de incidencias|Moderate|Rare|
+
+
+
+#### Proveedor de Auto
+
+Esta tabla resume las tareas que realiza un proveedor de auto (persona que ofrece su vehículo como opción de transporte), cuyo objetivo es monetizar su vehículo maximizando su uso.
+
+------
+|Task|Importancia|Frecuencia|
+|-----|--------------|---------|
+|Registrar el vehículo en la plataforma|High|Rare|
+|Establecer horarios de disponibilidad|High|Weekly|
+|Gestionar solicitudes y reservas de viajes|High|Many|
+|Verificar datos del pasajero antes del viaje|Moderate|Many|
+|Recibir pagos de manera segura|Moderate|Many|
+|Consultar estadísticas de uso e ingresos|Moderate|Weekly|
+|Calificar a los usuarios después del viaje|Low|Rare|
+|Modificar la disponibilidad o condiciones del servicio|Moderate|Weekly|
+
 ### 2.3.3. User Journey Mapping
 #### Segmento 1: Trabajador urbano
 <img src="assets/chapter2/User journey map - trabajador.png">
@@ -139,6 +173,13 @@ Para las preguntas decidimos antes de todo explicar de qué va nuestro tema, las
 <img src="assets/chapter2/User journey map - proveedor.png">
 
 ### 2.3.4. Empathy Mapping
+
+#### Segmento 1: Trabajador urbano
+<img src="assets/chapter2/Trabajador - Empathy map.png">
+
+#### Segmento 2: Proveedor de auto
+<img src="assets/chapter2/Proveedor - Empathy map.png">
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language.
 | **Término (Inglés)** |**Término (Español)** | **Definición** |
