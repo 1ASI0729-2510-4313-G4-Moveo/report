@@ -608,3 +608,4 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
+<img src="assets/chapter04/database.png" />
