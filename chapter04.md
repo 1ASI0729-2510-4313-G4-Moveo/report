@@ -381,18 +381,458 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
 
 
 ### 4.3.2. Landing Page Mock-up
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup5.png" style="width:600px; height:auto;">
+</p>
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Historial.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Historial 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Historial 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Informacion de Pago.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Informacion de Pago 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Proveedor.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Proveedor 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP .png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/InfoPagoP.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/InfoPagoP 2.png" style="width:600px; height:auto;">
+</p>
+
 ### 4.4.2. Web Applications Wire flow Diagrams
+
+<p align="center">
+  <img src="assets/chapter04/wireflow/wireflow.png" style="width:600px; height:auto;">
+</p>
+
+Link del wireflow diagrams: https://lucid.app/lucidchart/9cdef739-cc7e-4c87-bd8e-6bffdbcd0134/edit?view_items=BhmasF0meFeN&invitationId=inv_5f89d871-f295-4b3e-9348-cf5af6ab0940
 ### 4.4.3. Web Applications Mock-ups
+
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Historial.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Historial 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Historial 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Informacion de Pago.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Informacion de Pago 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Proveedor.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Proveedor 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP .png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/InfoPagoP .png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/InfoPagoP 2.png" style="width:600px; height:auto;">
+</p>
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+<p align="center">
+  <img src="assets/userflow/userflow.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow6.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow7.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow8.png" style="width:600px; height:auto;">
+</p>
+
+Link a la parte 1 del userflow en lucidchart:
+- Parte 1
+https://lucid.app/lucidchart/41a45b15-a31f-4d40-8b54-ae29cbfd528a/edit?viewport_loc=-23%2C72%2C2237%2C1109%2CbLmanzMPT3G7&invitationId=inv_e3d6bee7-388c-4adb-afaa-053ebb2be412
+- Parte 2
+https://lucid.app/lucidchart/cdc929f2-25ef-4684-b019-5a526f18bb35/edit?viewport_loc=-1550%2C-1351%2C5798%2C3748%2C0_0&invitationId=inv_b19dc14a-c643-4ee4-901c-78e25fad7cd7
+
 ## 4.5. Web Applications Prototyping
+<p align="center">
+  <img src="assets/chapter04/prototype/prototype.png" style="width:600px; height:auto;">
+</p>
+
+Link al prototipo:
+https://www.figma.com/proto/nrxEj7WzMbOci6Qe0h9zGO/Untitled?node-id=1-49&t=OV9Jld3INRoD278N-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A49
+
 ## 4.6. Domain-Driven Software Architecture
+
 ### 4.6.1. Software Architecture Context Diagram
+<p align="center">
+  <img src="assets/chapter04/C4/Context.png" style="width:800px; height:auto;">
+</p>
+
 ### 4.6.2. Software Architecture Container Diagrams
+<p align="center">
+  <img src="assets/chapter04/C4/Container.png" style="width:800px; height:auto;">
+</p>
+
 ### 4.6.3. Software Architecture Components Diagrams
+<p align="center">
+  <img src="assets/chapter04/C4/Components.png" style="width:800px; height:auto;">
+</p>
+
+- Link del Structurizr
+https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
+
 ## 4.7. Software Object-Oriented Design
+
 ### 4.7.1. Class Diagrams
+<img src="assets/chapter04/class-diagram.png" />
+
 ### 4.7.2. Class Dictionary
+
+###### 1. `User`
+
+| Atributo  | Tipo de Variable  | Descripción                                        |
+|-----------|-------------------|----------------------------------------------------|
+| id        | int               | Identificador único del usuario                    |
+| name      | Name (VO)         | Nombre completo del usuario                         |
+| email     | Email (VO)        | Dirección de correo electrónico del usuario        |
+| password  | Password (VO)     | Contraseña encriptada                              |
+| phone     | PhoneNumber (VO)  | Número de teléfono del usuario                     |
+
+---
+
+###### 2. `Worker` (hereda de `User`)
+
+| Atributo       | Tipo de Variable   | Descripción                              |
+|----------------|--------------------|------------------------------------------|
+| driverLicense  | DriverLicense (VO) | Información sobre la licencia de conducir |
+| paymentMethod  | PaymentMethod (VO) | Método de pago preferido                |
+
+---
+
+###### 3. `Owner` (hereda de `User`)
+
+| Atributo    | Tipo de Variable   | Descripción                           |
+|-------------|--------------------|---------------------------------------|
+| bankAccount | BankAccount (VO)   | Detalles de la cuenta bancaria para recibir pagos |
+
+---
+
+###### 4. `Car`
+
+| Atributo     | Tipo de Variable   | Descripción                             |
+|--------------|--------------------|-----------------------------------------|
+| id           | int                | Identificador único del automóvil       |
+| brand        | string             | Marca del automóvil (ej. Toyota, Honda) |
+| model        | string             | Modelo del automóvil (ej. Corolla, Civic)|
+| year         | int                | Año de fabricación del automóvil        |
+| licensePlate | LicensePlate (VO)  | Detalles de la matrícula del automóvil  |
+| location     | Location (VO)      | Ubicación geográfica del automóvil      |
+| pricePerHour | Money (VO)         | Precio de alquiler por hora             |
+| available    | boolean            | Indica si el automóvil está disponible para alquiler |
+
+---
+
+###### 5. `Booking`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único de la reserva                    |
+| startDate    | Date               | Fecha y hora de inicio de la reserva                 |
+| endDate      | Date               | Fecha y hora de finalización de la reserva           |
+| status       | string             | Estado actual de la reserva (ej. pendiente, confirmada, cancelada) |
+
+---
+
+###### 6. `Payment`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único del pago                         |
+| amount       | Money (VO)         | Monto pagado por la reserva                          |
+| paymentDate  | Date               | Fecha en la que se procesó el pago                   |
+| paymentStatus| string             | Estado del pago (ej. pendiente, completado, fallido) |
+
+---
+
+###### 7. `Review`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| id           | int                | Identificador único de la reseña                  |
+| rating       | int                | Calificación otorgada (ej. de 1 a 5 estrellas)     |
+| comment      | string             | Comentario del usuario                            |
+| date         | Date               | Fecha en que se envió la reseña                   |
+
+---
+
+###### 8. `InsurancePolicy`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único de la póliza de seguro          |
+| providerName | string             | Nombre de la aseguradora                            |
+| policyNumber | string             | Número de la póliza                                 |
+| validFrom    | Date               | Fecha de inicio de la validez de la póliza          |
+| validTo      | Date               | Fecha de finalización de la validez de la póliza    |
+
+---
+
+###### 9. `Notification`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único de la notificación              |
+| message      | string             | Contenido del mensaje de notificación               |
+| type         | string             | Tipo de notificación (ej. información, alerta, advertencia) |
+| sentAt       | Date               | Fecha y hora en que se envió la notificación         |
+
+---
+
+###### 10. `SupportTicket`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único del ticket de soporte           |
+| issueDescription| string          | Descripción del problema reportado por el usuario  |
+| status       | string             | Estado del ticket (ej. abierto, cerrado)            |
+| createdAt    | Date               | Fecha y hora en que se creó el ticket               |
+
+---
+
+###### 11. `VehicleCategory`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único de la categoría del vehículo    |
+| name         | string             | Nombre de la categoría (ej. SUV, sedan, hatchback)   |
+| description  | string             | Descripción de la categoría                          |
+
+---
+
+###### 12. `Name`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| firstName    | string             | Primer nombre                                      |
+| lastName     | string             | Apellido                                           |
+
+---
+
+###### 13. `Email`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| address      | string             | Dirección completa de correo electrónico           |
+
+---
+
+###### 14. `Password`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| encrypted    | string             | Contraseña encriptada                              |
+
+---
+
+###### 15. `PhoneNumber`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| countryCode  | string             | Código de país (ej. +1, +51)                       |
+| number       | string             | Número de teléfono local                           |
+
+---
+
+###### 16. `DriverLicense`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| licenseNumber| string             | Número de licencia de conducir                     |
+| expirationDate| Date              | Fecha de expiración de la licencia                 |
+
+---
+
+###### 17. `PaymentMethod`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| type         | string             | Tipo de método de pago (ej. Visa, PayPal)          |
+| details      | string             | Detalles específicos del método de pago            |
+
+---
+
+###### 18. `BankAccount`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| bankName     | string             | Nombre del banco                                   |
+| accountNumber| string             | Número de cuenta                                   |
+| routingNumber| string             | Número de ruta del banco                           |
+
+---
+
+###### 19. `LicensePlate`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| plateNumber  | string             | Número de matrícula oficial del automóvil          |
+
+---
+
+###### 20. `Location`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| latitude     | float              | Latitud geográfica                                 |
+| longitude    | float              | Longitud geográfica                                |
+| address      | string             | Dirección física                                   |
+
+---
+
+###### 21. `Money`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| amount       | float              | Monto monetario                                    |
+| currency     | string             | Código de la moneda (ej. USD, PEN)                |
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+
+<img src="assets/chapter04/database.png" />
