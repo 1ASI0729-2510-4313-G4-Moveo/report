@@ -383,15 +383,97 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Registro 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Rentar 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Historial.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Historial 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Historial 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Informacion de Pago.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Informacion de Pago 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Proveedor.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/Proveedor 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/HistorialP 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/InfoPagoP.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/wireframes/InfoPagoP 2.png" style="width:600px; height:auto;">
+</p>
+
 ### 4.4.2. Web Applications Wire flow Diagrams
+
 ### 4.4.3. Web Applications Mock-ups
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
 ## 4.5. Web Applications Prototyping
+
 ## 4.6. Domain-Driven Software Architecture
+
 ### 4.6.1. Software Architecture Context Diagram
+
 ### 4.6.2. Software Architecture Container Diagrams
+
 ### 4.6.3. Software Architecture Components Diagrams
+
 ## 4.7. Software Object-Oriented Design
+
 ### 4.7.1. Class Diagrams
 <img src="assets/chapter04/class-diagram.png" />
 
