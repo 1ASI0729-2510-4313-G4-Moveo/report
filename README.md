@@ -103,10 +103,10 @@
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>1.0</td>
+      <td>27/04/25</td>
+      <td>Casteñeda, Giancarlo</td>
+      <td>Se realizó la primera entrega de manera eficiente, cumpliendo con los objetivos establecidos. Durante el desarrollo se identificaron oportunidades de mejora que serán aplicadas en las siguientes versiones para optimizar los resultados.</td>
     </tr>
     <tr>
       <td></td>
