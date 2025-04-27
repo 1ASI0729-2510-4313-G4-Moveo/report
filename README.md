@@ -343,17 +343,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Trillo, Anghel - TB1:</strong> message here
       <td>
-        <strong>ENTREGABLE TB1:</strong>
-        <br><br>
-        <strong>Castañeda, Santiago - TB1:</strong> message here
-        <br><br>
-        <strong>Gonzales, Carlos - TB1:</strong> message here
-        <br><br>
-        <strong>Lizano, Fernando - TB1:</strong> message here
-        <br><br>
-        <strong>Nikaido, Javier - TB1:</strong> message here
-        <br><br>
-        <strong>Trillo, Anghel - TB1:</strong> message here
+         TB1: Al trabajar como equipo en este proyecto, hemos aprendido a comunicarnos de manera más efectiva y a distribuir tareas según las fortalezas de cada miembro. La colaboración constante nos permitió mejorar nuestra organización y gestionar los tiempos de forma eficiente. Además, enfrentamos desafíos técnicos y de coordinación que nos enseñaron a adaptarnos rápidamente y a buscar soluciones conjuntas. Esta experiencia ha reforzado la importancia de la confianza y el apoyo mutuo dentro de un equipo de trabajo, lo cual fue clave para el avance y éxito del proyecto.
       </td>
       </tr>
       <tr>
@@ -371,17 +361,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Trillo, Anghel - TB1:</strong> message here
       <td>
-        <strong>ENTREGABLE TB1:</strong>
-        <br><br>
-        <strong>Castañeda, Santiago - TB1:</strong> message here
-        <br><br>
-        <strong>Gonzales, Carlos - TB1:</strong> message here
-        <br><br>
-        <strong>Lizano, Fernando - TB1:</strong> message here
-        <br><br>
-        <strong>Nikaido, Javier - TB1:</strong> message here
-        <br><br>
-        <strong>Trillo, Anghel - TB1:</strong> message here
+        TB1: Como equipo, hemos aprendido a trabajar juntos en un ambiente colaborativo y adaptativo. La gestión de tareas fue fundamental para aprovechar al máximo nuestras habilidades individuales, mientras nos asegurábamos de mantener el enfoque común. Aprendimos a valorar la importancia de la comunicación constante y la resolución conjunta de problemas, lo que nos permitió crecer como equipo y mejorar tanto a nivel personal como colectivo. Esta experiencia nos ha mostrado cómo las diferentes perspectivas pueden enriquecer un proyecto, haciéndolo más robusto y exitoso.
       </td>
 </tr>
 </tbody>
