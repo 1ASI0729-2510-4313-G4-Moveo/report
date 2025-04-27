@@ -130,11 +130,13 @@ Usaremos buenas prácticas para que el código sea coherente, entendible y soste
 - No se deben usar nombres genéricos como `.red`, `.big` o `.centered`.
 - Reinicio global de márgenes y padding:
 
+```
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+```
 
 ### 5.1.4. Software Deployment Configuration
 Para la realizacion del despliegue debemos seguir los siguientes pasos:
@@ -148,7 +150,28 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+**Sprint Planning Background**                                                                                               
+| Criterio    | Detalle     |
+| :----------------- | -------- |                                      
+| Date      | 2025-18-04   |
+| Time      | 12:00pm        |
+| Location   | Reunión Virtual en Virtual google meet |
+| Prepared By     | Giancarlo Castañeda       |
+| Attendees (to planning meeting) | Carlos Gonzales, Fernando Lizano, Javier Nikaido, Anghel Trillo |
+| Sprint 1 Review Summary  | Se realizó la landing page implementada con css y html, a raiz de los mockups y wireframes del diseño del landing page. |
+| Sprint 1 Retrospective Summary | Mejorar la puntualidad en la entrega de artefactos. |
+
+**Sprint Goal & User Stories** 
+
+| Criterio  | Detalle   |
+| :-------------- | -------------------- |
+| Sprint 1 Goal  | Nuestro enfoque para este sprint es implementar la landing page de nuestro producto. Creemos que esto brindará una correcta presentación de nuestro producto hacia los visitantes. Esto se confirmará cuando todas las secciones de nuestra página web sean visitadas por cada visitante.  |
+| Sprint 1 Velocity            | 23       |
+| **Sum of Story Points**      | 23                                |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
 #### 5.2.1.3. Sprint Backlog 1
 | User Story | Work-Item/Task | Id | Title | Description | Estimation (Hrs) | Assigned To | Status |
 |:---|:---|:---|:---|:---|:---|:---|:---|
