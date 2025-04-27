@@ -628,7 +628,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ### 4.7.2. Class Dictionary
 
-###### 1. `User`
+1. `User`
 
 | Atributo  | Tipo de Variable  | Descripción                                        |
 |-----------|-------------------|----------------------------------------------------|
@@ -640,7 +640,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 2. `Worker` (hereda de `User`)
+2. `Worker` (hereda de `User`)
 
 | Atributo       | Tipo de Variable   | Descripción                              |
 |----------------|--------------------|------------------------------------------|
@@ -649,7 +649,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 3. `Owner` (hereda de `User`)
+3. `Owner` (hereda de `User`)
 
 | Atributo    | Tipo de Variable   | Descripción                           |
 |-------------|--------------------|---------------------------------------|
@@ -657,7 +657,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 4. `Car`
+4. `Car`
 
 | Atributo     | Tipo de Variable   | Descripción                             |
 |--------------|--------------------|-----------------------------------------|
@@ -672,7 +672,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 5. `Booking`
+5. `Booking`
 
 | Atributo     | Tipo de Variable   | Descripción                                          |
 |--------------|--------------------|------------------------------------------------------|
@@ -683,7 +683,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 6. `Payment`
+6. `Payment`
 
 | Atributo     | Tipo de Variable   | Descripción                                          |
 |--------------|--------------------|------------------------------------------------------|
@@ -694,7 +694,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 7. `Review`
+7. `Review`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -705,7 +705,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 8. `InsurancePolicy`
+8. `InsurancePolicy`
 
 | Atributo     | Tipo de Variable   | Descripción                                          |
 |--------------|--------------------|------------------------------------------------------|
@@ -717,7 +717,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 9. `Notification`
+9. `Notification`
 
 | Atributo     | Tipo de Variable   | Descripción                                          |
 |--------------|--------------------|------------------------------------------------------|
@@ -728,7 +728,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 10. `SupportTicket`
+10. `SupportTicket`
 
 | Atributo     | Tipo de Variable   | Descripción                                          |
 |--------------|--------------------|------------------------------------------------------|
@@ -739,7 +739,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 11. `VehicleCategory`
+11. `VehicleCategory`
 
 | Atributo     | Tipo de Variable   | Descripción                                          |
 |--------------|--------------------|------------------------------------------------------|
@@ -749,7 +749,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 12. `Name`
+12. `Name`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -758,7 +758,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 13. `Email`
+13. `Email`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -766,7 +766,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 14. `Password`
+14. `Password`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -774,7 +774,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 15. `PhoneNumber`
+15. `PhoneNumber`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -783,7 +783,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 16. `DriverLicense`
+16. `DriverLicense`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -792,7 +792,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 17. `PaymentMethod`
+17. `PaymentMethod`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -801,7 +801,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 18. `BankAccount`
+18. `BankAccount`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -811,7 +811,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 19. `LicensePlate`
+19. `LicensePlate`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -819,7 +819,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 20. `Location`
+20. `Location`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -829,7 +829,7 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ---
 
-###### 21. `Money`
+21. `Money`
 
 | Atributo     | Tipo de Variable   | Descripción                                        |
 |--------------|--------------------|----------------------------------------------------|
@@ -839,4 +839,6 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-<img src="assets/chapter04/database.png" />
+<p align="center">
+    <img src="assets/chapter04/database.png" style="width:800px; height:auto;" alt="">
+</p>
