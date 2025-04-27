@@ -48,7 +48,7 @@
 
 ### PROFESOR: Sanchez Seña, Alberto Wilmer
 ### START UP: GPT4
-### PRODUCTO: name of the product
+### PRODUCTO: Moveo
 
 ### INTEGRANTES:
 
@@ -333,7 +333,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
       <td>
         <strong>ENTREGABLE TB1:</strong>
         <br><br>
-        <strong>Castañeda, Santiago - TB1:</strong> message here
+        <strong>Castañeda, Santiago - TB1:</strong> Durante el desarrollo del proyecto, realice actividades como la descripción de la startup, entrevistar a los segmentos objetivos y hacer sus anilisis, las tablas competitivas y el analisis competitivo, ademas me dedique a realizar diseño Lean UX y UI, el prototipado del proyecto y el resto del capitulo 5 en lo que vendria a ser las evidencias, los insights y las evidencias de la Landing, ademas de las conclusiones, recomendaciones y anexos.
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> message here
         <br><br>
@@ -351,7 +351,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
       <td>
         <strong>ENTREGABLE TB1:</strong>
         <br><br>
-        <strong>Castañeda, Santiago - TB1:</strong> message here
+        <strong>Castañeda, Santiago - TB1:</strong> Como equipo, aprendimos a trabajar en ambientes dificultosos y a veces tardados. Despues de lograr resolver algunas dificultades demostramos ser un buen grupo que cuenta con muchas habilidades individual y grupalmente hablando. Nos faltaria lograr una mejor estructuración del tiempo para lograr tener un mejor margen de error
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> message here
         <br><br>
