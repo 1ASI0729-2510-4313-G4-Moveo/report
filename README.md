@@ -132,13 +132,11 @@
 ---
 
 # Project Report Collaboration Insights
-Para este proyecto hemos utilizado las herramientas GitHub para gestionar el progreso grupal.
-
-Puede acceder al contenido del repositorio pulsando sobre el siguiente ícono:
+Para este proyecto hemos utilizado las herramientas GitHub para gestionar el progreso grupal. Además, se puede acceder al contenido del repositorio pulsando sobre el siguiente ícono:
 
 <p align="center">
-  <a href="https://github.com/Teemo-Solutions/report-v2">
-    <img src="assets/logos/teemo_solutions_icon.jpg" style="width:200px; height:auto;" alt="">
+  <a href="https://github.com/1ASI0729-2510-4313-G4-Moveo/report">
+    <img src="assets/icons/gpt4-icon.svg" style="width:200px; height:auto;" alt="">
   </a>
 </p>
 
