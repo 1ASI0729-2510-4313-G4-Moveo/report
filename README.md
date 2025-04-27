@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td>Nikaido Vargas, Javier Masaru</td>
-      <td>u202314130</td>
+      <td>u20221g099</td>
     </tr>
     <tr>
       <td>Trillo Hernandez, Anghel Melanie</td>
