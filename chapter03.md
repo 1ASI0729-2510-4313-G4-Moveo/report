@@ -31,6 +31,13 @@
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+#### Segmento 1: Trabajador urbano
+<img src="assets/To-Be Trabajador.png">
+
+#### Segmento 2: Proveedor de auto
+<img src="assets/To-Be Proveedor.png">
+
 ## 3.2. User Stories
 ### Epics
 | **Epic ID**|**Título**| **Descripción**|
