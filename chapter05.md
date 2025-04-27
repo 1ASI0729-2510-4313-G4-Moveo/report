@@ -252,6 +252,12 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+| Participante | Actividades de implementación |
+| :---- | :---- |
+| Lizano Coll Cardenas, Fernando Jesus | Nav bar, About us section, Our Services, Pricing & Plans, Watch our video, Meet our team, Our Testimonials, FAQ, Contact Us, Footer|
+| Gonzales Valverde | Images adaptation, Traduction en-es |
+| Castañeda Guimas, Giancarlo Santiago, Trillo Hernandez, Anghel Melanie, Nikaido Vargas, Javier Masaru  | Organization fixes |
+
 ## Conclusiones
 - **Solución a una necesidad real:**
 <br>Moveo logra cubrir la necesidad de movilidad flexible para trabajadores y turistas, ofreciendo una alternativa económica y conveniente frente al transporte público o taxis tradicionales.
