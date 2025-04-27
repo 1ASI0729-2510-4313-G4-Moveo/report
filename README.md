@@ -310,8 +310,6 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 ---
 
-
-
 # Student Outcome
 El curso tiene el Student Outcome 3, el cual consiste en la capacidad de comunicarse efectivamente con un rango de audiencias.
 
@@ -335,7 +333,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Durante el desarrollo del proyecto, realice las actividades, como la landing page en el tema de las imagenes, traduccion, me encargue de realizar las entrevistas junto con el analisis de las entrevistas, aplique HTML, CSS y JS en la landing page, tambien realice el searching systems, navigation system, software architecture components diagrams, apoye con mi equipo en las actividades que les faltaban tambien.
         <br><br>
-        <strong>Lizano, Fernando - TB1:</strong> message here
+        <strong>Lizano, Fernando - TB1:</strong> Durante el desarrollo del proyecto, me enfoqué en comunicar de manera clara y efectiva el orden y la estructura del informe en las reuniones grupales. Cada vez que surgieron dudas o propuestas de mejora, expuse de forma precisa los cambios necesarios, adaptando mi comunicación según el perfil de los integrantes del equipo, buscando siempre asegurar que todos comprendieran el objetivo común. Además, fomenté un espacio de retroalimentación constante para que las mejoras en los capítulos fueran comprendidas y aplicadas correctamente.
         <br><br>
         <strong>Nikaido, Javier - TB1:</strong> Durante el desarrollo de proyectos como el de VeciHub, he demostrado mi capacidad para redactar informes técnicos claros y concisos, adaptados a diferentes audiencias, usando un lenguaje adecuado según el nivel de especialización. Esto lo logré a través de la documentación de cada fase del proceso Lean UX, la matriz de tareas del usuario y el backlog de sprint.
         <br><br>
@@ -353,7 +351,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Como grupo tenemos un buen ambiente y siempre sabemos trabajar bajo a presion, incluso si tenemos dificultades con un compañero sabemos como solucionarlo de inmediato, solo nos faltaria mejorar en el aspecto de tener una mejor estructura del tiempo, pero del resto tenemos buena comunicacion, buen ambiente y sabemos trabajar individualmente cada uno.
         <br><br>
-        <strong>Lizano, Fernando - TB1:</strong> message here
+        <strong>Lizano, Fernando - TB1:</strong> En la elaboración del informe, trabajé en mantener un estilo de redacción claro, ordenado y adecuado para distintos tipos de lectores, asegurando que cada capítulo tuviera coherencia y consistencia. También participé en la elaboración y el apoyo en la creación de la landing page, donde la comunicación escrita debía ser precisa y atractiva para los usuarios. Mi enfoque estuvo en transmitir de manera sencilla pero profesional la información, respetando la estructura formal requerida por el curso y adaptándome a las necesidades de comunicación digital para la web.
         <br><br>
         <strong>Nikaido, Javier - TB1:</strong> En presentaciones de avance y reuniones con miembros del equipo , he demostrado habilidad para exponer resultados y decisiones, facilitando la comprensión de conceptos técnicos y estratégicos. He utilizado un enfoque directo y estructurado en cada fase del proceso, desde la investigación de usuarios hasta la especificación de requerimientos, asegurando que todos los involucrados pudieran entender y aportar a los objetivos del proyecto.
         <br><br>
