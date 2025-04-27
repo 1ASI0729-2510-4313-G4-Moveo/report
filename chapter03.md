@@ -32,11 +32,21 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
-#### Segmento 1: Trabajador urbano
-<img src="assets/To-Be Trabajador.png">
+- **Segmento 1: Trabajador urbano**
 
-#### Segmento 2: Proveedor de auto
-<img src="assets/To-Be Proveedor.png">
+<p align="center">
+  <a>
+    <img src="assets/chapter03/to-be/To-Be%20Trabajador.png" style="width:1000px; height:auto;" alt="">
+  </a>
+</p>
+
+
+- **Segmento 2: Proveedor de auto**
+<p align="center">
+  <a>
+    <img src="assets/chapter03/to-be/To-Be%20Proveedor.png" style="width:1000px; height:auto;" alt="">
+  </a>
+</p>
 
 ## 3.2. User Stories
 ### Epics
@@ -113,4 +123,8 @@
 |21|US21|Subir fotos al listado de vehículo|Como visitante del segmento proveedores, quiero agregar o eliminar fotos de mis vehículos para mostrarlos mejor a los arrendatarios.|5|
 |22|US22|Visualizar reservas de mis vehículos|Como visitante del segmento proveedores, quiero consultar un historial y estado de reservas realizadas a mis vehículos|3|
 
-<img alt="backlog" src="assets/chapter03/product%20backlog/backlog.png" />
+<p align="center">
+  <a>
+    <img src="assets/chapter03/product%20backlog/backlog.png" style="width:1000px; height:auto;" alt="">
+  </a>
+</p>
