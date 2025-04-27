@@ -188,6 +188,7 @@ Crear **Moveo**, una app que actúe como intermediario confiable entre trabajado
 
 Con el fin de guiar el desarrollo inicial de Moveo, formulamos nuestro Lean UX Hypothesis Statement. A través de esta hipótesis, establecemos de manera estructurada nuestras suposiciones sobre quiénes son nuestros usuarios, qué necesidades específicas tienen, qué solución les ofreceremos y cómo esperamos validar nuestro enfoque a partir de sus comportamientos y resultados medibles.
 
+
 - **Hipótesis 1:** <br>
   **Creemos que** los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse. <br>
   **Cuando entren** a la app, van a buscar un auto cerca para unas horas o todo el día. <br>

@@ -69,6 +69,8 @@ SnappCar es una plataforma de alquiler de autos privados que se enfoca en la ape
 
 InDrive es una app de transporte bajo el modelo C2C donde los pasajeros y conductores negocian el precio directamente.</td>
 
+### 2.1.1. Análisis Competitivo
+
 A continuación realizaremos el análisis necesario para ver qué estrategias podemos tomar para sobresalir entre ellos
 
 <table>

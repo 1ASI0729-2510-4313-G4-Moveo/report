@@ -274,7 +274,9 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 <img src="./assets/chapter05/insights/insights.PNG" />
 
 <img src="./assets/chapter05/insights/insights2.PNG" />
+
 ## Conclusiones
+
 - **Solución a una necesidad real:**
 <br>Moveo logra cubrir la necesidad de movilidad flexible para trabajadores y turistas, ofreciendo una alternativa económica y conveniente frente al transporte público o taxis tradicionales.
 

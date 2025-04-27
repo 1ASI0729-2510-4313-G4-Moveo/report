@@ -396,8 +396,10 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
 <p align="center">
   <img src="assets/chapter04/lpmockups/lpmockup5.png" style="width:600px; height:auto;">
 </p>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
 <p align="center">
   <img src="assets/chapter04/wireframes/Registro.png" style="width:600px; height:auto;">
 </p>
