@@ -72,7 +72,21 @@
 |US20|Desactivar vehículo de la plataforma|Como visitante del segmento proveedores, quiero desactivar un vehículo para que deje de aparecer disponible en Moveo.|**Scenario 1:**<br>**Given** que el invitado desea pausar un vehículo,<br>**When** hace clic en “Desactivar”<br>**Then** el sistema cambia su estado a “no disponible” y confirma la acción<br>**Scenario 2:**<br>**Given** que el vehículo está reservado para una futura fecha<br>**When** intenta desactivarlo<br>**Then** el sistema muestra un mensaje que impide la desactivación hasta que se cumpla la reserva|EP02|
 |US21|Subir fotos al listado de vehículo|Como visitante del segmento proveedores, quiero agregar o eliminar fotos de mis vehículos para mostrarlos mejor a los arrendatarios.|**Scenario 1:**<<br>**Given** que accede a la galería de un vehículo<br>**When** sube imágenes en formatos válidos (jpg/png)<br>**Then** las fotos se guardan y aparecen en la galería<br>**Scenario 2:**<br>**Given** que intenta subir un archivo de formato no soportado (p.ej. .exe)<br>**When** lo selecciona<br>**Then** recibe un mensaje de error indicando formatos permitidos|EP02|
 |US22|Visualizar reservas de mis vehículos|Como visitante del segmento proveedores, quiero consultar un historial y estado de reservas realizadas a mis vehículos|**Scenario 1:**<br>**Given** qué hay reservas activas o pasadas<br>**When** accede a la sección “Reservas de mis vehículos”<br>**Then** ve una lista con cada reserva, fechas y estado<br>**Scenario 2:**<br>**Given** que no hay reservas registradas<br>**When** ingresa a esa sección<br>**Then** ve un mensaje “Aún no tienes reservas”|EP02|
+
 ## 3.3. Impact Mapping
+
+- Segmento Objetivo: Proveedor de Autos
+
+<p align="center">
+  <img src="assets/chapter03/impact%20mapping/impact_trabajador.png"  style="width:650px; height:auto;" alt="">
+</p>
+
+- Segmento Objetivo: Trabajador Urbano
+
+<p align="center">
+  <img src="assets/chapter03/impact%20mapping/impact_provedor.png"  style="width:650px; height:auto;" alt="">
+</p>
+
 ## 3.4. Product Backlog
 |**# Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points(1 / 2 / 3 / 5)**|
 |--|-| --| --|-- |
