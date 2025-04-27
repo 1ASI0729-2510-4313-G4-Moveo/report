@@ -146,10 +146,10 @@ En resumen, el análisis de las entrevistas muestra una necesidad latente en amb
 ## 2.3. Need finding
 ### 2.3.1. User Person
 #### Segmento 1: Trabajador urbano
-<img src="assets/chapter2/User persona - Trabajador.png">
+<img src="assets/chapter02/User persona - Trabajador.png">
 
 #### Segmento 2: Proveedor de auto
-<img src="assets/chapter2/User persona - Proveedor.png">
+<img src="assets/chapter02/User persona - Proveedor.png">
 
 ### 2.3.2. User Task Matrix
 
@@ -188,26 +188,26 @@ Esta tabla resume las tareas que realiza un proveedor de auto (persona que ofrec
 
 ### 2.3.3. User Journey Mapping
 #### Segmento 1: Trabajador urbano
-<img src="assets/chapter2/User journey map - trabajador.png">
+<img src="assets/chapter02/User journey map - trabajador.png">
 
 #### Segmento 2: Proveedor de auto
-<img src="assets/chapter2/User journey map - proveedor.png">
+<img src="assets/chapter02/User journey map - proveedor.png">
 
 ### 2.3.4. Empathy Mapping
 
 #### Segmento 1: Trabajador urbano
-<img src="assets/chapter2/Trabajador - Empathy map.png">
+<img src="assets/chapter02/Trabajador - Empathy map.png">
 
 #### Segmento 2: Proveedor de auto
-<img src="assets/chapter2/Proveedor - Empathy map.png">
+<img src="assets/chapter02/Proveedor - Empathy map.png">
 
 ### 2.3.5. As-is Scenario Mapping
 
 #### Segmento 1: Trabajador urbano
-<img src="assets/chapter2/As-Is Trabajador.png">
+<img src="assets/chapter02/As-Is Trabajador.png">
 
 #### Segmento 2: Proveedor de auto
-<img src="assets/chapter2/As-Is Proveedor.png">
+<img src="assets/chapter02/As-Is Proveedor.png">
 
 ## 2.4. Ubiquitous Language.
 | **Término (Inglés)** |**Término (Español)** | **Definición** |
