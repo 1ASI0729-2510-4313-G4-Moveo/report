@@ -34,32 +34,141 @@
 Para esta sección analizaremos y compararemos a diversos competidores que pudimos llegar a encontrar para así transferir conocimiento detectando las mejores opciones y prácticas que aplicar para nuestra aplicación.
 
 -   Los competidores se pueden dividir en varios tipos, como los que hacen exactamente lo mismo que nosotros, los que no hacen lo mismo pero pueden llegar a solucionarlo, los de mayor rango que serían los que consideramos que estamos muy lejos de alcanzarlos, etc.
-    
 
 En este caso solo nos quedaremos con 3 que pensamos que serían los más óptimos observar:
 
--   Plataforma Web “Reizen”
+-   **Plataforma Web “Reizen”**
+
+<p align="center">
+  <a href="https://www.reizenconnections.com">
+    <img src="assets/chapter02/competitors/reizen_logo.png" style="width:200px; height:auto;" alt="">
+  </a>
+</p>
+
+Reizen es una plataforma de movilidad para alquiler de autos, yates y propiedades en LATAM, promoviendo la confianza entre usuarios mediante la cercanía geográfica.</td>
+
     
--   Plataforma Web “SnappCar”
+-   **Plataforma Web “SnappCar”**
+
+<p align="center">
+  <a href="https://www.snappcar.nl">
+    <img src="assets/chapter02/competitors/snappcar_logo.png" style="width:200px; height:auto;" alt="">
+  </a>
+</p>
+
+SnappCar es una plataforma de alquiler de autos privados que se enfoca en la apertura remota de vehículos y seguro integrado, principalmente en Europa.</td>
+
     
--   Aplicación “InDrive”
-    
+-   **Aplicación “InDrive”**
+
+<p align="center">
+  <a href="https://indrive.com/es-mx">
+    <img src="assets/chapter02/competitors/indrive_logo.png" style="width:200px; height:auto;" alt="">
+  </a>
+</p>
+
+InDrive es una app de transporte bajo el modelo C2C donde los pasajeros y conductores negocian el precio directamente.</td>
 
 A continuación realizaremos el análisis necesario para ver qué estrategias podemos tomar para sobresalir entre ellos
 
-|Categorias| **Moveo**|**Reizen**|**SnappCar**| InDrive|
-|--------|-------|-------|--------|------|
-|**Overview**|App open source que conecta a trabajadores y dueños de autos para alquiler autónomo sin intermediarios humanos|Plataforma peer-to-peer para alquiler de autos, yates y alojamientos|Plataforma europea peer-to-peer de alquiler de autos privados con apertura remota y seguro incluido|App de transporte bajo modelo C2C, donde conductor y usuario negocian el precio directamente|
-|**Ventaja competitiva  <br>¿Qué valor ofrece a los clientes?**|Open source: flexibilidad y adaptación local; sin intermediarios físicos; integración de mapas y puntos de entrega|Comunidad local consolidada, confianza social basada en reviews y cercanía geográfica|Tecnología avanzada: apertura remota, seguro integrado, fuerte presencia en Europa|Precios negociados, baja comisión, red de usuarios grande y activa, crecimiento exponencial en LATAM|
- |**Mercado objetivo**|Trabajadores urbanos y dueños de autos subutilizados en LATAM|Usuarios en Colombia interesados en movilidad ocasional y propietarios buscando ingresos extra|Europeos en ciudades con alta cultura de carsharing|Usuarios que buscan transporte flexible en LATAM y otras regiones emergentes|
-|**Estrategias de marketing**|Crecimiento orgánico a través de la comunidad Open Source, partnerships con estacionamientos y empresas|Publicidad en redes sociales locales, confianza de usuarios vía testimonios|Inversión en marketing digital y acuerdos con aseguradoras locales|Modelo viral de boca a boca y crecimiento por recomendaciones; marketing en apps|
-|**Productos & Servicios**| Alquiler de autos peer-to-peer, apertura remota, elección de punto de entrega personalizado en la app|Alquiler peer-to-peer de autos, yates y propiedades|Alquiler peer-to-peer de autos privados, seguro, servicio sin contacto humano|Transporte urbano: usuarios y conductores fijan tarifas en tiempo real|
-|**Precios & Costos**| - 25-40 USD/día promedio (dependiendo del modelo y zona) |20-45 USD/día promedio (varía según vehículo y ciudad)|30-60 USD/día promedio + seguro (obligatorio)|Tarifas por trayecto negociadas directamente; media en LATAM: 2-7 USD por trayecto|
-|**Canales de distribución (Web y/o Móvil)**|App móvil y sitio web.|App móvil y sitio web.|-App móvil y sitio web|App móvil (Android / iOS) y crecimiento viral por referidos|
-|**Fortalezas**|Open Source (adaptabilidad y comunidad), modelo autónomo sin personal intermediario, flexibilidad para proveedores y usuarios|Modelo probado en LATAM, marca local conocida, confianza comunitaria fuerte|Tecnología avanzada, seguro incluido, base de usuarios estable|Red de usuarios global, precios competitivos, crecimiento orgánico en LATAM|
-|**Debilidades**|Requiere una masa crítica de autos y usuarios para funcionar; dependencia de proveedores locales|Limitado a Colombia; poca escalabilidad fuera de su mercado de origen|Fuerte enfoque en Europa, alta barrera de entrada en otros mercados| - No ofrece alquiler de autos, solo transporte personal <br> - Suele demorar mucho y los precios son elevados en ciertos puntos|
-|**Oportunidades**|Asociaciones con empresas y estacionamientos; modelo replicable en ciudades emergentes|Expandir a otros países; diversificar más allá de autos (ya incluye yates y alojamiento)|Expansión a otros continentes, integración con plataformas de movilidad smart city|Ampliar servicios a carsharing o alquiler de autos autónomos|
-|**Amenazas**|Alta competencia, proveedores limitados en fases iniciales, cambios regulatorios|Nuevos entrantes y modelos de negocio Open Source como Moveo|Competencia local y competencia externa fuerte|Cambios regulatorios en transporte urbano; competencia de apps como Uber y Lyft|
+<table>
+  <tr>
+    <th colspan="22">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
+    <td colspan="17">El análisis competitivo es esencial para entender el mercado, identificar oportunidades de diferenciación y anticipar amenazas. Permite ajustar la estrategia para ganar ventaja sobre la competencia y asegurar el éxito del producto.</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td>Moveo<br><img src="assets/icons/moveo_logo.svg" style="width:250px; height:auto;" alt=""></td>
+    <td>Reizen<br><img src="assets/chapter02/competitors/reizen_logo.png" style="width:600px; height:auto;" alt=""></td>
+    <td>SnappCar<br><img src="assets/chapter02/competitors/snappcar_logo.png" style="width:600px; height:auto;" alt=""></td>
+    <td>InDrive<br><img src="assets/chapter02/competitors/indrive_logo.png" style="width:500px; height:auto;" alt=""></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Moveo es una plataforma open-source que conecta a trabajadores que necesitan un auto por un tiempo y propietarios que desean alquilarlo de forma segura, todo sin intermediarios humanos.</td>
+    <td>Reizen es una plataforma de movilidad para alquiler de autos, yates y propiedades en LATAM, promoviendo la confianza entre usuarios mediante la cercanía geográfica.</td>
+    <td>SnappCar es una plataforma de alquiler de autos privados que se enfoca en la apertura remota de vehículos y seguro integrado, principalmente en Europa.</td>
+    <td>InDrive es una app de transporte bajo el modelo C2C donde los pasajeros y conductores negocian el precio directamente.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td>Flexibilidad al ser open-source, adaptación a mercados locales, sin intermediarios, integración directa de pagos y verificación dentro de la app.</td>
+    <td>Confianza social, comunidad local consolidada y precios flexibles basados en la cercanía de los usuarios.</td>
+    <td>Uso de tecnología avanzada, apertura remota de vehículos, seguro integrado y fuerte presencia en Europa.</td>
+    <td>Precios negociados directamente por los usuarios y crecimiento exponencial en LATAM, bajo costo de comisión.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Trabajadores urbanos y dueños de autos subutilizados en LATAM que buscan soluciones de movilidad flexibles y seguras.</td>
+    <td>Usuarios interesados en movilidad ocasional y propietarios de autos que buscan generar ingresos extra en Colombia.</td>
+    <td>Usuarios europeos en ciudades con alta cultura de carsharing, que buscan soluciones tecnológicas avanzadas para alquiler de autos.</td>
+    <td>Usuarios que buscan transporte flexible en LATAM y otras regiones emergentes donde las tarifas son negociadas entre las partes.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Crecimiento orgánico a través de la comunidad Open Source, asociaciones con estacionamientos y empresas locales.</td>
+    <td>Publicidad en redes sociales locales, y generación de confianza mediante testimonios de usuarios.</td>
+    <td>Marketing digital y asociaciones con aseguradoras locales para atraer nuevos usuarios y expandir la base de clientes.</td>
+    <td>Modelo viral de boca a boca, con un fuerte crecimiento por recomendación, marketing en aplicaciones móviles.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos y Servicios</td>
+    <td>Alquiler de autos peer-to-peer, apertura remota de vehículos, verificación dentro de la app, pago seguro y elección de puntos de entrega.</td>
+    <td>Alquiler peer-to-peer de autos, yates y propiedades en LATAM, con opciones de precios flexibles y seguros incluidos.</td>
+    <td>Alquiler peer-to-peer de autos privados, con tecnología avanzada como la apertura remota y seguro integrado.</td>
+    <td>Transporte urbano bajo el modelo C2C, donde los precios son negociados en tiempo real entre usuarios y conductores.</td>
+  </tr>
+  <tr>
+    <td>Precios y Costos</td>
+    <td>25-40 USD/día promedio dependiendo del modelo y la zona.</td>
+    <td>20-45 USD/día, dependiendo del vehículo y la ciudad.</td>
+    <td>30-60 USD/día más seguro obligatorio.</td>
+    <td>Tarifas por trayecto negociadas entre pasajeros y conductores, con un promedio de 2-7 USD en LATAM.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución (Web y/o Móvil)</td>
+    <td>App móvil y sitio web.</td>
+    <td>App móvil y sitio web.</td>
+    <td>App móvil y sitio web.</td>
+    <td>App móvil (Android/iOS) y crecimiento viral a través de referidos.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Modelo open-source que permite adaptabilidad, sin intermediarios, flexibilidad para usuarios y proveedores.</td>
+    <td>Comunidad local consolidada, confianza y cercanía geográfica entre usuarios.</td>
+    <td>Innovación tecnológica con apertura remota, seguro integrado y expansión sólida en Europa.</td>
+    <td>Red de usuarios global, crecimiento orgánico, precios negociados entre usuarios, bajas comisiones.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Dependencia de una masa crítica de usuarios y autos; mayor esfuerzo de crecimiento en etapas iniciales.</td>
+    <td>Limitado a Colombia; posible dificultad de expansión a otros mercados.</td>
+    <td>Enfoque en Europa, alta barrera de entrada en otros mercados fuera de la región.</td>
+    <td>Enfoque exclusivo en transporte urbano, sin ofrecer alquiler de autos; competencia con apps como Uber y Lyft.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Expansión a otras ciudades emergentes, asociaciones con estacionamientos y empresas de transporte.</td>
+    <td>Expansión a otros países, diversificación en más tipos de movilidad (yates y alojamiento).</td>
+    <td>Expansión a más continentes, integración con smart city y plataformas de movilidad.</td>
+    <td>Ampliar servicios a carsharing o alquiler de autos autónomos.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Alta competencia en LATAM y cambios regulatorios que podrían afectar el modelo de negocio.</td>
+    <td>Nuevas plataformas y modelos Open Source que replican el concepto de Moveo.</td>
+    <td>Competencia local y plataformas internacionales como Uber y Lyft.</td>
+    <td>Competencia de plataformas dominantes y regulación cambiante en el transporte urbano.</td>
+  </tr>
+</table>
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 -   Se realizarán diversas entrevistas con nuestros segmentos objetivos para comprobar si nuestra idea les parece razonable y si estarían dispuestos a probarla.
