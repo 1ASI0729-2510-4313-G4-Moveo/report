@@ -70,7 +70,7 @@ Se implementa el modelo de **GitFlow** para gestionar las ramas en nuestros repo
 - **realease/\<Versión>**: Se utiliza para integrar las nuevas características antes de publicarlas en la rama main.
 - **feature/\<nombre de funcionalidad>**: Rama creada para el desarrollo de funcionalidades específicas según el nombre. Las ramas se nombran en minúsculas siguiendo un esquema uniforme para mayor consistencia.
 
-<img src="./assets/chapter5/gitflow.png" />
+<img src="./assets/chapter05/gitflow.png" />
 
 #### Conventional Commits
 Se emplea para los mensajes de commmits el estándar de **Conventional Commits** con las siguientes etiquetas:
@@ -145,7 +145,7 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
   3. Luego, se vera una opción que permite seleccionar la rama desde la cual quieres hacer el despliegue. Normalmente, se elige **main**.
   4. Después de esto, GitHub generará automáticamente una URL para tu sitio.
 <br>
-<img src="./assets/chapter5/landing-deployment.png" />
+<img src="./assets/chapter05/landing-deployment.png" />
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -229,17 +229,17 @@ A continuación se muestran los commits realizados por los integrantes del equip
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-<img src="./assets/chapter5/evidence/evidence.PNG" />
+<img src="./assets/chapter05/evidence/evidence.PNG" />
 
-<img src="./assets/chapter5/evidence/evidence2.PNG" />
+<img src="./assets/chapter05/evidence/evidence2.PNG" />
 
-<img src="./assets/chapter5/evidence/evidence3.PNG" />
+<img src="./assets/chapter05/evidence/evidence3.PNG" />
 
-<img src="./assets/chapter5/evidence/tabla.PNG" />
+<img src="./assets/chapter05/evidence/tabla.PNG" />
 
-<img src="./assets/chapter5/evidence/tabla2.PNG" />
+<img src="./assets/chapter05/evidence/tabla2.PNG" />
 
-<img src="./assets/chapter5/evidence/tabla3.PNG" />
+<img src="./assets/chapter05/evidence/tabla3.PNG" />
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
@@ -249,19 +249,19 @@ URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Mo
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Se inicio con la creación de la organización en github. 
 
-<img src="./assets/chapter5/software-deployment-organization.png" />
+<img src="./assets/chapter05/software-deployment-organization.png" />
 
 Posteriormente, se asocio a los integrantes del equipo para poder colaborar en los repositorios de la organización.
 
-<img src="./assets/chapter5/software-deployment-organization-members.png" />
+<img src="./assets/chapter05/software-deployment-organization-members.png" />
 
 Luego, se crearon los repositorios del reporte, Landing Page, Frontend y Backend para organizar los productos entregables.
 
-<img src="./assets/chapter5/software-deployment-repositories.png" />
+<img src="./assets/chapter05/software-deployment-repositories.png" />
 
 Finalmente, se configuro y desplegó la versión inicial del Landing Page en **GitHub Pages** desde la sección "Pages" seleccionando la rama **main**.
 
-<img src="./assets/chapter5/landing-deployment.png" />
+<img src="./assets/chapter05/landing-deployment.png" />
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -271,9 +271,9 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 | Gonzales Valverde | Images adaptation, Traduction en-es |
 | Castañeda Guimas, Giancarlo Santiago, Trillo Hernandez, Anghel Melanie, Nikaido Vargas, Javier Masaru  | Organization fixes |
 
-<img src="./assets/chapter5/insights/insights.PNG" />
+<img src="./assets/chapter05/insights/insights.PNG" />
 
-<img src="./assets/chapter5/insights/insights2.PNG" />
+<img src="./assets/chapter05/insights/insights2.PNG" />
 ## Conclusiones
 - **Solución a una necesidad real:**
 <br>Moveo logra cubrir la necesidad de movilidad flexible para trabajadores y turistas, ofreciendo una alternativa económica y conveniente frente al transporte público o taxis tradicionales.
