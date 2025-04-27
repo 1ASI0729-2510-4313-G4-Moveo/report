@@ -556,31 +556,35 @@ Link del wireflow diagrams: https://lucid.app/lucidchart/9cdef739-cc7e-4c87-bd8e
 ### 4.4.4. Web Applications User Flow Diagrams
 
 <p align="center">
-  <img src="assets/userflow/userflow.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/userflow/userflow.png" style="width:600px; height:auto;">
 </p>
+
 <p align="center">
-  <img src="assets/userflow/userflow2.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/userflow/userflow2.png" style="width:600px; height:auto;">
 </p>
+
 <p align="center">
-  <img src="assets/userflow/userflow3.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/userflow/userflow3.png" style="width:600px; height:auto;">
 </p>
+
 <p align="center">
-  <img src="assets/userflow/userflow3.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/userflow/userflow4.png" style="width:600px; height:auto;">
 </p>
+
 <p align="center">
-  <img src="assets/userflow/userflow4.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/userflow/userflow5.png" style="width:600px; height:auto;">
 </p>
+
 <p align="center">
-  <img src="assets/userflow/userflow5.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/userflow/userflow6.png" style="width:600px; height:auto;">
 </p>
+
 <p align="center">
-  <img src="assets/userflow/userflow6.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/userflow/userflow7.png" style="width:600px; height:auto;">
 </p>
+
 <p align="center">
-  <img src="assets/userflow/userflow7.png" style="width:600px; height:auto;">
-</p>
-<p align="center">
-  <img src="assets/userflow/userflow8.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/userflow/userflow8.png" style="width:600px; height:auto;">
 </p>
 
 Link a la parte 1 del userflow en lucidchart:
