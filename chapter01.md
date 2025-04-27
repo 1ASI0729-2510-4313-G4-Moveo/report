@@ -118,23 +118,42 @@ El problema en sí puede variar de precios, en este caso para los trabajadores p
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-**Usuario objetivo:**
+- **Usuario objetivo:**
+Trabajadores urbanos que necesitan un auto para moverse con flexibilidad sin tener que comprarlo, y propietarios de autos que casi no usan sus vehículos y quieren obtener ingresos extra.
 
-Trabajadores que necesitan moverse con libertad, pero que no tienen auto, y personas que tienen autos que casi no usan y quieren ganar algo extra con ellos.
 
-**Qué necesitan:**
+- **Qué necesitan:**
+  - Los trabajadores buscan una forma fácil, económica y flexible de usar un auto por periodos cortos o medios, sin endeudarse ni depender del transporte público.
+  - Los dueños de autos quieren prestar su vehículo de forma segura y práctica, sin complicarse con procesos largos o riesgos innecesarios.
 
-- Los trabajadores buscan una forma fácil y económica de tener un auto por un tiempo sin tener que comprarlo.
-- Los dueños de autos quieren prestarlo, pero de forma segura y sin tantas complicaciones.
 
-**Problemas que tienen:**
+- **Problemas actuales:**
+  - Pocas plataformas conectan a trabajadores y dueños de vehículos de manera directa, confiable y sin altos costos o requisitos complicados.
+  - Existe desconfianza tanto en prestar un auto a desconocidos como en usar un auto particular.
 
-- No hay muchas plataformas que conecten a ambas partes sin cobrar mucho o pedir mil requisitos.
-- A veces hay desconfianza en prestar un auto a alguien desconocido o en subirse a un auto ajeno.
 
-**Nuestra propuesta:**
+- **Gap en el mercado:**
+Hay servicios de carsharing corporativo o ride-hailing, pero no una solución peer-to-peer simple, segura y accesible para préstamo de autos entre particulares.
 
-Una app llamada **Moveo** que sirva de intermediario. Los trabajadores pueden buscar un auto cerca, y los dueños lo pueden ofrecer con seguridad. Todo el proceso sería por la app: verificación, pagos, soporte, etc.
+
+
+- **Nuestra propuesta:**
+Crear **Moveo**, una app que actúe como intermediario confiable entre trabajadores y dueños de autos.
+  - Todo el proceso será gestionado desde la app:
+  - Registro y verificación de usuarios. 
+  - Publicación y búsqueda de vehículos. 
+  - Procesamiento de pagos. 
+  - Gestión de soporte y seguros básicos.
+
+
+- **Visión/Strategy:**
+  - Democratizar el acceso a vehículos personales para trabajadores urbanos.
+  - Ayudar a los dueños de autos a generar ingresos pasivos de forma sencilla.
+
+
+- **Initial Segment:**
+  - Trabajadores jóvenes (25-40 años) de zonas urbanas que necesitan transporte regular pero no poseen vehículo propio.
+  - Propietarios de vehículos poco utilizados que buscan rentabilizar sus activos en ciudades como Lima.
 
 ---
 
