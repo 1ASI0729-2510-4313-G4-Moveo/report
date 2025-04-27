@@ -40,7 +40,7 @@ Nuestra Startup “GPT4” ofrece una aplicación innovadora de préstamos de au
   <th colspan="2">Castañeda Guimas, Giancarlo Santiago</th>
   </tr>
   <tr>
-    <td><img src="assets/chapter01/team/castañeda.jpg" style="width:700px; height:auto;" alt=""></td>
+    <td><img src="assets/chapter01/team/Giancarlo Castañeda.jpg" style="width:700px; height:auto;" alt=""></td>
     <td>Estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas cursando el 5to ciclo. Me considero una persona activa y que siempre busca terminar las cosas bien y de ser posible rápidamente. También me gusta la responsabilidad y el buen ambiente entre mis compañeros de grupo.</td>
   </tr>
 
