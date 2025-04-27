@@ -435,7 +435,7 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
   <img src="assets/chapter04/wireframes/Proveedor 2.png" style="width:600px; height:auto;">
 </p>
 <p align="center">
-  <img src="assets/chapter04/wireframes/HistorialP.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/wireframes/HistorialP .png" style="width:600px; height:auto;">
 </p>
 <p align="center">
   <img src="assets/chapter04/wireframes/HistorialP 2.png" style="width:600px; height:auto;">
@@ -517,7 +517,7 @@ Link del wireflow diagrams: https://lucid.app/lucidchart/9cdef739-cc7e-4c87-bd8e
   <img src="assets/chapter04/mock-ups/Proveedor 2.png" style="width:600px; height:auto;">
 </p>
 <p align="center">
-  <img src="assets/chapter04/mock-ups/HistorialP.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/mock-ups/HistorialP .png" style="width:600px; height:auto;">
 </p>
 <p align="center">
   <img src="assets/chapter04/mock-ups/HistorialP 2.png" style="width:600px; height:auto;">
@@ -576,7 +576,7 @@ https://lucid.app/lucidchart/cdc929f2-25ef-4684-b019-5a526f18bb35/edit?viewport_
 
 ## 4.5. Web Applications Prototyping
 <p align="center">
-  <img src="assets/chapter04/mock-ups/InfoPagoP 2.png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/prototype/prototype.png" style="width:600px; height:auto;">
 </p>
 
 Link al prototipo:
