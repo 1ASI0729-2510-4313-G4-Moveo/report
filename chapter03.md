@@ -113,4 +113,4 @@
 |21|US21|Subir fotos al listado de vehículo|Como visitante del segmento proveedores, quiero agregar o eliminar fotos de mis vehículos para mostrarlos mejor a los arrendatarios.|5|
 |22|US22|Visualizar reservas de mis vehículos|Como visitante del segmento proveedores, quiero consultar un historial y estado de reservas realizadas a mis vehículos|3|
 
-<img alt="backlog" src="./assets/backlog.png" />
+<img alt="backlog" src="assets/chapter03/product%20backlog/backlog.png" />
