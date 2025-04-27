@@ -179,6 +179,10 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 - **Insights**
 
+<p align="center">
+  <img src="assets/icons/insights-tb1.png"  style="width:800px; height:auto;" alt="">
+</p>
+
 - - - 
 
 ---
