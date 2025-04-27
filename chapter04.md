@@ -460,6 +460,79 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
 
 ### 4.4.3. Web Applications Mock-ups
 
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Registro 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Rentar 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Historial.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Historial 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Historial 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Informacion de Pago.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Informacion de Pago 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Proveedor.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/Proveedor 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP 2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP 3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP 4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/HistorialP 5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/InfoPagoP .png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/mock-ups/InfoPagoP 2.png" style="width:600px; height:auto;">
+</p>
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
