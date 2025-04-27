@@ -151,16 +151,42 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
-**Sprint Planning Background**                                                                                               
-| Criterio    | Detalle     |
-| :----------------- | -------- |                                      
-| Date      | 2025-18-04   |
-| Time      | 12:00pm        |
-| Location   | Reunión Virtual en Virtual google meet |
-| Prepared By     | Giancarlo Castañeda       |
-| Attendees (to planning meeting) | Carlos Gonzales, Fernando Lizano, Javier Nikaido, Anghel Trillo |
-| Sprint 1 Review Summary  | Se realizó la landing page implementada con css y html, a raiz de los mockups y wireframes del diseño del landing page. |
-| Sprint 1 Retrospective Summary | Mejorar la puntualidad en la entrega de artefactos. |
+**Sprint Planning Background**
+<table>
+  <tr>
+    <th>Criterio</th>
+    <th>Detalle</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-18-04</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>12:00pm</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión Virtual en Virtual google meet</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Giancarlo Castañeda</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Carlos Gonzales, Fernando Lizano, Javier Nikaido, Anghel Trillo</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Review Summary</td>
+    <td>Se realizó la landing page implementada con CSS y HTML, a raíz de los mockups y wireframes del diseño del landing page.</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Retrospective Summary</td>
+    <td>Mejorar la puntualidad en la entrega de artefactos.</td>
+  </tr>
+</table>
+
 
 **Sprint Goal & User Stories** 
 
