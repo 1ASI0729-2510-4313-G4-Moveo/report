@@ -393,6 +393,218 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="assets/chapter04/class-diagram.png" />
+
 ### 4.7.2. Class Dictionary
+
+###### 1. `User`
+
+| Atributo  | Tipo de Variable  | Descripción                                        |
+|-----------|-------------------|----------------------------------------------------|
+| id        | int               | Identificador único del usuario                    |
+| name      | Name (VO)         | Nombre completo del usuario                         |
+| email     | Email (VO)        | Dirección de correo electrónico del usuario        |
+| password  | Password (VO)     | Contraseña encriptada                              |
+| phone     | PhoneNumber (VO)  | Número de teléfono del usuario                     |
+
+---
+
+###### 2. `Worker` (hereda de `User`)
+
+| Atributo       | Tipo de Variable   | Descripción                              |
+|----------------|--------------------|------------------------------------------|
+| driverLicense  | DriverLicense (VO) | Información sobre la licencia de conducir |
+| paymentMethod  | PaymentMethod (VO) | Método de pago preferido                |
+
+---
+
+###### 3. `Owner` (hereda de `User`)
+
+| Atributo    | Tipo de Variable   | Descripción                           |
+|-------------|--------------------|---------------------------------------|
+| bankAccount | BankAccount (VO)   | Detalles de la cuenta bancaria para recibir pagos |
+
+---
+
+###### 4. `Car`
+
+| Atributo     | Tipo de Variable   | Descripción                             |
+|--------------|--------------------|-----------------------------------------|
+| id           | int                | Identificador único del automóvil       |
+| brand        | string             | Marca del automóvil (ej. Toyota, Honda) |
+| model        | string             | Modelo del automóvil (ej. Corolla, Civic)|
+| year         | int                | Año de fabricación del automóvil        |
+| licensePlate | LicensePlate (VO)  | Detalles de la matrícula del automóvil  |
+| location     | Location (VO)      | Ubicación geográfica del automóvil      |
+| pricePerHour | Money (VO)         | Precio de alquiler por hora             |
+| available    | boolean            | Indica si el automóvil está disponible para alquiler |
+
+---
+
+###### 5. `Booking`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único de la reserva                    |
+| startDate    | Date               | Fecha y hora de inicio de la reserva                 |
+| endDate      | Date               | Fecha y hora de finalización de la reserva           |
+| status       | string             | Estado actual de la reserva (ej. pendiente, confirmada, cancelada) |
+
+---
+
+###### 6. `Payment`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único del pago                         |
+| amount       | Money (VO)         | Monto pagado por la reserva                          |
+| paymentDate  | Date               | Fecha en la que se procesó el pago                   |
+| paymentStatus| string             | Estado del pago (ej. pendiente, completado, fallido) |
+
+---
+
+###### 7. `Review`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| id           | int                | Identificador único de la reseña                  |
+| rating       | int                | Calificación otorgada (ej. de 1 a 5 estrellas)     |
+| comment      | string             | Comentario del usuario                            |
+| date         | Date               | Fecha en que se envió la reseña                   |
+
+---
+
+###### 8. `InsurancePolicy`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único de la póliza de seguro          |
+| providerName | string             | Nombre de la aseguradora                            |
+| policyNumber | string             | Número de la póliza                                 |
+| validFrom    | Date               | Fecha de inicio de la validez de la póliza          |
+| validTo      | Date               | Fecha de finalización de la validez de la póliza    |
+
+---
+
+###### 9. `Notification`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único de la notificación              |
+| message      | string             | Contenido del mensaje de notificación               |
+| type         | string             | Tipo de notificación (ej. información, alerta, advertencia) |
+| sentAt       | Date               | Fecha y hora en que se envió la notificación         |
+
+---
+
+###### 10. `SupportTicket`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único del ticket de soporte           |
+| issueDescription| string          | Descripción del problema reportado por el usuario  |
+| status       | string             | Estado del ticket (ej. abierto, cerrado)            |
+| createdAt    | Date               | Fecha y hora en que se creó el ticket               |
+
+---
+
+###### 11. `VehicleCategory`
+
+| Atributo     | Tipo de Variable   | Descripción                                          |
+|--------------|--------------------|------------------------------------------------------|
+| id           | int                | Identificador único de la categoría del vehículo    |
+| name         | string             | Nombre de la categoría (ej. SUV, sedan, hatchback)   |
+| description  | string             | Descripción de la categoría                          |
+
+---
+
+###### 12. `Name`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| firstName    | string             | Primer nombre                                      |
+| lastName     | string             | Apellido                                           |
+
+---
+
+###### 13. `Email`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| address      | string             | Dirección completa de correo electrónico           |
+
+---
+
+###### 14. `Password`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| encrypted    | string             | Contraseña encriptada                              |
+
+---
+
+###### 15. `PhoneNumber`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| countryCode  | string             | Código de país (ej. +1, +51)                       |
+| number       | string             | Número de teléfono local                           |
+
+---
+
+###### 16. `DriverLicense`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| licenseNumber| string             | Número de licencia de conducir                     |
+| expirationDate| Date              | Fecha de expiración de la licencia                 |
+
+---
+
+###### 17. `PaymentMethod`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| type         | string             | Tipo de método de pago (ej. Visa, PayPal)          |
+| details      | string             | Detalles específicos del método de pago            |
+
+---
+
+###### 18. `BankAccount`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| bankName     | string             | Nombre del banco                                   |
+| accountNumber| string             | Número de cuenta                                   |
+| routingNumber| string             | Número de ruta del banco                           |
+
+---
+
+###### 19. `LicensePlate`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| plateNumber  | string             | Número de matrícula oficial del automóvil          |
+
+---
+
+###### 20. `Location`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| latitude     | float              | Latitud geográfica                                 |
+| longitude    | float              | Longitud geográfica                                |
+| address      | string             | Dirección física                                   |
+
+---
+
+###### 21. `Money`
+
+| Atributo     | Tipo de Variable   | Descripción                                        |
+|--------------|--------------------|----------------------------------------------------|
+| amount       | float              | Monto monetario                                    |
+| currency     | string             | Código de la moneda (ej. USD, PEN)                |
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+
