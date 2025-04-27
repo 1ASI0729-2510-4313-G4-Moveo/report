@@ -381,6 +381,21 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
 
 
 ### 4.3.2. Landing Page Mock-up
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/chapter04/lpmockups/lpmockup5.png" style="width:600px; height:auto;">
+</p>
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 <p align="center">
