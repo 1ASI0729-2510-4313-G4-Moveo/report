@@ -186,23 +186,27 @@ Crear **Moveo**, una app que actúe como intermediario confiable entre trabajado
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Hipótesis 1:**
-  - Creemos que los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse.
-  - Cuando entren a la app, van a buscar un auto cerca para unas horas o todo el día.
-  - Entonces podrán reservarlo desde la app, pagar y usarlo.
-  - Sabremos que funcionó si repiten el uso varias veces en una semana.
+Con el fin de guiar el desarrollo inicial de Moveo, formulamos nuestro Lean UX Hypothesis Statement. A través de esta hipótesis, establecemos de manera estructurada nuestras suposiciones sobre quiénes son nuestros usuarios, qué necesidades específicas tienen, qué solución les ofreceremos y cómo esperamos validar nuestro enfoque a partir de sus comportamientos y resultados medibles.
+
+- **Hipótesis 1:** <br>
+  **Creemos que** los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse. <br>
+  **Cuando entren** a la app, van a buscar un auto cerca para unas horas o todo el día. <br>
+  **Entonces** podrán reservarlo desde la app, pagar y usarlo. <br>
+  **Sabremos que** funcionó si repiten el uso varias veces en una semana. <br>
+
 
 - **Hipótesis 2:**
-  - Creemos que los dueños de autos quieren una forma de ganar dinero sin estrés.
-  - Cuando suban su auto a Moveo, pondrán su horario y condiciones.
-  - Entonces alguien lo reservará y ellos solo tendrán que entregarlo (o no, si se hace con recojo automático).
-  - Sabremos que está funcionando si hay más autos publicados y los dueños están contentos con sus ganancias.
+  **Creemos que** los dueños de autos quieren una forma de ganar dinero sin estrés. <br>
+  **Cuando** suban su auto a Moveo, pondrán su horario y condiciones. <br>
+  **Entonces** alguien lo reservará y ellos solo tendrán que entregarlo (o no, si se hace con recojo automático). <br>
+  **Sabremos que** está funcionando si hay más autos publicados y los dueños están contentos con sus ganancias. <br>
+
 
 - **Hipótesis 3:**
-  - Creemos que los usuarios quieren saber que están protegidos si pasa algo malo.
-  - Cuando ocurra un problema, podrán reportarlo por la app.
-  - Entonces activamos soporte o el seguro según el caso.
-  - Sabremos que la experiencia es buena si los problemas se resuelven rápido y sin peleas.
+  **Creemos que** los usuarios quieren saber que están protegidos si pasa algo malo. <br>
+  **Cuando** ocurra un problema, podrán reportarlo por la app. <br>
+  **Entonces** activamos soporte o el seguro según el caso. <br>
+  **Sabremos que** la experiencia es buena si los problemas se resuelven rápido y sin peleas. <br>
 
 ---
 
