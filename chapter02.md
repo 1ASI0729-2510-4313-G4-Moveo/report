@@ -143,7 +143,6 @@ Los entrevistados del segmento Proveedores de Autos revelan que, si bien utiliza
 En cuanto al segmento Trabajadores Urbanos, se evidencia que el 100% de los entrevistados depende actualmente del transporte público para sus desplazamientos, considerando aspectos como costo, comodidad y tiempo como los principales factores de elección. Sin embargo, un 100% también manifestó frustración frente a la falta de confiabilidad, la congestión vehicular y la inseguridad del transporte urbano. Además, todos coinciden en que contar con un vehículo solo cuando lo necesiten les brindaría mayor autonomía, flexibilidad y control de su tiempo.
 
 En resumen, el análisis de las entrevistas muestra una necesidad latente en ambos segmentos: los proveedores buscan seguridad para ofrecer sus autos, mientras que los trabajadores urbanos buscan una alternativa que les permita movilizarse de manera más eficiente, segura y flexible sin tener que poseer un vehículo propio. Esta información respalda la viabilidad de la propuesta de Moveo como solución adaptada a los intereses y necesidades de ambos públicos objetivo.
-
 ## 2.3. Need finding
 ### 2.3.1. User Person
 #### Segmento 1: Trabajador urbano
@@ -203,6 +202,13 @@ Esta tabla resume las tareas que realiza un proveedor de auto (persona que ofrec
 <img src="assets/chapter2/Proveedor - Empathy map.png">
 
 ### 2.3.5. As-is Scenario Mapping
+
+#### Segmento 1: Trabajador urbano
+<img src="assets/chapter2/As-Is Trabajador.png">
+
+#### Segmento 2: Proveedor de auto
+<img src="assets/chapter2/As-Is Proveedor.png">
+
 ## 2.4. Ubiquitous Language.
 | **Término (Inglés)** |**Término (Español)** | **Definición** |
 |-------------------------|--------------------------|-------------------|
