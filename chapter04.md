@@ -540,6 +540,40 @@ Link del wireflow diagrams: https://lucid.app/lucidchart/9cdef739-cc7e-4c87-bd8e
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+<p align="center">
+  <img src="assets/userflow/userflow.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow2.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow3.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow4.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow5.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow6.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow7.png" style="width:600px; height:auto;">
+</p>
+<p align="center">
+  <img src="assets/userflow/userflow8.png" style="width:600px; height:auto;">
+</p>
+
+Link a la parte 1 del userflow en lucidchart:
+- Parte 1
+https://lucid.app/lucidchart/41a45b15-a31f-4d40-8b54-ae29cbfd528a/edit?viewport_loc=-23%2C72%2C2237%2C1109%2CbLmanzMPT3G7&invitationId=inv_e3d6bee7-388c-4adb-afaa-053ebb2be412
+- Parte 2
+https://lucid.app/lucidchart/cdc929f2-25ef-4684-b019-5a526f18bb35/edit?viewport_loc=-1550%2C-1351%2C5798%2C3748%2C0_0&invitationId=inv_b19dc14a-c643-4ee4-901c-78e25fad7cd7
+
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
