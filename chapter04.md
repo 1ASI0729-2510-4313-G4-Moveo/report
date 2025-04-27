@@ -458,6 +458,11 @@ Del lado de los propietarios, el sistema también incluirá un buscador de reser
 
 ### 4.4.2. Web Applications Wire flow Diagrams
 
+<p align="center">
+  <img src="assets/chapter04/wireflow/wireflow.png" style="width:600px; height:auto;">
+</p>
+
+Link del wireflow diagrams: https://lucid.app/lucidchart/9cdef739-cc7e-4c87-bd8e-6bffdbcd0134/edit?view_items=BhmasF0meFeN&invitationId=inv_5f89d871-f295-4b3e-9348-cf5af6ab0940
 ### 4.4.3. Web Applications Mock-ups
 
 <p align="center">
