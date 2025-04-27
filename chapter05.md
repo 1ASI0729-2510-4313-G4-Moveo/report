@@ -228,6 +228,19 @@ A continuación se muestran los commits realizados por los integrantes del equip
 | 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-headersandfooter   | ff76265 | style: add content for normalize and titles from css | \* No aplica | 20/04/2025 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+<img src="./assets/chapter5/evidence/evidence.PNG" />
+
+<img src="./assets/chapter5/evidence/evidence2.PNG" />
+
+<img src="./assets/chapter5/evidence/evidence3.PNG" />
+
+<img src="./assets/chapter5/evidence/tabla.PNG" />
+
+<img src="./assets/chapter5/evidence/tabla2.PNG" />
+
+<img src="./assets/chapter5/evidence/tabla3.PNG" />
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
 
