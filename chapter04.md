@@ -600,10 +600,22 @@ https://www.figma.com/proto/nrxEj7WzMbOci6Qe0h9zGO/Untitled?node-id=1-49&t=OV9Jl
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
+<p align="center">
+  <img src="assets/chapter04/C4/Context.png" style="width:800px; height:auto;">
+</p>
 
 ### 4.6.2. Software Architecture Container Diagrams
+<p align="center">
+  <img src="assets/chapter04/C4/Container.png" style="width:800px; height:auto;">
+</p>
 
 ### 4.6.3. Software Architecture Components Diagrams
+<p align="center">
+  <img src="assets/chapter04/C4/Components.png" style="width:800px; height:auto;">
+</p>
+
+- Link del Structurizr
+https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 
 ## 4.7. Software Object-Oriented Design
 
