@@ -213,12 +213,58 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 <img src="./assets/chapter5/landing-deployment.png" />
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-## 5.3. Validation Interviews
-### 5.3.1. Diseño de Entrevistas
-### 5.3.2. Registro de Entrevistas
-### 5.3.3. Evaluaciones según heurísticas
-## 5.4. Video About-the-Product
 
 ## Conclusiones
+- **Solución a una necesidad real:**
+<br>Moveo logra cubrir la necesidad de movilidad flexible para trabajadores y turistas, ofreciendo una alternativa económica y conveniente frente al transporte público o taxis tradicionales.
+
+- **Segmentación clara y efectiva:**
+<br>Definir segmentos específicos (trabajadores y proveedores) permitió construir funcionalidades enfocadas que mejoran la experiencia de usuario de cada grupo.
+
+- **Importancia de la experiencia de usuario:**
+<br>El diseño UX/UI planteado en Figma priorizó la facilidad de uso, logrando flujos de navegación intuitivos y rápidos que favorecen el registro, reserva y provisión de autos.
+
+- **Gestión técnica sólida:**
+<br>La arquitectura propuesta en Structurizr permitió visualizar una estructura robusta de servicios, incluyendo pagos, historial de viajes y calificaciones, lo que garantiza escalabilidad para futuros crecimientos.
+
+- **Trabajo colaborativo fundamental:**
+<br>La construcción del proyecto demostró que una buena comunicación y división de tareas entre diseño, análisis y desarrollo es clave para avanzar de forma ágil y ordenada.
+
+- **Futuro prometedor para Moveo:**
+<br>El modelo de negocio y la plataforma tecnológica sentada en este proyecto tienen potencial para expandirse y consolidarse como un servicio de movilidad urbana relevante en el mercado.
+
+## Recomendaciones
+- **Fortalecer el trabajo en equipo:**
+<br>Es importante mantener reuniones frecuentes y retrospectivas para revisar avances, identificar bloqueos y distribuir tareas de manera equitativa y estratégica.
+
+- **Documentar todo el proceso:**
+<br>Para proyectos futuros, registrar decisiones, cambios y justificaciones técnicas facilitará nuevas incorporaciones de miembros al equipo y reducirá la curva de aprendizaje.
+
+- **Validación temprana con usuarios reales:**
+<br>Antes de lanzar completamente, realizar pruebas piloto o MVP con usuarios reales permitirá ajustar funcionalidades, precios y flujos de manera basada en evidencia.
+
+- **Actualización constante de la infraestructura:**
+<br>Planificar actualizaciones periódicas en la API, seguridad de pagos y bases de datos asegurará que Moveo se mantenga competitivo y protegido frente a nuevas amenazas tecnológicas.
+
+- **Ampliar la cultura de feedback:**
+<br>Promover una cultura donde todos los miembros puedan dar y recibir feedback sincero, respetuoso y enfocado en mejorar el producto, ayuda a fortalecer la calidad final del trabajo.
+
+- **Explorar futuras integraciones:**
+<br>A largo plazo, considerar integrar Moveo con servicios externos como mapas inteligentes, seguros de viaje automáticos o asociaciones con parkings privados podría ampliar las fuentes de ingreso y la propuesta de valor.
+
 ## Referencias bibliográficas
+- Ries, E. (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business.
+https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898
+
+- Brown, T. (2009). Change by Design: How Design Thinking Creates New Alternatives for Business and Society. Harvard Business Press.
+https://www.amazon.com/Change-Design-Creates-Alternatives-Business/dp/1422177807
+
+- Katzenbach, J., & Smith, D.(1993). The Wisdom of Teams: Creating the High-Performance Organization. Harvard Business Review Press.
+https://www.amazon.com/Wisdom-Teams-Creating-High-Performance-Organization/dp/0875843670
+
+- Gehl, J. (2010). Cities for People. Island Press.
+https://islandpress.org/books/cities-people
+
+- Norman, D. A. (2013). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.
+https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/
 ## Anexos
