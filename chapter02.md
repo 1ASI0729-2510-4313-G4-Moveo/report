@@ -181,6 +181,13 @@ Esta tabla resume las tareas que realiza un proveedor de auto (persona que ofrec
 <img src="assets/chapter2/Proveedor - Empathy map.png">
 
 ### 2.3.5. As-is Scenario Mapping
+
+#### Segmento 1: Trabajador urbano
+<img src="assets/chapter2/As-Is Trabajador.png">
+
+#### Segmento 2: Proveedor de auto
+<img src="assets/chapter2/As-Is Proveedor.png">
+
 ## 2.4. Ubiquitous Language.
 | **Término (Inglés)** |**Término (Español)** | **Definición** |
 |-------------------------|--------------------------|-------------------|
