@@ -367,7 +367,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Lizano, Fernando - TB1:</strong> message here
         <br><br>
-        <strong>Nikaido, Javier - TB1:</strong> En presentaciones de avance y reuniones con miembros del equipo y stakeholders, he demostrado habilidad para exponer resultados y decisiones, facilitando la comprensión de conceptos técnicos y estratégicos. He utilizado un enfoque directo y estructurado en cada fase del proceso, desde la investigación de usuarios hasta la especificación de requerimientos, asegurando que todos los involucrados pudieran entender y aportar a los objetivos del proyecto.
+        <strong>Nikaido, Javier - TB1:</strong> En presentaciones de avance y reuniones con miembros del equipo , he demostrado habilidad para exponer resultados y decisiones, facilitando la comprensión de conceptos técnicos y estratégicos. He utilizado un enfoque directo y estructurado en cada fase del proceso, desde la investigación de usuarios hasta la especificación de requerimientos, asegurando que todos los involucrados pudieran entender y aportar a los objetivos del proyecto.
         <br><br>
         <strong>Trillo, Anghel - TB1:</strong> message here
       <td>
