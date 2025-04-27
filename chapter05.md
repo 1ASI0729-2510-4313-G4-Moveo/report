@@ -201,23 +201,32 @@ A continuación se muestran los commits realizados por los integrantes del equip
 
 | Repository  | Branch  | Commit Id  | Commit Message  | Commit Message Body  | Commited on (Date) |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  | | \* No aplica  | 24/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  | | \* No aplica | 23/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 15/04/2025 |
-| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 15/04/2025 |
-| 
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-customers | 3e6d460 | feat(index): add scroll top function and content | \* No aplica  | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-customers| a04bacf | feat(index): add map area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-customers | d4b4511 | feat(index): add contact area content | \* No aplica  | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-customers| 3ccab7e | style: add styles for contact and map area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-customers | 40ba33d | style: add styles for testimonial area content | \* No aplica  | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-hero | df0b9f4 | style: add styles for features area content  | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-hero | 48b0f4b | feat(index): add features area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-hero | 4bf4b47 | feat: add me.svg into assets\images\somethings | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-hero | 26468c9 | feat: add main.svg into assets\images\somethings | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-hero | 804fd1f | style: add styles for hero area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-services | 06d709e | style: add styles for pricing area content  | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-services | f00f946 | feat: add pricing area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-services | 86704c7 | feat: add styles for services area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-services | 465a3f8 | feat: add services area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-services | 29d38ab | Merge branch 'feature-hero' into develop | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-team | 14db7cb | style: add styles for team area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-team | 9ebbce7 | feat(index): add team area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-team | 90b0bf7 | style: add styles for video area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-team | 0bbb3c9 | feat(index): add video area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-team | f00f946 | feat: add pricing area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-headersandfooter   | ede3143 | style: add footer area style content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-headersandfooter   | c755442 | feat(index): add footer area content | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-headersandfooter   | 556aeea | feat: add moveo_icon_white.svg into assets\images\logo | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-headersandfooter   | 61214ea | feat: add moveo_icon_color.svg into assets\images\logo | \* No aplica | 20/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page | feature-headersandfooter   | ff76265 | style: add content for normalize and titles from css | \* No aplica | 20/04/2025 |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
@@ -301,25 +310,25 @@ https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/97804
 ## Anexo A: Diseño y Landing: 
 
 ### Figma
-- [Figmas diseño UX](//www.figma.com/design/XUOywJac5xiviLZTzQRXVC/Aplicaciones-Web---SafeCycle?node-id=13-501&t=miLetXSzBwb9VPw5-1)
-
-### User Persona
-- [Link a UXpresia de Anne Guillen](https://uxpressia.com/w/2JtXc/p/tbFfu)
-- [Link a UXpresia de Mateo Smith](https://uxpressia.com/w/2JtXc/p/Wfgtx)
+- [Figmas diseño UX]()
 
 ### Landing Page
-- [Landing Page desplegada](https://1asi0730-2510-4374-g1-safecycle.github.io/landing_page/)
+- [Landing Page desplegada](https://1asi0729-2510-4313-g4-moveo.github.io/Landing-Page/)
 
 ### Domain-Driven Software Architecture / C4 Diagrams
-- [Link a Structurizr](https://structurizr.com/share/101562/e1c6f730-70d6-479d-a803-3be58880fd45)
+- [Link a Structurizr](https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181)
 
 ### Flujos y Prototype
 
-- [link a wireflow diagrams](https://lucid.app/lucidchart/007fe905-b01c-4089-9f21-90863b26fd98/edit?invitationId=inv_2f936f9b-5515-424e-93a7-8ea7595ce4e6)
+- [link a wireflow diagrams](https://lucid.app/lucidchart/9cdef739-cc7e-4c87-bd8e-6bffdbcd0134/edit?view_items=BhmasF0meFeN&invitationId=inv_5f89d871-f295-4b3e-9348-cf5af6ab0940)
 
-- [link a prototype](https://www.figma.com/proto/XUOywJac5xiviLZTzQRXVC/Aplicaciones-Web---SafeCycle?node-id=2362-1253&p=f&t=lIyIwAwyr9eGUpbR-1&scaling=scale-down&content-scaling=responsive&page-id=13%3A501&starting-point-node-id=2362%3A1866&show-proto-sidebar=1)
+- [link a userflow diagrams Parte 1](https://lucid.app/lucidchart/41a45b15-a31f-4d40-8b54-ae29cbfd528a/edit?viewport_loc=-23%2C72%2C2237%2C1109%2CbLmanzMPT3G7&invitationId=inv_e3d6bee7-388c-4adb-afaa-053ebb2be412)
+
+- [link a userflow diagrams Parte 2](https://lucid.app/lucidchart/cdc929f2-25ef-4684-b019-5a526f18bb35/edit?viewport_loc=-1550%2C-1351%2C5798%2C3748%2C0_0&invitationId=inv_b19dc14a-c643-4ee4-901c-78e25fad7cd7)
+
+- [link a prototype](https://www.figma.com/proto/nrxEj7WzMbOci6Qe0h9zGO/Untitled?node-id=1-49&t=OV9Jld3INRoD278N-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A49)
 
 <div style="page-break-after: always; break-after: page;"></div>
 
 ## Anexo B: Videos de exposiciones: 
-- [Link a video de exposición de TB1 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310609_upc_edu_pe/EXTIZ0eWKRlGvCWSXGR1MKsBIj1zFsSVmcwDxCPgLsc7Qw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=D1dRUU)
+- [Link a video de exposición de TB1 en Microsoft Stream]()
