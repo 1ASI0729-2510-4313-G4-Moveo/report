@@ -575,6 +575,12 @@ https://lucid.app/lucidchart/41a45b15-a31f-4d40-8b54-ae29cbfd528a/edit?viewport_
 https://lucid.app/lucidchart/cdc929f2-25ef-4684-b019-5a526f18bb35/edit?viewport_loc=-1550%2C-1351%2C5798%2C3748%2C0_0&invitationId=inv_b19dc14a-c643-4ee4-901c-78e25fad7cd7
 
 ## 4.5. Web Applications Prototyping
+<p align="center">
+  <img src="assets/chapter04/mock-ups/InfoPagoP 2.png" style="width:600px; height:auto;">
+</p>
+
+Link al prototipo:
+https://www.figma.com/proto/nrxEj7WzMbOci6Qe0h9zGO/Untitled?node-id=1-49&t=OV9Jld3INRoD278N-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A49
 
 ## 4.6. Domain-Driven Software Architecture
 
