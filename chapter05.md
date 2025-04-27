@@ -167,10 +167,18 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 | Criterio  | Detalle   |
 | :-------------- | -------------------- |
 | Sprint 1 Goal  | Nuestro enfoque para este sprint es implementar la landing page de nuestro producto. Creemos que esto brindará una correcta presentación de nuestro producto hacia los visitantes. Esto se confirmará cuando todas las secciones de nuestra página web sean visitadas por cada visitante.  |
-| Sprint 1 Velocity            | 23       |
-| **Sum of Story Points**      | 23                                |
+| Sprint 1 Velocity            | Para este sprint nuestro equipo puende aceptar hasta 25 story points       |
+| **Sum of Story Points**      | Para este sprint haremos 23 story points                                |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name)  | GitHub Username | Aspect Diseño UX/UI y Prototipado (L/C) | Aspect Programación de la Landing Page (L/C) | Aspect Arquitectura de Información y Sistemas de Organización/Navegación (L/C) |
+| ------------------------------------ | --------------- | --------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Castañeda Guimas, Giancarlo Santiago | Darksens01      | L                                       | L                                            | C                                                                                             |
+| Gonzales Valverde, Carlos Matthew    | Carlos12324     | C                                       | L                                            | L                                                                                             |
+| Nikaido Vargas, Javier Nikaido       | MassiFlip       | L                                       | C                                            | C                                                                                             |
+| Lizano Coll Cardenas, Fernando Jesus | GuardianDeity   | L                                       | C                                            | L                                                                                             |
+| Trillo Hernandez, Anghel Melanie     | AM27TH          | C                                       | C                                            | L                                                                                             |
 
 #### 5.2.1.3. Sprint Backlog 1
 | User Story | Work-Item/Task | Id | Title | Description | Estimation (Hrs) | Assigned To | Status |
@@ -189,6 +197,27 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 | us-17 | T17 | T17.1 | Sección de contacto | Crear un formulario de contacto para dudas o soporte. | 3 | Fernando Lizano | DONE |
 | us-18 | T18 | T18.1 | Landing Page Responsive | Adaptar la landing page para dispositivos móviles y escritorio. | 2 | Fernando Lizano | DONE |
 #### 5.2.1.4. Development Evidence for Sprint Review
+A continuación se muestran los commits realizados por los integrantes del equipo, se obviaron los merges y commits incorrectos por razones de mejor visualización acerca de los commits correctamente desarrollados e implementados:
+
+| Repository  | Branch  | Commit Id  | Commit Message  | Commit Message Body  | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  | | \* No aplica  | 24/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  | | \* No aplica | 23/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 23/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 18/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 15/04/2025 |
+| 1ASI0729-2510-4313-G4-Moveo landing\_page |  |  |  | \* No aplica | 15/04/2025 |
+| 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
