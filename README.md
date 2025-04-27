@@ -335,7 +335,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Castañeda, Santiago - TB1:</strong> Durante el desarrollo del proyecto, realice actividades como la descripción de la startup, entrevistar a los segmentos objetivos y hacer sus anilisis, las tablas competitivas y el analisis competitivo, ademas me dedique a realizar diseño Lean UX y UI, el prototipado del proyecto y el resto del capitulo 5 en lo que vendria a ser las evidencias, los insights y las evidencias de la Landing, ademas de las conclusiones, recomendaciones y anexos.
         <br><br>
-        <strong>Gonzales, Carlos - TB1:</strong> message here
+        <strong>Gonzales, Carlos - TB1:</strong> Durante el desarrollo del proyecto, realice las actividades, como la landing page en el tema de las imagenes, traduccion, me encargue de realizar las entrevistas junto con el analisis de las entrevistas, aplique HTML, CSS y JS en la landing page, tambien realice el searching systems, navigation system, software architecture components diagrams, apoye con mi equipo en las actividades que les faltaban tambien.
         <br><br>
         <strong>Lizano, Fernando - TB1:</strong> message here
         <br><br>
@@ -353,7 +353,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Castañeda, Santiago - TB1:</strong> Como equipo, aprendimos a trabajar en ambientes dificultosos y a veces tardados. Despues de lograr resolver algunas dificultades demostramos ser un buen grupo que cuenta con muchas habilidades individual y grupalmente hablando. Nos faltaria lograr una mejor estructuración del tiempo para lograr tener un mejor margen de error
         <br><br>
-        <strong>Gonzales, Carlos - TB1:</strong> message here
+        <strong>Gonzales, Carlos - TB1:</strong> Como grupo tenemos un buen ambiente y siempre sabemos trabajar bajo a presion, incluso si tenemos dificultades con un compañero sabemos como solucionarlo de inmediato, solo nos faltaria mejorar en el aspecto de tener una mejor estructura del tiempo, pero del resto tenemos buena comunicacion, buen ambiente y sabemos trabajar individualmente cada uno.
         <br><br>
         <strong>Lizano, Fernando - TB1:</strong> message here
         <br><br>
