@@ -117,24 +117,9 @@ El problema en sí puede variar de precios, en este caso para los trabajadores p
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
+Los trabajadores urbanos que no cuentan con un vehículo propio enfrentan dificultades para movilizarse de forma flexible, económica y sin depender del transporte público. Al mismo tiempo, muchos propietarios de autos que usan poco sus vehículos desean generar ingresos adicionales, pero desconfían de prestar su auto a desconocidos o se ven limitados por procesos complejos. Las soluciones actuales, como el carsharing corporativo o servicios de ride-hailing, no satisfacen esta necesidad de forma directa, segura y accesible para ambos perfiles.
 
-**Usuario objetivo:**
-
-Trabajadores que necesitan moverse con libertad, pero que no tienen auto, y personas que tienen autos que casi no usan y quieren ganar algo extra con ellos.
-
-**Qué necesitan:**
-
-- Los trabajadores buscan una forma fácil y económica de tener un auto por un tiempo sin tener que comprarlo.
-- Los dueños de autos quieren prestarlo, pero de forma segura y sin tantas complicaciones.
-
-**Problemas que tienen:**
-
-- No hay muchas plataformas que conecten a ambas partes sin cobrar mucho o pedir mil requisitos.
-- A veces hay desconfianza en prestar un auto a alguien desconocido o en subirse a un auto ajeno.
-
-**Nuestra propuesta:**
-
-Una app llamada **Moveo** que sirva de intermediario. Los trabajadores pueden buscar un auto cerca, y los dueños lo pueden ofrecer con seguridad. Todo el proceso sería por la app: verificación, pagos, soporte, etc.
+Nuestra solución abordará este problema mediante Moveo, una aplicación que conectará a trabajadores con necesidad de movilidad y a dueños de autos dispuestos a alquilarlos por periodos cortos o medios. El servicio permitirá gestionar desde la app todo el proceso de forma sencilla y confiable: registro de usuarios, publicación y búsqueda de vehículos, pagos y soporte con seguros básicos. Inicialmente, nuestro enfoque estará en jóvenes trabajadores de zonas urbanas y propietarios de autos subutilizados en ciudades como Lima Metropolitana.
 
 ---
 
@@ -142,48 +127,39 @@ Una app llamada **Moveo** que sirva de intermediario. Los trabajadores pueden bu
 
 **Supuestos de negocio:**
 
-1. Creemos que los usuarios quieren alquilar autos sin tantas vueltas, sin ir a una agencia.
-2. Pensamos que con una app donde todo esté claro (precios, disponibilidad, contacto) se animarían más.
-3. Los primeros que usarán la app serían trabajadores que se movilizan a diario y dueños de autos que no usan mucho su carro.
-4. El valor que más les importa es sentirse seguros y que el servicio sea práctico.
-5. También valoran el hecho de que puedan resolver todo desde su celular, sin salir de casa.
-6. Vamos a llegar a los usuarios por redes, referidos, promociones y quizás convenios con empresas.
-7. La app ganaría por comisión en cada alquiler o planes premium para dueños frecuentes.
-8. Nuestra competencia serían agencias de alquiler, Uber o incluso grupos de Facebook para alquilar carros.
-9. Nuestra ventaja es que somos más accesibles, rápidos y enfocados en trayectos diarios o alquileres cortos.
-10. Un riesgo es que la gente tenga miedo de prestar su carro.
-11. Planeamos resolver eso con seguros, perfiles verificados y un sistema de reputación.
-
-**Supuestos de usuario:**
-
-- **¿Quiénes son?** Trabajadores sin auto propio y dueños de autos que no usan mucho.
-- **¿Qué queremos resolver?** Que los primeros puedan movilizarse mejor y los segundos ganen dinero con sus autos.
-- **¿Qué buscan en la app?** Que sea clara, que no se complique, y que se sientan protegidos.
-- **¿Dónde encaja en su vida?** Para el trabajador, es una forma de llegar al trabajo o moverse sin depender de buses o taxis caros. Para el dueño del auto, es una forma pasiva de tener ingresos extra.
-- **¿Cuándo y cómo usan la app?** Cuando necesitan moverse o cuando su carro esté libre. Desde el celular, viendo autos cercanos o viendo si alguien quiere usar su auto.
-- **¿Cómo debe verse la app?** Bonita, simple, con botones grandes. Que no te pierdas buscando funciones, y que puedas hacer todo en pocos pasos.
+Creemos que los usuarios quieren alquilar autos sin tantas vueltas, sin ir a una agencia.
+Pensamos que con una app donde todo esté claro (precios, disponibilidad, contacto) se animarían más.
+Los primeros que usarán la app serían trabajadores que se movilizan a diario y dueños de autos que no usan mucho su carro.
+El valor que más les importa es sentirse seguros y que el servicio sea práctico.
+También valoran el hecho de que puedan resolver todo desde su celular, sin salir de casa.
+Vamos a llegar a los usuarios por redes, referidos, promociones y quizás convenios con empresas.
+La app ganaría por comisión en cada alquiler o planes premium para dueños frecuentes.
+Nuestra competencia serían agencias de alquiler, Uber o incluso grupos de Facebook para alquilar carros.
+Nuestra ventaja es que somos más accesibles, rápidos y enfocados en trayectos diarios o alquileres cortos.
+Un riesgo es que la gente tenga miedo de prestar su carro.
+Planeamos resolver eso con seguros, perfiles verificados y un sistema de reputación.
 
 ---
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Hipótesis 1:**
-  - Creemos que los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse.
-  - Cuando entren a la app, van a buscar un auto cerca para unas horas o todo el día.
-  - Entonces podrán reservarlo desde la app, pagar y usarlo.
-  - Sabremos que funcionó si repiten el uso varias veces en una semana.
 
-- **Hipótesis 2:**
-  - Creemos que los dueños de autos quieren una forma de ganar dinero sin estrés.
-  - Cuando suban su auto a Moveo, pondrán su horario y condiciones.
-  - Entonces alguien lo reservará y ellos solo tendrán que entregarlo (o no, si se hace con recojo automático).
-  - Sabremos que está funcionando si hay más autos publicados y los dueños están contentos con sus ganancias.
+  - **Creemos que** los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse.
+  - **Cuando** entren a la app, van a buscar un auto cerca para unas horas o todo el día.
+  - **Entonces** podrán reservarlo desde la app, pagar y usarlo.
+  - **Sabremos que** funcionó si repiten el uso varias veces en una semana.
+---
 
-- **Hipótesis 3:**
-  - Creemos que los usuarios quieren saber que están protegidos si pasa algo malo.
-  - Cuando ocurra un problema, podrán reportarlo por la app.
-  - Entonces activamos soporte o el seguro según el caso.
-  - Sabremos que la experiencia es buena si los problemas se resuelven rápido y sin peleas.
+  - **Creemos que** los dueños de autos quieren una forma de ganar dinero sin estrés.
+  - **Cuando suban** su auto a Moveo, pondrán su horario y condiciones.
+  - **Entonces** alguien lo reservará y ellos solo tendrán que entregarlo (o no, si se hace con recojo automático).
+  - **Sabremos que** está funcionando si hay más autos publicados y los dueños están contentos con sus ganancias.
+---
+
+  - **Creemos que** los usuarios quieren saber que están protegidos si pasa algo malo.
+  - **Cuando** ocurra un problema, podrán reportarlo por la app.
+  - **Entonces** activamos soporte o el seguro según el caso.
+  - **Sabremos que** la experiencia es buena si los problemas se resuelven rápido y sin peleas.
 
 ---
 
