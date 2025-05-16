@@ -105,13 +105,6 @@ Así mismo, Para analizar los antecedentes y problemáticas del desarrollo nuest
 - **How Much:** El impacto económico varía: para los usuarios frecuentes de transporte, los costos pueden ser elevados, especialmente si requieren desplazamientos largos o diarios. Para los propietarios, se traduce en una pérdida de oportunidades de generar ingresos, además del riesgo de que el vehículo represente un pasivo en lugar de un activo, acumulando gastos por mantenimiento, seguro e impuestos.  
 
 <br>
-
-<p align="center">
-  <a>
-    <img src="assets/chapter01/5W2H/5w2h.jpg" style="width:500px; height:auto;" alt="">
-  </a>
-</p>
-
 El problema en sí puede variar de precios, en este caso para los trabajadores puede ser un promedio elevado especialmente si necesitan de movilidad frecuente y por largos trayectos. Para los propietarios de autos en este caso sería una perdida de oportunidades económicas, sus autos podrían generar gastos a futuro como mantenimiento y seguro.
 
 ### 1.2.2. Lean UX Process
