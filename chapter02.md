@@ -375,12 +375,21 @@ Esta tabla resume las tareas que realiza un proveedor de auto (persona que ofrec
 <img src="assets/chapter02/As-Is Proveedor.png">
 
 ## 2.4. Ubiquitous Language.
-| **Término (Inglés)** |**Término (Español)** | **Definición** |
-|-------------------------|--------------------------|-------------------|
-|Vehicle Provider |Proveedor de Vehículo|Persona que ofrece su auto personal para ser alquilado mediante la aplicación Moveo|
-|Renter|Arrendatario / Usuario|Persona que alquila un vehículo disponible mediante la plataforma para su transporte|
-|Fixed Rate|Tarifa Fija|Monto económico predeterminado que un usuario paga por el uso del vehículo en un periodo|
-|Delivery Point|Punto de Entrega|Lugar físico, mostrado en el mapa, donde el auto es dejado por el proveedor para el usuario|
-|Parking Hub|Centro de Estacionamiento|Estacionamiento asociado al sistema donde se permite el intercambio o almacenamiento de autos|
-|Remote Unlock|Desbloqueo Remoto|Funcionalidad que permite abrir y cerrar el vehículo usando la aplicación sin contacto físico|
-|Available Vehicle|Vehículo Disponible|Auto que ha sido ofrecido por un proveedor y se encuentra visible para ser rentado en la aplicación|
+| Término (Inglés) | Término (Español) | Definición |
+| ----- | ----- | ----- |
+| Vehicle Provider | Proveedor de Vehículo | Persona que ofrece su auto personal para ser alquilado mediante la aplicación Moveo. |
+| Renter | Arrendatario / usuario | Persona que alquila un vehículo disponible mediante la plataforma para su transporte. |
+| Fixed Rate | Tarifa Fija | Monto económico predeterminado que un usuario paga por el uso del vehículo en un periodo. |
+| Delivery Point | Punto de Entrega | Lugar físico, mostrado en el mapa, donde el auto es dejado por el proveedor para el usuario. |
+| Parking Hub | Centro de Estacionamiento | Estacionamiento asociado al sistema donde se permite el intercambio o almacenamiento de autos. |
+| Remote Unlock | Desbloqueo Remoto | Funcionalidad que permite abrir y cerrar el vehículo usando la aplicación sin contacto físico. |
+| Available Vehicle | Vehículo Disponible | Auto que ha sido ofrecido por un proveedor y se encuentra visible para ser rentado en la aplicación. |
+| Rental Agreement | Contrato de Alquiler | Términos y condiciones aceptados electrónicamente al concretar una reserva de vehículo. |
+| Availability Window | Ventana de Disponibilidad | Periodo de tiempo en que el proveedor habilita su auto para ser alquilado. |
+| Usage Period | Periodo de Uso | Tiempo total que el arrendatario tiene derecho a utilizar el vehículo rentado. |
+| Identity Verification | Verificación de Identidad | Proceso obligatorio para autenticar a proveedores y arrendatarios antes de usar la aplicación. |
+| Insurance Coverage | Cobertura de Seguro | Protección legal y financiera que cubre daños o robos durante el periodo de alquiler. |
+| Community Rating | Calificación Comunitaria | Sistema de evaluación basado en comentarios y puntuaciones de usuarios y proveedores. |
+| Peer-to-Peer Rental | Alquiler entre Particulares | Modalidad en la que personas alquilan directamente sus autos a otras personas mediante la app. |
+| Self-Service Mobility | Movilidad Autoservicio | Sistema en el cual el usuario puede reservar, recoger y devolver vehículos sin intermediarios. |
+| Fleet Owner | Propietario de Flota | Persona o empresa que pone a disposición varios vehículos dentro del ecosistema Moveo. |
