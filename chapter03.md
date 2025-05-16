@@ -57,6 +57,7 @@
 | **EP03**|**Solicitud y Reserva de Vehículos**| **Como invitado trabajador, quiero poder buscar, reservar y desbloquear autos desde la aplicación, para movilizarme sin intermediarios.** |
 |**EP04**|**Visualización y Selección de Estacionamientos**|**Como invitado trabajador, quiero visualizar en un mapa los estacionamientos disponibles para programar dónde recoger y dejar el vehículo de manera conveniente.** |
 |**EP05**|**Creación de Landing Page**|**Como visitante trabajador, quiero conocer la propuesta de valor de Moveo, cómo funciona y qué beneficios me ofrece tanto como proveedor o como cliente, desde la web oficial** |
+|**EP06**|**Manejo de la app web**|**Como developer quiero manejar fácilmente la información de la aplicación para saber si todo está fluyendo de forma satisfactoria** |
 ### User Stories
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 | ----- | ----- | ----- | ----- | ----- |
