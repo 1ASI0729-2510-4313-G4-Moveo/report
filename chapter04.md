@@ -534,7 +534,7 @@ Link del wireflow diagrams: https://lucid.app/lucidchart/9cdef739-cc7e-4c87-bd8e
   <img src="assets/chapter04/mock-ups/Proveedor 2.png" style="width:600px; height:auto;">
 </p>
 <p align="center">
-  <img src="assets/chapter04/mock-ups/HistorialP .png" style="width:600px; height:auto;">
+  <img src="assets/chapter04/mock-ups/HistorialP.png" style="width:600px; height:auto;">
 </p>
 <p align="center">
   <img src="assets/chapter04/mock-ups/HistorialP 2.png" style="width:600px; height:auto;">
