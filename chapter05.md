@@ -301,6 +301,128 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 
 <img src="./assets/chapter05/insights/insights2.PNG" />
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+**Sprint Planning Background**
+<table>
+  <tr>
+    <th>Criterio</th>
+    <th>Detalle</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-13-05</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>12:00pm</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión Virtual en Virtual google meet</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Giancarlo Castañeda</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Carlos Gonzales, Fernando Lizano, Javier Nikaido, Anghel Trillo</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Review Summary</td>
+    <td>Se realizó la app web, integrandole las funcionalidades core y desarrollando el diseño de esta. Para ello </td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Retrospective Summary</td>
+    <td>Mejorar la puntualidad en la entrega de artefactos, optimizar la entrega de trabajos.</td>
+  </tr>
+
+**Sprint Goal & User Stories** 
+
+| Criterio  | Detalle   |
+| :-------------- | -------------------- |
+| Sprint 2 Goal  | Nuestro enfoque para este sprint es implementar la landing page de nuestro producto. Creemos que esto brindará una correcta presentación de nuestro producto hacia los visitantes. Esto se confirmará cuando todas las secciones de nuestra página web sean visitadas por cada visitante.  |
+| Sprint 2 Velocity            | Para este sprint nuestro equipo puende aceptar hasta 25 story points       |
+| **Sum of Story Points**      | Para este sprint haremos 23 story points                                |
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name)  | GitHub Username | Aspect Diseño UX/UI y Prototipado (L/C) | Aspect Programación de la app web (L/C)      | Aspect Arquitectura de Información y Sistemas de Organización/Navegación (L/C) |
+| ------------------------------------ | --------------- | --------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Castañeda Guimas, Giancarlo Santiago | Darksens01      | L                                       | C                                            | C                                                                                             |
+| Gonzales Valverde, Carlos Matthew    | Carlos12324     | L                                       | L                                            | L                                                                                             |
+| Nikaido Vargas, Javier Nikaido       | MassiFlip       | L                                       | C                                            | C                                                                                             |
+| Lizano Coll Cardenas, Fernando Jesus | GuardianDeity   | L                                       | L                                            | L                                                                                             |
+| Trillo Hernandez, Anghel Melanie     | AM27TH          | L                                       | L                                            | L                                                                                             |
+
+#### 5.2.2.3. Sprint Backlog 2
+| User Story | Work-Item/Task | Id | Title | Description | Estimation (Hrs) | Assigned To | Status |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| |  | |  |  | | |  |
+| |  | | |  |  |  |DONE|
+| |  | |  |  | | | DONE |
+| | | | |  | |  | DONE |
+| |  | |  |  |  |  | DONE |
+| |  | |  |  |  |  | DONE |
+| |  |  |  |  |  | | DONE |
+| | | |  |  |  | |DONE |
+| | |  |  | |  |  | DONE |
+| |  | |  |  | |  | DONE |
+| |  |  |  |  |  | | DONE |
+| |  | | |  | | | DONE |
+| | |  |  |  | | | DONE |
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+A continuación se muestran los commits realizados por los integrantes del equipo, se obviaron los merges y commits incorrectos por razones de mejor visualización acerca de los commits correctamente desarrollados e implementados:
+
+| Repository  | Branch  | Commit Id  | Commit Message  | Commit Message Body  | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+|  |  |  |  | \* No aplica | |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
+
+URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Moveo/backend
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+| Participante | Actividades de implementación |
+| :---- | :---- |
+|  | |
+|  | |
+|  | |
+
 ## Conclusiones
 
 - **Solución a una necesidad real:**
