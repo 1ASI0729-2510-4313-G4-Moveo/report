@@ -50,14 +50,18 @@
 
 ## 3.2. User Stories
 ### Epics
-| **Epic ID**|**Título**| **Descripción**|
-|------------|---------|----------------|
-|**EP01**|**Gestión y Registro de Usuarios**|**Como invitado trabajador, quiero poder registrarme y autenticarme en la plataforma para tener acceso seguro a las funcionalidades de Moveo.** |
-|**EP02**|**Gestión de Autos para Proveedores**|**Como invitado proveedor, quiero poder registrar, listar y administrar mis autos disponibles para alquiler, para así generar ingresos cuando no los utilice.** |
-| **EP03**|**Solicitud y Reserva de Vehículos**| **Como invitado trabajador, quiero poder buscar, reservar y desbloquear autos desde la aplicación, para movilizarme sin intermediarios.** |
-|**EP04**|**Visualización y Selección de Estacionamientos**|**Como invitado trabajador, quiero visualizar en un mapa los estacionamientos disponibles para programar dónde recoger y dejar el vehículo de manera conveniente.** |
-|**EP05**|**Creación de Landing Page**|**Como visitante trabajador, quiero conocer la propuesta de valor de Moveo, cómo funciona y qué beneficios me ofrece tanto como proveedor o como cliente, desde la web oficial** |
+
+
+| Epic ID | Título                                   | Descripción                                                                                                      |
+|---------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| EP01    | Landing Page Informativa                  | **Como** visitante (trabajador o proveedor), **quiero** entender qué es Moveo, cómo funciona y qué beneficios me ofrece, **para** decidir registrarme en la plataforma. |
+| EP02    | Gestión y Registro de Usuarios            | **Como** usuario (trabajador o proveedor), **quiero** poder registrarme y autenticarme fácilmente en la plataforma **para** acceder de forma segura a las funcionalidades de Moveo según mi perfil. |
+| EP03    | Gestión de Vehículos para Proveedores     | **Como** usuario proveedor, **quiero** registrar, listar y administrar mis autos disponibles **para** alquiler de forma flexible y automatizada, y generar ingresos cuando no los utilizo. |
+| EP04    | Solicitud y Reserva de Vehículos          | **Como** usuario trabajador, **quiero** poder buscar, reservar y acceder a vehículos cercanos desde la aplicación **para** movilizarme libremente sin necesidad de comprar un auto. |
+| EP05    | Visualización y Selección de Estacionamientos | **Como** usuario trabajador, **quiero** visualizar en un mapa los estacionamientos disponibles **para** recoger y dejar el vehículo en el punto que más me convenga. |
+
 ### User Stories
+
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 | ----- | ----- | ----- | ----- | ----- |
 | US01 | Registro de nuevos usuarios | Como visitante de ambos segmentos, quiero registrarme para acceder al servicio de la aplicación. | **Escenario 1:** <br>DDado que deseo alquilar un auto <br>Cuando completo el formulario de registro correctamente <br>Entonces la plataforma crea mi cuenta y me notifica que el registro fue exitoso.  <br>**Escenario 2:**<br>  Dado que soy un visitante del segmento trabajadores y no completo todos los campos obligatorios <br>Cuando intentó finalizar el registro Entonces la plataforma me muestra mensajes indicando los campos faltantes. | EP01 |
