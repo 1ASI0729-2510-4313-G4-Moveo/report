@@ -51,7 +51,6 @@
 ## 3.2. User Stories
 ### Epics
 
-
 | Epic ID | Título                                   | Descripción                                                                                                      |
 |---------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | EP01    | Landing Page Informativa                  | **Como** visitante (trabajador o proveedor) **quiero** entender qué es Moveo, cómo funciona y qué beneficios me ofrece, **para** decidir registrarme en la plataforma. |

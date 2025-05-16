@@ -626,217 +626,131 @@ https://structurizr.com/share/93082/63f18b90-16d9-4bde-8f03-5c4cea943181
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-<img src="assets/chapter04/class-diagram.png" />
+
+#### **Diagrama de clases**
+
+<img src="assets/chapter04/class-diagram/class-diagram.png" />
+
+#### **Provider Management Bounded Context**
+
+<img src="assets/chapter04/class-diagram/component-1.png" />
+
+#### **Rental History Bounded Context**
+
+<img src="assets/chapter04/class-diagram/component-2.png" />
+
+#### **Account Management Bounded Context**
+
+<img src="assets/chapter04/class-diagram/component-3.png" />
+
+#### **Rental Operations Bounded Context**
+
+<img src="assets/chapter04/class-diagram/component-4.png" />
+
+#### **Financial Operations Bounded Context**
+
+<img src="assets/chapter04/class-diagram/component-5.png" />
 
 ### 4.7.2. Class Dictionary
 
-1. `User`
+1. **User**
 
-| Atributo  | Tipo de Variable  | Descripción                                        |
-|-----------|-------------------|----------------------------------------------------|
-| id        | int               | Identificador único del usuario                    |
-| name      | Name (VO)         | Nombre completo del usuario                         |
-| email     | Email (VO)        | Dirección de correo electrónico del usuario        |
-| password  | Password (VO)     | Contraseña encriptada                              |
-| phone     | PhoneNumber (VO)  | Número de teléfono del usuario                     |
+| Attribute | Description |
+| ----- | ----- |
+| USR\_id | User identifier (integer). |
+| USR\_email | User's email address. |
+| USR\_password | User's password (hashed). |
+| USR\_fullName | Full name of the user. |
+| USR\_role | Role of the user (CLIENT or PROVIDER). |
 
----
+2. **AuthService**
 
-2. `Worker` (hereda de `User`)
+| Method | Description |
+| ----- | ----- |
+| registerUser(email, password, fullName, role) | Registers a new user. |
+| login(email, password) | Authenticates user and returns user data. |
+| resetPassword(email) | Sends password reset instructions. |
 
-| Atributo       | Tipo de Variable   | Descripción                              |
-|----------------|--------------------|------------------------------------------|
-| driverLicense  | DriverLicense (VO) | Información sobre la licencia de conducir |
-| paymentMethod  | PaymentMethod (VO) | Método de pago preferido                |
+3. **Rental**
 
----
+| Attribute | Description |
+| ----- | ----- |
+| REN\_id | Rental identifier. |
+| REN\_carId | Car being rented. |
+| REN\_clientId | Client who rented the car. |
+| REN\_providerId | Provider offering the car. |
+| REN\_startDate | Date and time rental started. |
+| REN\_endDate | Date and time rental ended. |
+| REN\_status | Status of the rental (ACTIVE, COMPLETED, CANCELLED). |
+| REN\_price | Calculated rental price. |
 
-3. `Owner` (hereda de `User`)
+4. **RentalService**
 
-| Atributo    | Tipo de Variable   | Descripción                           |
-|-------------|--------------------|---------------------------------------|
-| bankAccount | BankAccount (VO)   | Detalles de la cuenta bancaria para recibir pagos |
+| Method | Description |
+| ----- | ----- |
+| startRental(carId, clientId) | Starts a new rental for a car and client. |
+| endRental(rentalId) | Ends a rental. |
+| calculateRentalPrice(rentalId) | Calculates the rental price based on time used. |
 
----
+5. **Payment**
 
-4. `Car`
+| Attribute | Description |
+| ----- | ----- |
+| PAY\_id | Payment identifier. |
+| PAY\_rentalId | Rental associated with the payment. |
+| PAY\_userId | User making the payment. |
+| PAY\_amount | Amount paid. |
+| PAY\_date | Date of the payment. |
+| PAY\_status | Status of the payment (PENDING, COMPLETED, FAILED). |
 
-| Atributo     | Tipo de Variable   | Descripción                             |
-|--------------|--------------------|-----------------------------------------|
-| id           | int                | Identificador único del automóvil       |
-| brand        | string             | Marca del automóvil (ej. Toyota, Honda) |
-| model        | string             | Modelo del automóvil (ej. Corolla, Civic)|
-| year         | int                | Año de fabricación del automóvil        |
-| licensePlate | LicensePlate (VO)  | Detalles de la matrícula del automóvil  |
-| location     | Location (VO)      | Ubicación geográfica del automóvil      |
-| pricePerHour | Money (VO)         | Precio de alquiler por hora             |
-| available    | boolean            | Indica si el automóvil está disponible para alquiler |
+6. **BillingService**
 
----
+| Method | Description |
+| ----- | ----- |
+| processPayment(userId, rentalId) | Processes payment for a rental. |
+| refundPayment(paymentId) | Refunds a payment. |
 
-5. `Booking`
+7. **RentalRecord**
 
-| Atributo     | Tipo de Variable   | Descripción                                          |
-|--------------|--------------------|------------------------------------------------------|
-| id           | int                | Identificador único de la reserva                    |
-| startDate    | Date               | Fecha y hora de inicio de la reserva                 |
-| endDate      | Date               | Fecha y hora de finalización de la reserva           |
-| status       | string             | Estado actual de la reserva (ej. pendiente, confirmada, cancelada) |
+| Attribute | Description |
+| ----- | ----- |
+| REC\_id | Rental record identifier. |
+| REC\_userId | User who made the rental. |
+| REC\_carId | Car that was rented. |
+| REC\_rentalDate | Date when rental started. |
+| REC\_durationHours | Total hours the car was rented. |
+| REC\_totalPaid | Total amount paid for the rental. |
 
----
+8. **RecordService**
 
-6. `Payment`
+| Method | Description |
+| ----- | ----- |
+| getUserRentalHistory(userId) | Retrieves the rental history for a user. |
 
-| Atributo     | Tipo de Variable   | Descripción                                          |
-|--------------|--------------------|------------------------------------------------------|
-| id           | int                | Identificador único del pago                         |
-| amount       | Money (VO)         | Monto pagado por la reserva                          |
-| paymentDate  | Date               | Fecha en la que se procesó el pago                   |
-| paymentStatus| string             | Estado del pago (ej. pendiente, completado, fallido) |
+9. **Car**
 
----
+| Attribute | Description |
+| ----- | ----- |
+| CAR\_id | Car identifier. |
+| CAR\_providerId | Provider who owns the car. |
+| CAR\_model | Model of the car. |
+| CAR\_status | Status of the car (e.g., Available, In Use, Maintenance). |
 
-7. `Review`
+10. **FleetDashboard**
 
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| id           | int                | Identificador único de la reseña                  |
-| rating       | int                | Calificación otorgada (ej. de 1 a 5 estrellas)     |
-| comment      | string             | Comentario del usuario                            |
-| date         | Date               | Fecha en que se envió la reseña                   |
+| Attribute | Description |
+| ----- | ----- |
+| FLD\_providerId | Provider identifier. |
+| FLD\_totalEarnings | Total earnings from rentals. |
+| FLD\_activeCars | Number of active cars for rent. |
+| FLD\_totalRentals | Total number of rentals. |
 
----
+11. **ProviderFleetService**
 
-8. `InsurancePolicy`
-
-| Atributo     | Tipo de Variable   | Descripción                                          |
-|--------------|--------------------|------------------------------------------------------|
-| id           | int                | Identificador único de la póliza de seguro          |
-| providerName | string             | Nombre de la aseguradora                            |
-| policyNumber | string             | Número de la póliza                                 |
-| validFrom    | Date               | Fecha de inicio de la validez de la póliza          |
-| validTo      | Date               | Fecha de finalización de la validez de la póliza    |
-
----
-
-9. `Notification`
-
-| Atributo     | Tipo de Variable   | Descripción                                          |
-|--------------|--------------------|------------------------------------------------------|
-| id           | int                | Identificador único de la notificación              |
-| message      | string             | Contenido del mensaje de notificación               |
-| type         | string             | Tipo de notificación (ej. información, alerta, advertencia) |
-| sentAt       | Date               | Fecha y hora en que se envió la notificación         |
-
----
-
-10. `SupportTicket`
-
-| Atributo     | Tipo de Variable   | Descripción                                          |
-|--------------|--------------------|------------------------------------------------------|
-| id           | int                | Identificador único del ticket de soporte           |
-| issueDescription| string          | Descripción del problema reportado por el usuario  |
-| status       | string             | Estado del ticket (ej. abierto, cerrado)            |
-| createdAt    | Date               | Fecha y hora en que se creó el ticket               |
-
----
-
-11. `VehicleCategory`
-
-| Atributo     | Tipo de Variable   | Descripción                                          |
-|--------------|--------------------|------------------------------------------------------|
-| id           | int                | Identificador único de la categoría del vehículo    |
-| name         | string             | Nombre de la categoría (ej. SUV, sedan, hatchback)   |
-| description  | string             | Descripción de la categoría                          |
-
----
-
-12. `Name`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| firstName    | string             | Primer nombre                                      |
-| lastName     | string             | Apellido                                           |
-
----
-
-13. `Email`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| address      | string             | Dirección completa de correo electrónico           |
-
----
-
-14. `Password`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| encrypted    | string             | Contraseña encriptada                              |
-
----
-
-15. `PhoneNumber`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| countryCode  | string             | Código de país (ej. +1, +51)                       |
-| number       | string             | Número de teléfono local                           |
-
----
-
-16. `DriverLicense`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| licenseNumber| string             | Número de licencia de conducir                     |
-| expirationDate| Date              | Fecha de expiración de la licencia                 |
-
----
-
-17. `PaymentMethod`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| type         | string             | Tipo de método de pago (ej. Visa, PayPal)          |
-| details      | string             | Detalles específicos del método de pago            |
-
----
-
-18. `BankAccount`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| bankName     | string             | Nombre del banco                                   |
-| accountNumber| string             | Número de cuenta                                   |
-| routingNumber| string             | Número de ruta del banco                           |
-
----
-
-19. `LicensePlate`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| plateNumber  | string             | Número de matrícula oficial del automóvil          |
-
----
-
-20. `Location`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| latitude     | float              | Latitud geográfica                                 |
-| longitude    | float              | Longitud geográfica                                |
-| address      | string             | Dirección física                                   |
-
----
-
-21. `Money`
-
-| Atributo     | Tipo de Variable   | Descripción                                        |
-|--------------|--------------------|----------------------------------------------------|
-| amount       | float              | Monto monetario                                    |
-| currency     | string             | Código de la moneda (ej. USD, PEN)                |
+| Method | Description |
+| ----- | ----- |
+| getDashboard(providerId) | Returns earnings, active cars, and rental count for a provider. |
+| listProviderCars(providerId) | Lists all cars of a provider. |
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
