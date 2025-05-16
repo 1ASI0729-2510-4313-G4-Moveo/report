@@ -209,19 +209,19 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 #### 5.2.1.3. Sprint Backlog 1
 | User Story | Work-Item/Task | Id | Title | Description | Estimation (Hrs) | Assigned To | Status |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| us-1 | T1 | T1.1 | Registro de nuevos usuarios | Permitir a los nuevos usuarios registrarse en la plataforma Moveo. | 3 | Fernando Lizano | DONE |
-| us-2 | T2 | T2.1 | Inicio de sesión seguro | Implementar un sistema de inicio de sesión seguro para usuarios registrados. | 2 | Fernando Lizano |DONE|
-| us-6 | T6 | T6.1 | Implementación de Call to Action | Colocar botones de acción clara para facilitar la navegación. | 3 | Fernando Lizano | DONE |
-| us-7 | T7 | T7.1 | Creación de Footer Informativo | Crear un pie de página con información de contacto y redes sociales. | 1 | Fernando Lizano | DONE |
-| us-8 | T8 | T8.1 | Sección de Testimonios de Usuarios | Mostrar opiniones de usuarios anteriores para generar confianza. | 3 | Fernando Lizano | DONE |
-| us-9 | T9 | T9.1 | Sección de Preguntas Frecuentes (FAQ) | Implementar una sección con respuestas a dudas comunes. | 2 | Fernando Lizano | DONE |
+| us-1 | T1 | T1.1 | Registro de nuevos usuarios | Permitir a los nuevos usuarios registrarse en la plataforma Moveo. | 5 | Fernando Lizano | DONE |
+| us-2 | T2 | T2.1 | Inicio de sesión seguro | Implementar un sistema de inicio de sesión seguro para usuarios registrados. | 4 | Fernando Lizano |DONE|
+| us-6 | T6 | T6.1 | Implementación de Call to Action | Colocar botones de acción clara para facilitar la navegación. | 5 | Fernando Lizano | DONE |
+| us-7 | T7 | T7.1 | Creación de Footer Informativo | Crear un pie de página con información de contacto y redes sociales. | 4 | Fernando Lizano | DONE |
+| us-8 | T8 | T8.1 | Sección de Testimonios de Usuarios | Mostrar opiniones de usuarios anteriores para generar confianza. | 6 | Fernando Lizano | DONE |
+| us-9 | T9 | T9.1 | Sección de Preguntas Frecuentes (FAQ) | Implementar una sección con respuestas a dudas comunes. | 5 | Fernando Lizano | DONE |
 | us-10 | T10 | T10.1 | Visualización de estacionamientos en el mapa | Mostrar los estacionamientos disponibles para entrega/recogida. | 5 | Fernando Lizano | DONE |
-| us-13 | T13 | T13.1 | Visualizar precios y tarifas | Mostrar los precios y tarifas de los autos disponibles. | 3 | Fernando Lizano |DONE |
-| us-14 | T14 | T14.1 | Visualizar principales funciones | Mostrar en la web las funciones principales de Moveo. | 2 |  Fernando Lizano| DONE |
-| us-15 | T15 | T15.1 | Ver el nombre, logo y eslogan de la aplicación | Mostrar claramente el logo, nombre y eslogan de Moveo. | 3 | Fernando Lizano | DONE |
-| us-16 | T16 | T16.1 | Visualizar el nombre del equipo | Mostrar el nombre del equipo creador en la página. | 1 | Fernando Lizano, Javier Nikaido, Carlos Gonzales, Giancarlos Castañeda, Anghel Trillo| DONE |
-| us-17 | T17 | T17.1 | Sección de contacto | Crear un formulario de contacto para dudas o soporte. | 3 | Fernando Lizano | DONE |
-| us-18 | T18 | T18.1 | Landing Page Responsive | Adaptar la landing page para dispositivos móviles y escritorio. | 2 | Fernando Lizano | DONE |
+| us-13 | T13 | T13.1 | Visualizar precios y tarifas | Mostrar los precios y tarifas de los autos disponibles. | 5 | Fernando Lizano |DONE |
+| us-14 | T14 | T14.1 | Visualizar principales funciones | Mostrar en la web las funciones principales de Moveo. | 4 |  Fernando Lizano| DONE |
+| us-15 | T15 | T15.1 | Ver el nombre, logo y eslogan de la aplicación | Mostrar claramente el logo, nombre y eslogan de Moveo. | 4 | Fernando Lizano | DONE |
+| us-16 | T16 | T16.1 | Visualizar el nombre del equipo | Mostrar el nombre del equipo creador en la página. | 4 | Fernando Lizano, Javier Nikaido, Carlos Gonzales, Giancarlos Castañeda, Anghel Trillo| DONE |
+| us-17 | T17 | T17.1 | Sección de contacto | Crear un formulario de contacto para dudas o soporte. | 5 | Fernando Lizano | DONE |
+| us-18 | T18 | T18.1 | Landing Page Responsive | Adaptar la landing page para dispositivos móviles y escritorio. | 5 | Fernando Lizano | DONE |
 #### 5.2.1.4. Development Evidence for Sprint Review
 A continuación se muestran los commits realizados por los integrantes del equipo, se obviaron los merges y commits incorrectos por razones de mejor visualización acerca de los commits correctamente desarrollados e implementados:
 
