@@ -617,7 +617,7 @@ https://www.figma.com/proto/nrxEj7WzMbOci6Qe0h9zGO/Untitled?node-id=1-49&t=OV9Jl
 
 ### 4.6.3. Software Architecture Components Diagrams
 <p align="center">
-  <img src="assets/chapter04/C4/Components.png" style="width:800px; height:auto;">
+  <img src="assets/chapter04/C4/Component.png" style="width:800px; height:auto;">
 </p>
 
 - Link del Structurizr
