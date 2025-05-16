@@ -126,8 +126,8 @@
 |21|US21|Subir fotos al listado de vehículo|Como visitante del segmento proveedores, quiero agregar o eliminar fotos de mis vehículos para mostrarlos mejor a los arrendatarios.|5|
 |22|US22|Visualizar reservas de mis vehículos|Como visitante del segmento proveedores, quiero consultar un historial y estado de reservas realizadas a mis vehículos|3|
 |23|TS01|Diseño adaptable (responsive)|Cómo developer quiero asegurar que la aplicación web se adapte a cualquier tamaño de pantalla para garantizar una experiencia accesible desde móviles y computadoras.|3|
-|24|TS02|Como desarrollador quiero integrar una API de mapas con soporte de geolocalización para mostrar la ubicación de autos y estacionamientos en tiempo real|5|
-|25|TS03|Como desarrollador quiero permitir que los usuarios califiquen los autos después de un viaje para mantener control sobre la calidad del servicio|3|
+|24|TS02|Integración del mapa con geolocalización|Como desarrollador quiero integrar una API de mapas con soporte de geolocalización para mostrar la ubicación de autos y estacionamientos en tiempo real|5|
+|25|TS03|Implementación de sistema de calificación de autos|Como desarrollador quiero permitir que los usuarios califiquen los autos después de un viaje para mantener control sobre la calidad del servicio|3|
 
 <p align="center">
   <a>
