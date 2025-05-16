@@ -103,16 +103,16 @@
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>1.0</td>
+      <td>27/04/25</td>
+      <td>Casteñeda, Giancarlo</td>
+      <td>Se realizó la primera entrega de manera eficiente, cumpliendo con los objetivos establecidos. Durante el desarrollo se identificaron oportunidades de mejora que serán aplicadas en las siguientes versiones para optimizar los resultados.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>2.0</td>
+      <td>13/05/25</td>
+      <td>Castañeda, Giancarlo</td>
+      <td>Se realizo la entrega parcial de manera eficiente, cumpliendo con los objetivos establecidos y intentando resolver las observaciones del profesor. Durante el desarrollo se identificaron diversas medidas de mejora como ahorro de tiempo y optimización de resultados</td>
     </tr>
     <tr>
       <td></td>
@@ -132,13 +132,11 @@
 ---
 
 # Project Report Collaboration Insights
-Para este proyecto hemos utilizado las herramientas GitHub para gestionar el progreso grupal.
-
-Puede acceder al contenido del repositorio pulsando sobre el siguiente ícono:
+Para este proyecto hemos utilizado las herramientas GitHub para gestionar el progreso grupal. Además, se puede acceder al contenido del repositorio pulsando sobre el siguiente ícono:
 
 <p align="center">
-  <a href="https://github.com/Teemo-Solutions/report-v2">
-    <img src="assets/logos/teemo_solutions_icon.jpg" style="width:200px; height:auto;" alt="">
+  <a href="https://github.com/1ASI0729-2510-4313-G4-Moveo/report">
+    <img src="assets/icons/gpt4-icon.svg" style="width:200px; height:auto;" alt="">
   </a>
 </p>
 
@@ -181,7 +179,13 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 - **Insights**
 
-- - - 
+<p align="center">
+  <img src="assets/icons/insights-tb1.png"  style="width:800px; height:auto;" alt="">
+</p>
+
+### Entregable TP1
+
+A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
 
 ---
 # Contenido
@@ -196,7 +200,7 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
     - [1.1.1. Descripción de la Startup](/chapter01.md#111-description-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](/chapter01.md#112-perfiles-de-integrantes-del-equipo)
 - [1.2. Solution Profile](/chapter01.md#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](/chapter01.md#121-antecedentes-y-problematica)
+    - [1.2.1 Antecedentes y problemática](/chapter01.md#121-antecedentes-y-problemática)
     - [1.2.2 Lean UX Process](/chapter01.md#12-solution-profile)
         - [1.2.2.1. Lean UX Problem Statements](/chapter01.md#1221-lean-ux-problem-statements)
         - [1.2.2.2. Lean UX Assumptions](/chapter01.md#1222-lean-ux-assumptions)
@@ -212,11 +216,11 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
     - [2.2.1. Diseño de entrevistas](/chapter02.md#221-diseño-de-entrevistas)
     - [2.2.2. Registro de entrevistas](/chapter02.md#222-registro-de-entrevistas)
     - [2.2.3. Análisis de entrevistas](/chapter02.md#223-análisis-de-entrevistas)
-- [2.3. Needfinding](/chapter02.md#23-needfinding)
-    - [2.3.1. User Person](/chapter02.md#231-user-persona)
+- [2.3. Needfinding](/chapter02.md#23-need-finding)
+    - [2.3.1. User Person](/chapter02.md#231-user-person)
     - [2.3.2. User Task Matrix](/chapter02.md#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](/chapter02.md#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](/chapter02.md#234-emphaty-mapping)
+    - [2.3.4. Empathy Mapping](/chapter02.md#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](/chapter02.md#235-as-is-scenario-mapping)
 
 ### [Capítulo III: Requirements Specification](/chapter03.md)
@@ -240,9 +244,9 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
     - [4.3.2. Landing Page Mock-up](/chapter04.md#432-landing-page-mock-up)
 - [4.4. Web Applications UX/UI Design](/chapter04.md#44-web-applications-uxui-design)
     - [4.4.1. Web Applications Wireframes](/chapter04.md#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](/chapter04.md#442-web-applications-mock-ups)
-    - [4.4.3. Web Applications Mock-ups](/chapter04.md#443-web-applications-user-flow-diagrams)
-    - [4.4.4. Web Applications User Flow Diagrams](/chapter04.md)
+    - [4.4.2. Web Applications Wireflow Diagrams](/chapter04.md#442-Web-Applications-Wire-flow-Diagrams)
+    - [4.4.3. Web Applications Mock-ups](/chapter04.md#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](/chapter04.md#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](/chapter04.md#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](/chapter04.md#46-domain-driven-software-architecture)
     - [4.6.1. Software Architecture Context Diagram](/chapter04.md#461-software-architecture-context-diagram)
@@ -263,40 +267,14 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 - [5.2. Landing Page, Services & Applications Implementation](/chapter05.md#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](/chapter05.md#521-sprint-1)
         - [5.2.1.1. Sprint Planning 1](/chapter05.md#5211-sprint-planning-1)
-        - [5.2.1.2. Sprint Backlog 1](/chapter05.md#5212-sprint-backlog-1)
-        - [5.2.1.3. Development Evidence for Sprint Review](/chapter05.md#5213-development-evidence-for-sprint-review)
-        - [5.2.1.4. Testing Suite Evidence for Sprint Review](/chapter05.md#5214-testing-suite-evidence-for-sprint-review)
+        - [5.2.1.2. Aspect Leaders and Collaborators](/chapter05.md#5212-aspect-leaders-and-collaborators)
+        - [5.2.1.3. Sprint Backlog 1](/chapter05.md#5213-sprint-backlog-1)
+        - [5.2.1.4. Development Evidence for Sprint Review.](/chapter05.md#5214-development-evidence-for-sprint-review)
         - [5.2.1.5. Execution Evidence for Sprint Review](/chapter05.md#5215-execution-evidence-for-sprint-review)
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](/chapter05.md#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](/chapter05.md#522-sprint-2)
-        - [5.2.2.1. Sprint Planning 2](/chapter05.md#5221-sprint-planning-2)
-        - [5.2.2.2. Sprint Backlog 2](/chapter05.md#5222-sprint-backlog-2)
-        - [5.2.2.3. Development Evidence for Sprint Review](/chapter05.md#5223-development-evidence-for-sprint-review)
-        - [5.2.2.4. Testing Suite Evidence for Sprint Review](/chapter05.md#5224-spring-testing-suite-evidence-for-sprint-review)
-        - [5.2.2.5. Execution Evidence for Sprint Review](/chapter05.md#5225-execution-evidence-for-sprint-review)
-        - [5.2.2.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5226-services-documentation-evidence-for-sprint-review)
-        - [5.2.2.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8. Team Collaboration Insights during Sprint](/chapter05.md#5228-team-collaboration-insight-during-sprint-)
-    - [5.2.3. Sprint 3](/chapter05.md#523-sprint-3)
-        - [5.2.3.1. Sprint Planning 3](/chapter05.md#5231-sprint-planning-3)
-        - [5.2.3.2. Sprint Backlog 3](/chapter05.md#5232-sprint-backlog-3)
-        - [5.2.3.3. Development Evidence for Sprint Review](/chapter05.md#5233-development-evidence-for-sprint-review)
-        - [5.2.3.4. Testing Suite Evidence for Sprint Review](/chapter05.md#5234-spring-testing-suite-evidence-for-sprint-review)
-        - [5.2.3.5. Execution Evidence for Sprint Review](/chapter05.md#5235-execution-evidence-for-sprint-review)
-        - [5.2.3.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5236-services-documentation-evidence-for-sprint-review)
-        - [5.2.3.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5237-software-deployment-evidence-for-sprint-review)
-        - [5.2.3.8. Team Collaboration Insights during Sprint](/chapter05.md#5238-team-collaboration-insight-during-sprint)
-    - [5.2.4. Sprint 4](/chapter05.md#523-sprint-4)
-        - [5.2.3.1. Sprint Planning 4](/chapter05.md#5241-sprint-planning-4)
-        - [5.2.3.2. Sprint Backlog 4](/chapter05.md#5242-sprint-backlog-4)
-        - [5.2.3.3. Development Evidence for Sprint Review](/chapter05.md#5243-development-evidence-for-sprint-review)
-        - [5.2.3.4. Testing Suite Evidence for Sprint Review](/chapter05.md#5244-spring-testing-suite-evidence-for-sprint-review)
-        - [5.2.3.5. Execution Evidence for Sprint Review](/chapter05.md#5245-execution-evidence-for-sprint-review)
-        - [5.2.3.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5246-services-documentation-evidence-for-sprint-review)
-        - [5.2.3.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5247-software-deployment-evidence-for-sprint-review)
-        - [5.2.3.8. Team Collaboration Insights during Sprint](/chapter05.md#5248-team-collaboration-insight-during-sprint)
+    
 
 
 ### [Conclusiones](/chapter05.md)
@@ -311,8 +289,6 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 
 ---
-
-
 
 # Student Outcome
 El curso tiene el Student Outcome 3, el cual consiste en la capacidad de comunicarse efectivamente con un rango de audiencias.
@@ -337,7 +313,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Durante el desarrollo del proyecto, realice las actividades, como la landing page en el tema de las imagenes, traduccion, me encargue de realizar las entrevistas junto con el analisis de las entrevistas, aplique HTML, CSS y JS en la landing page, tambien realice el searching systems, navigation system, software architecture components diagrams, apoye con mi equipo en las actividades que les faltaban tambien.
         <br><br>
-        <strong>Lizano, Fernando - TB1:</strong> message here
+        <strong>Lizano, Fernando - TB1:</strong> Durante el desarrollo del proyecto, me enfoqué en comunicar de manera clara y efectiva el orden y la estructura del informe en las reuniones grupales. Cada vez que surgieron dudas o propuestas de mejora, expuse de forma precisa los cambios necesarios, adaptando mi comunicación según el perfil de los integrantes del equipo, buscando siempre asegurar que todos comprendieran el objetivo común. Además, fomenté un espacio de retroalimentación constante para que las mejoras en los capítulos fueran comprendidas y aplicadas correctamente.
         <br><br>
         <strong>Nikaido, Javier - TB1:</strong> Durante el desarrollo de proyectos como el de VeciHub, he demostrado mi capacidad para redactar informes técnicos claros y concisos, adaptados a diferentes audiencias, usando un lenguaje adecuado según el nivel de especialización. Esto lo logré a través de la documentación de cada fase del proceso Lean UX, la matriz de tareas del usuario y el backlog de sprint.
         <br><br> <strong>Nikaido, Javier - TP1: </strong> Creacion de views: car-record, corolla-page, payment-edit, payment-view y record archived.    <br><br>
@@ -355,7 +331,7 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Como grupo tenemos un buen ambiente y siempre sabemos trabajar bajo a presion, incluso si tenemos dificultades con un compañero sabemos como solucionarlo de inmediato, solo nos faltaria mejorar en el aspecto de tener una mejor estructura del tiempo, pero del resto tenemos buena comunicacion, buen ambiente y sabemos trabajar individualmente cada uno.
         <br><br>
-        <strong>Lizano, Fernando - TB1:</strong> message here
+        <strong>Lizano, Fernando - TB1:</strong> En la elaboración del informe, trabajé en mantener un estilo de redacción claro, ordenado y adecuado para distintos tipos de lectores, asegurando que cada capítulo tuviera coherencia y consistencia. También participé en la elaboración y el apoyo en la creación de la landing page, donde la comunicación escrita debía ser precisa y atractiva para los usuarios. Mi enfoque estuvo en transmitir de manera sencilla pero profesional la información, respetando la estructura formal requerida por el curso y adaptándome a las necesidades de comunicación digital para la web.
         <br><br>
         <strong>Nikaido, Javier - TB1:</strong> En presentaciones de avance y reuniones con miembros del equipo , he demostrado habilidad para exponer resultados y decisiones, facilitando la comprensión de conceptos técnicos y estratégicos. He utilizado un enfoque directo y estructurado en cada fase del proceso, desde la investigación de usuarios hasta la especificación de requerimientos, asegurando que todos los involucrados pudieran entender y aportar a los objetivos del proyecto.         <br><br> <strong>Nikaido, Javier - TP1: </strong> Creacion de views: car-record, corolla-page, payment-edit, payment-view y record archived.    <br><br>
         <strong>Trillo, Anghel - TB1:</strong> Durante el proyecto Moveo, logré comunicarme por escrito de manera efectiva con diferentes audiencias, ajustando mi estilo y nivel de detalle según el público al que me dirigía. Fui capaz de redactar documentos técnicos, informes y presentaciones claras y concisas, explicando de manera efectiva conceptos complejos del desarrollo de software como User Persona, User Journey Map, Empathy Map, Product Backlog, Class Diagram, Class Dictionary, Database Diagram y Software Configuration Management. Mi capacidad para transmitir información por escrito facilitó la comprensión y colaboración dentro del equipo y con las partes interesadas.

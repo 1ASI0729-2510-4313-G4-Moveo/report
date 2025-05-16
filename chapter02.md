@@ -34,43 +34,208 @@
 Para esta sección analizaremos y compararemos a diversos competidores que pudimos llegar a encontrar para así transferir conocimiento detectando las mejores opciones y prácticas que aplicar para nuestra aplicación.
 
 -   Los competidores se pueden dividir en varios tipos, como los que hacen exactamente lo mismo que nosotros, los que no hacen lo mismo pero pueden llegar a solucionarlo, los de mayor rango que serían los que consideramos que estamos muy lejos de alcanzarlos, etc.
-    
 
 En este caso solo nos quedaremos con 3 que pensamos que serían los más óptimos observar:
 
--   Plataforma Web “Reizen”
+-   **Plataforma Web “Reizen”**
+
+<p align="center">
+  <a href="https://www.reizenconnections.com">
+    <img src="assets/chapter02/competitors/reizen_logo.png" style="width:200px; height:auto;" alt="">
+  </a>
+</p>
+
+Reizen es una plataforma de movilidad para alquiler de autos, yates y propiedades en LATAM, promoviendo la confianza entre usuarios mediante la cercanía geográfica.</td>
+
     
--   Plataforma Web “SnappCar”
+-   **Plataforma Web “SnappCar”**
+
+<p align="center">
+  <a href="https://www.snappcar.nl">
+    <img src="assets/chapter02/competitors/snappcar_logo.png" style="width:200px; height:auto;" alt="">
+  </a>
+</p>
+
+SnappCar es una plataforma de alquiler de autos privados que se enfoca en la apertura remota de vehículos y seguro integrado, principalmente en Europa.</td>
+
     
--   Aplicación “InDrive”
-    
+-   **Aplicación “InDrive”**
+
+<p align="center">
+  <a href="https://indrive.com/es-mx">
+    <img src="assets/chapter02/competitors/indrive_logo.png" style="width:200px; height:auto;" alt="">
+  </a>
+</p>
+
+InDrive es una app de transporte bajo el modelo C2C donde los pasajeros y conductores negocian el precio directamente.</td>
+
+### 2.1.1. Análisis Competitivo
 
 A continuación realizaremos el análisis necesario para ver qué estrategias podemos tomar para sobresalir entre ellos
 
-|Categorias| **Moveo**|**Reizen**|**SnappCar**| InDrive|
-|--------|-------|-------|--------|------|
-|**Overview**|App open source que conecta a trabajadores y dueños de autos para alquiler autónomo sin intermediarios humanos|Plataforma peer-to-peer para alquiler de autos, yates y alojamientos|Plataforma europea peer-to-peer de alquiler de autos privados con apertura remota y seguro incluido|App de transporte bajo modelo C2C, donde conductor y usuario negocian el precio directamente|
-|**Ventaja competitiva  <br>¿Qué valor ofrece a los clientes?**|Open source: flexibilidad y adaptación local; sin intermediarios físicos; integración de mapas y puntos de entrega|Comunidad local consolidada, confianza social basada en reviews y cercanía geográfica|Tecnología avanzada: apertura remota, seguro integrado, fuerte presencia en Europa|Precios negociados, baja comisión, red de usuarios grande y activa, crecimiento exponencial en LATAM|
- |**Mercado objetivo**|Trabajadores urbanos y dueños de autos subutilizados en LATAM|Usuarios en Colombia interesados en movilidad ocasional y propietarios buscando ingresos extra|Europeos en ciudades con alta cultura de carsharing|Usuarios que buscan transporte flexible en LATAM y otras regiones emergentes|
-|**Estrategias de marketing**|Crecimiento orgánico a través de la comunidad Open Source, partnerships con estacionamientos y empresas|Publicidad en redes sociales locales, confianza de usuarios vía testimonios|Inversión en marketing digital y acuerdos con aseguradoras locales|Modelo viral de boca a boca y crecimiento por recomendaciones; marketing en apps|
-|**Productos & Servicios**| Alquiler de autos peer-to-peer, apertura remota, elección de punto de entrega personalizado en la app|Alquiler peer-to-peer de autos, yates y propiedades|Alquiler peer-to-peer de autos privados, seguro, servicio sin contacto humano|Transporte urbano: usuarios y conductores fijan tarifas en tiempo real|
-|**Precios & Costos**| - 25-40 USD/día promedio (dependiendo del modelo y zona) |20-45 USD/día promedio (varía según vehículo y ciudad)|30-60 USD/día promedio + seguro (obligatorio)|Tarifas por trayecto negociadas directamente; media en LATAM: 2-7 USD por trayecto|
-|**Canales de distribución (Web y/o Móvil)**|App móvil y sitio web.|App móvil y sitio web.|-App móvil y sitio web|App móvil (Android / iOS) y crecimiento viral por referidos|
-|**Fortalezas**|Open Source (adaptabilidad y comunidad), modelo autónomo sin personal intermediario, flexibilidad para proveedores y usuarios|Modelo probado en LATAM, marca local conocida, confianza comunitaria fuerte|Tecnología avanzada, seguro incluido, base de usuarios estable|Red de usuarios global, precios competitivos, crecimiento orgánico en LATAM|
-|**Debilidades**|Requiere una masa crítica de autos y usuarios para funcionar; dependencia de proveedores locales|Limitado a Colombia; poca escalabilidad fuera de su mercado de origen|Fuerte enfoque en Europa, alta barrera de entrada en otros mercados| - No ofrece alquiler de autos, solo transporte personal <br> - Suele demorar mucho y los precios son elevados en ciertos puntos|
-|**Oportunidades**|Asociaciones con empresas y estacionamientos; modelo replicable en ciudades emergentes|Expandir a otros países; diversificar más allá de autos (ya incluye yates y alojamiento)|Expansión a otros continentes, integración con plataformas de movilidad smart city|Ampliar servicios a carsharing o alquiler de autos autónomos|
-|**Amenazas**|Alta competencia, proveedores limitados en fases iniciales, cambios regulatorios|Nuevos entrantes y modelos de negocio Open Source como Moveo|Competencia local y competencia externa fuerte|Cambios regulatorios en transporte urbano; competencia de apps como Uber y Lyft|
+<table>
+  <tr>
+    <th colspan="22">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
+    <td colspan="17">El análisis competitivo es esencial para entender el mercado, identificar oportunidades de diferenciación y anticipar amenazas. Permite ajustar la estrategia para ganar ventaja sobre la competencia y asegurar el éxito del producto.</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td>Moveo<br><img src="assets/icons/moveo_logo.svg" style="width:250px; height:auto;" alt=""></td>
+    <td>Reizen<br><img src="assets/chapter02/competitors/reizen_logo.png" style="width:600px; height:auto;" alt=""></td>
+    <td>SnappCar<br><img src="assets/chapter02/competitors/snappcar_logo.png" style="width:600px; height:auto;" alt=""></td>
+    <td>InDrive<br><img src="assets/chapter02/competitors/indrive_logo.png" style="width:500px; height:auto;" alt=""></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Moveo es una plataforma open-source que conecta a trabajadores que necesitan un auto por un tiempo y propietarios que desean alquilarlo de forma segura, todo sin intermediarios humanos.</td>
+    <td>Reizen es una plataforma de movilidad para alquiler de autos, yates y propiedades en LATAM, promoviendo la confianza entre usuarios mediante la cercanía geográfica.</td>
+    <td>SnappCar es una plataforma de alquiler de autos privados que se enfoca en la apertura remota de vehículos y seguro integrado, principalmente en Europa.</td>
+    <td>InDrive es una app de transporte bajo el modelo C2C donde los pasajeros y conductores negocian el precio directamente.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td>Flexibilidad al ser open-source, adaptación a mercados locales, sin intermediarios, integración directa de pagos y verificación dentro de la app.</td>
+    <td>Confianza social, comunidad local consolidada y precios flexibles basados en la cercanía de los usuarios.</td>
+    <td>Uso de tecnología avanzada, apertura remota de vehículos, seguro integrado y fuerte presencia en Europa.</td>
+    <td>Precios negociados directamente por los usuarios y crecimiento exponencial en LATAM, bajo costo de comisión.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Trabajadores urbanos y dueños de autos subutilizados en LATAM que buscan soluciones de movilidad flexibles y seguras.</td>
+    <td>Usuarios interesados en movilidad ocasional y propietarios de autos que buscan generar ingresos extra en Colombia.</td>
+    <td>Usuarios europeos en ciudades con alta cultura de carsharing, que buscan soluciones tecnológicas avanzadas para alquiler de autos.</td>
+    <td>Usuarios que buscan transporte flexible en LATAM y otras regiones emergentes donde las tarifas son negociadas entre las partes.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Crecimiento orgánico a través de la comunidad Open Source, asociaciones con estacionamientos y empresas locales.</td>
+    <td>Publicidad en redes sociales locales, y generación de confianza mediante testimonios de usuarios.</td>
+    <td>Marketing digital y asociaciones con aseguradoras locales para atraer nuevos usuarios y expandir la base de clientes.</td>
+    <td>Modelo viral de boca a boca, con un fuerte crecimiento por recomendación, marketing en aplicaciones móviles.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos y Servicios</td>
+    <td>Alquiler de autos peer-to-peer, apertura remota de vehículos, verificación dentro de la app, pago seguro y elección de puntos de entrega.</td>
+    <td>Alquiler peer-to-peer de autos, yates y propiedades en LATAM, con opciones de precios flexibles y seguros incluidos.</td>
+    <td>Alquiler peer-to-peer de autos privados, con tecnología avanzada como la apertura remota y seguro integrado.</td>
+    <td>Transporte urbano bajo el modelo C2C, donde los precios son negociados en tiempo real entre usuarios y conductores.</td>
+  </tr>
+  <tr>
+    <td>Precios y Costos</td>
+    <td>25-40 USD/día promedio dependiendo del modelo y la zona.</td>
+    <td>20-45 USD/día, dependiendo del vehículo y la ciudad.</td>
+    <td>30-60 USD/día más seguro obligatorio.</td>
+    <td>Tarifas por trayecto negociadas entre pasajeros y conductores, con un promedio de 2-7 USD en LATAM.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución (Web y/o Móvil)</td>
+    <td>App móvil y sitio web.</td>
+    <td>App móvil y sitio web.</td>
+    <td>App móvil y sitio web.</td>
+    <td>App móvil (Android/iOS) y crecimiento viral a través de referidos.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Modelo open-source que permite adaptabilidad, sin intermediarios, flexibilidad para usuarios y proveedores.</td>
+    <td>Comunidad local consolidada, confianza y cercanía geográfica entre usuarios.</td>
+    <td>Innovación tecnológica con apertura remota, seguro integrado y expansión sólida en Europa.</td>
+    <td>Red de usuarios global, crecimiento orgánico, precios negociados entre usuarios, bajas comisiones.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Dependencia de una masa crítica de usuarios y autos; mayor esfuerzo de crecimiento en etapas iniciales.</td>
+    <td>Limitado a Colombia; posible dificultad de expansión a otros mercados.</td>
+    <td>Enfoque en Europa, alta barrera de entrada en otros mercados fuera de la región.</td>
+    <td>Enfoque exclusivo en transporte urbano, sin ofrecer alquiler de autos; competencia con apps como Uber y Lyft.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Expansión a otras ciudades emergentes, asociaciones con estacionamientos y empresas de transporte.</td>
+    <td>Expansión a otros países, diversificación en más tipos de movilidad (yates y alojamiento).</td>
+    <td>Expansión a más continentes, integración con smart city y plataformas de movilidad.</td>
+    <td>Ampliar servicios a carsharing o alquiler de autos autónomos.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Alta competencia en LATAM y cambios regulatorios que podrían afectar el modelo de negocio.</td>
+    <td>Nuevas plataformas y modelos Open Source que replican el concepto de Moveo.</td>
+    <td>Competencia local y plataformas internacionales como Uber y Lyft.</td>
+    <td>Competencia de plataformas dominantes y regulación cambiante en el transporte urbano.</td>
+  </tr>
+</table>
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
--   Se realizarán diversas entrevistas con nuestros segmentos objetivos para comprobar si nuestra idea les parece razonable y si estarían dispuestos a probarla.
-    
--   Con base en los resultados de la investigación, implementaremos las ideas más innovadoras que saquemos e intentemos acoplarlos a nuestra aplicación.
-    
--   Buscaremos una diferenciación clara con nuestros competidores, intentaremos destacar en la autonomia y libertad que puede ofrecer nuestro producto a la hora de desplazarse.
-    
--   Los propietarios de autos que no usan sus vehiculos constantemente son un mercado muy poco atendido que creemos que podemos captar antes de que crezcan nuestros competidores
-    
--   Cada vez más usuarios valoran la flexibilidad de tener un auto solo por horas o días sin asumir costos de propiedad, creemos que nuestra app podria ser de gusto para ellos
+
+#### Estrategias Clave
+
+##### 1. Diferenciación a través de seguridad y facilidad de uso
+- Posicionamiento como plataforma confiable e imparcial (no somos una empresa de transporte ni de alquiler tradicional).
+- Verificación digital y automatizada de usuarios y vehículos.
+- Cobertura de seguros y asistencia como valor diferencial frente a redes informales o apps tradicionales.
+
+> **Promesa clara**: *"Muévete libremente o gana dinero con tu auto, sin complicaciones ni riesgos."*
+
+##### 2. Alianzas estratégicas
+- Convenios con estaciones de servicio, aseguradoras y talleres para ofrecer beneficios a los usuarios Moveo.
+- Integración con apps de movilidad o mapas urbanos para mayor visibilidad.
+
+##### 3. Educación del cliente sobre riesgos y beneficios
+- Contenido educativo multiformato (videos, reels, blogs, mini guías):
+  - Riesgos de alquilar o pedir autos por canales informales.
+  - Cómo protegerse y maximizar beneficios con Moveo.
+- Historias reales de éxito y recomendaciones prácticas.
+
+##### 4. Segmentación clara del mercado
+
+**Mensajes adaptados para:**
+- **Trabajadores urbanos**: “Muévete con independencia, sin tener que comprar un auto.”
+- **Proveedores de autos**: “Haz que tu auto trabaje por ti mientras no lo usas.”
+
+
+#### Tácticas Implementadas
+
+##### 1. Promociones para usuarios tempranos
+- Primer alquiler gratuito o con 50% de descuento.
+- Bonos de bienvenida para quienes registren su auto.
+- Vales de gasolina por primera transacción exitosa.
+
+##### 2. Sistema de reputación visual e incentivos
+- Sistema de puntuación pública para arrendatarios y propietarios.
+- Insignias o sellos de confianza Moveo visibles en los perfiles destacados.
+- Recompensas por buena reputación (descuentos, prioridad en resultados).
+
+##### 3. Campañas en redes sociales geolocalizadas
+- Publicidad segmentada en Facebook, Instagram y TikTok.
+- Enfoque en zonas urbanas con alto tráfico y baja eficiencia de transporte público (ej. San Isidro, Surco, Magdalena, La Molina).
+- Audiencias:
+  - Personas que buscan transporte diario económico.
+  - Propietarios de autos subutilizados (familias, adultos mayores, trabajadores remotos).
+
+
+##### 4. Programa de referidos
+- Recompensas para quien refiere y para el nuevo usuario.
+- Créditos de alquiler o comisiones por cada transacción generada.
+- Escalamiento del sistema: embajadores Moveo.
+
+##### 5. Suscripciones para propietarios frecuentes
+- Planes mensuales/anuales para dueños de flotas pequeñas.
+- Beneficios:
+  - Prioridad en búsquedas dentro de la app.
+  - Reportes de ingresos mensuales.
+  - Diagnósticos preventivos y asistencia técnica express.
+
+##### 6. Funcionalidades clave de la plataforma
+- Reserva instantánea y contratos digitales automáticos.
+- Panel web y móvil para gestionar alquileres e ingresos.
+- Descarga de recibos e informes en PDF.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
@@ -143,23 +308,88 @@ Los entrevistados del segmento Proveedores de Autos revelan que, si bien utiliza
 En cuanto al segmento Trabajadores Urbanos, se evidencia que el 100% de los entrevistados depende actualmente del transporte público para sus desplazamientos, considerando aspectos como costo, comodidad y tiempo como los principales factores de elección. Sin embargo, un 100% también manifestó frustración frente a la falta de confiabilidad, la congestión vehicular y la inseguridad del transporte urbano. Además, todos coinciden en que contar con un vehículo solo cuando lo necesiten les brindaría mayor autonomía, flexibilidad y control de su tiempo.
 
 En resumen, el análisis de las entrevistas muestra una necesidad latente en ambos segmentos: los proveedores buscan seguridad para ofrecer sus autos, mientras que los trabajadores urbanos buscan una alternativa que les permita movilizarse de manera más eficiente, segura y flexible sin tener que poseer un vehículo propio. Esta información respalda la viabilidad de la propuesta de Moveo como solución adaptada a los intereses y necesidades de ambos públicos objetivo.
-
 ## 2.3. Need finding
 ### 2.3.1. User Person
-<img src="assets/user-person/User persona - Trabajador.png">
-<img src="assets/user-person/User persona - Proveedor.png">
+#### Segmento 1: Trabajador urbano
+<img src="assets/chapter02/User persona - Trabajador.png">
+
+#### Segmento 2: Proveedor de auto
+<img src="assets/chapter02/User persona - Proveedor.png">
 
 ### 2.3.2. User Task Matrix
+
+#### Trabajador Urbano
+
+Esta tabla resume las principales actividades que realiza un usuario trabajador urbano, quien necesita soluciones eficientes para sus desplazamientos cotidianos por la ciudad, especialmente hacia su trabajo.
+
+----------
+|Task|Importancia|Frecuencia|
+|-----|--------------|---------|
+|Buscar rutas eficientes para ir al trabajo|High|Daily|
+|Comparar precios entre opciones de movilidad|High|Daily|
+|Reservar transporte de manera rápida y segura|High|Many|
+|Verificar el tiempo estimado de llegada y condiciones del tráfico|High|Many|
+|Valorar o calificar el servicio recibido|Moderate|Rare|
+|Guardar rutas favoritas|Low|Rare|
+|Contactar al proveedor en caso de incidencias|Moderate|Rare|
+
+
+
+#### Proveedor de Auto
+
+Esta tabla resume las tareas que realiza un proveedor de auto (persona que ofrece su vehículo como opción de transporte), cuyo objetivo es monetizar su vehículo maximizando su uso.
+
+------
+|Task|Importancia|Frecuencia|
+|-----|--------------|---------|
+|Registrar el vehículo en la plataforma|High|Rare|
+|Establecer horarios de disponibilidad|High|Weekly|
+|Gestionar solicitudes y reservas de viajes|High|Many|
+|Verificar datos del pasajero antes del viaje|Moderate|Many|
+|Recibir pagos de manera segura|Moderate|Many|
+|Consultar estadísticas de uso e ingresos|Moderate|Weekly|
+|Calificar a los usuarios después del viaje|Low|Rare|
+|Modificar la disponibilidad o condiciones del servicio|Moderate|Weekly|
+
 ### 2.3.3. User Journey Mapping
+#### Segmento 1: Trabajador urbano
+<img src="assets/chapter02/User journey map - trabajador.png">
+
+#### Segmento 2: Proveedor de auto
+<img src="assets/chapter02/User journey map - proveedor.png">
+
 ### 2.3.4. Empathy Mapping
+
+#### Segmento 1: Trabajador urbano
+<img src="assets/chapter02/Trabajador - Empathy map.png">
+
+#### Segmento 2: Proveedor de auto
+<img src="assets/chapter02/Proveedor - Empathy map.png">
+
 ### 2.3.5. As-is Scenario Mapping
+
+#### Segmento 1: Trabajador urbano
+<img src="assets/chapter02/As-Is Trabajador.png">
+
+#### Segmento 2: Proveedor de auto
+<img src="assets/chapter02/As-Is Proveedor.png">
+
 ## 2.4. Ubiquitous Language.
-| **Término (Inglés)** |**Término (Español)** | **Definición** |
-|-------------------------|--------------------------|-------------------|
-|Vehicle Provider |Proveedor de Vehículo|Persona que ofrece su auto personal para ser alquilado mediante la aplicación Moveo|
-|Renter|Arrendatario / Usuario|Persona que alquila un vehículo disponible mediante la plataforma para su transporte|
-|Fixed Rate|Tarifa Fija|Monto económico predeterminado que un usuario paga por el uso del vehículo en un periodo|
-|Delivery Point|Punto de Entrega|Lugar físico, mostrado en el mapa, donde el auto es dejado por el proveedor para el usuario|
-|Parking Hub|Centro de Estacionamiento|Estacionamiento asociado al sistema donde se permite el intercambio o almacenamiento de autos|
-|Remote Unlock|Desbloqueo Remoto|Funcionalidad que permite abrir y cerrar el vehículo usando la aplicación sin contacto físico|
-|Available Vehicle|Vehículo Disponible|Auto que ha sido ofrecido por un proveedor y se encuentra visible para ser rentado en la aplicación|
+| Término (Inglés) | Término (Español) | Definición |
+| ----- | ----- | ----- |
+| Vehicle Provider | Proveedor de Vehículo | Persona que ofrece su auto personal para ser alquilado mediante la aplicación Moveo. |
+| Renter | Arrendatario / usuario | Persona que alquila un vehículo disponible mediante la plataforma para su transporte. |
+| Fixed Rate | Tarifa Fija | Monto económico predeterminado que un usuario paga por el uso del vehículo en un periodo. |
+| Delivery Point | Punto de Entrega | Lugar físico, mostrado en el mapa, donde el auto es dejado por el proveedor para el usuario. |
+| Parking Hub | Centro de Estacionamiento | Estacionamiento asociado al sistema donde se permite el intercambio o almacenamiento de autos. |
+| Remote Unlock | Desbloqueo Remoto | Funcionalidad que permite abrir y cerrar el vehículo usando la aplicación sin contacto físico. |
+| Available Vehicle | Vehículo Disponible | Auto que ha sido ofrecido por un proveedor y se encuentra visible para ser rentado en la aplicación. |
+| Rental Agreement | Contrato de Alquiler | Términos y condiciones aceptados electrónicamente al concretar una reserva de vehículo. |
+| Availability Window | Ventana de Disponibilidad | Periodo de tiempo en que el proveedor habilita su auto para ser alquilado. |
+| Usage Period | Periodo de Uso | Tiempo total que el arrendatario tiene derecho a utilizar el vehículo rentado. |
+| Identity Verification | Verificación de Identidad | Proceso obligatorio para autenticar a proveedores y arrendatarios antes de usar la aplicación. |
+| Insurance Coverage | Cobertura de Seguro | Protección legal y financiera que cubre daños o robos durante el periodo de alquiler. |
+| Community Rating | Calificación Comunitaria | Sistema de evaluación basado en comentarios y puntuaciones de usuarios y proveedores. |
+| Peer-to-Peer Rental | Alquiler entre Particulares | Modalidad en la que personas alquilan directamente sus autos a otras personas mediante la app. |
+| Self-Service Mobility | Movilidad Autoservicio | Sistema en el cual el usuario puede reservar, recoger y devolver vehículos sin intermediarios. |
+| Fleet Owner | Propietario de Flota | Persona o empresa que pone a disposición varios vehículos dentro del ecosistema Moveo. |

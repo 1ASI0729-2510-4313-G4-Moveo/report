@@ -105,13 +105,6 @@ Así mismo, Para analizar los antecedentes y problemáticas del desarrollo nuest
 - **How Much:** El impacto económico varía: para los usuarios frecuentes de transporte, los costos pueden ser elevados, especialmente si requieren desplazamientos largos o diarios. Para los propietarios, se traduce en una pérdida de oportunidades de generar ingresos, además del riesgo de que el vehículo represente un pasivo en lugar de un activo, acumulando gastos por mantenimiento, seguro e impuestos.  
 
 <br>
-
-<p align="center">
-  <a>
-    <img src="assets/chapter01/5W2H/5w2h.jpg" style="width:500px; height:auto;" alt="">
-  </a>
-</p>
-
 El problema en sí puede variar de precios, en este caso para los trabajadores puede ser un promedio elevado especialmente si necesitan de movilidad frecuente y por largos trayectos. Para los propietarios de autos en este caso sería una perdida de oportunidades económicas, sus autos podrían generar gastos a futuro como mantenimiento y seguro.
 
 ### 1.2.2. Lean UX Process
@@ -120,8 +113,6 @@ El problema en sí puede variar de precios, en este caso para los trabajadores p
 Los trabajadores urbanos que no cuentan con un vehículo propio enfrentan dificultades para movilizarse de forma flexible, económica y sin depender del transporte público. Al mismo tiempo, muchos propietarios de autos que usan poco sus vehículos desean generar ingresos adicionales, pero desconfían de prestar su auto a desconocidos o se ven limitados por procesos complejos. Las soluciones actuales, como el carsharing corporativo o servicios de ride-hailing, no satisfacen esta necesidad de forma directa, segura y accesible para ambos perfiles.
 
 Nuestra solución abordará este problema mediante Moveo, una aplicación que conectará a trabajadores con necesidad de movilidad y a dueños de autos dispuestos a alquilarlos por periodos cortos o medios. El servicio permitirá gestionar desde la app todo el proceso de forma sencilla y confiable: registro de usuarios, publicación y búsqueda de vehículos, pagos y soporte con seguros básicos. Inicialmente, nuestro enfoque estará en jóvenes trabajadores de zonas urbanas y propietarios de autos subutilizados en ciudades como Lima Metropolitana.
-
----
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -144,24 +135,25 @@ Planeamos resolver eso con seguros, perfiles verificados y un sistema de reputac
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 
+
   - **Creemos que** los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse.
   - **Cuando** entren a la app, van a buscar un auto cerca para unas horas o todo el día.
   - **Entonces** podrán reservarlo desde la app, pagar y usarlo.
   - **Sabremos que** funcionó si repiten el uso varias veces en una semana.
----
+
 
   - **Creemos que** los dueños de autos quieren una forma de ganar dinero sin estrés.
   - **Cuando suban** su auto a Moveo, pondrán su horario y condiciones.
   - **Entonces** alguien lo reservará y ellos solo tendrán que entregarlo (o no, si se hace con recojo automático).
   - **Sabremos que** está funcionando si hay más autos publicados y los dueños están contentos con sus ganancias.
----
+
 
   - **Creemos que** los usuarios quieren saber que están protegidos si pasa algo malo.
   - **Cuando** ocurra un problema, podrán reportarlo por la app.
   - **Entonces** activamos soporte o el seguro según el caso.
   - **Sabremos que** la experiencia es buena si los problemas se resuelven rápido y sin peleas.
 
----
+
 
 #### 1.2.2.4. Lean UX Canvas
 
