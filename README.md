@@ -109,10 +109,10 @@
       <td>Se realizó la primera entrega de manera eficiente, cumpliendo con los objetivos establecidos. Durante el desarrollo se identificaron oportunidades de mejora que serán aplicadas en las siguientes versiones para optimizar los resultados.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>2.0</td>
+      <td>13/05/25</td>
+      <td>Castañeda, Giancarlo</td>
+      <td>Se realizo la entrega parcial de manera eficiente, cumpliendo con los objetivos establecidos y intentando resolver las observaciones del profesor. Durante el desarrollo se identificaron diversas medidas de mejora como ahorro de tiempo y optimización de resultados</td>
     </tr>
     <tr>
       <td></td>
@@ -183,7 +183,9 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
   <img src="assets/icons/insights-tb1.png"  style="width:800px; height:auto;" alt="">
 </p>
 
-- - - 
+### Entregable TP1
+
+A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
 
 ---
 # Contenido
