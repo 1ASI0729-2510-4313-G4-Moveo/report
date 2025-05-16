@@ -114,6 +114,8 @@ Los trabajadores urbanos que no cuentan con un vehículo propio enfrentan dificu
 
 Nuestra solución abordará este problema mediante Moveo, una aplicación que conectará a trabajadores con necesidad de movilidad y a dueños de autos dispuestos a alquilarlos por periodos cortos o medios. El servicio permitirá gestionar desde la app todo el proceso de forma sencilla y confiable: registro de usuarios, publicación y búsqueda de vehículos, pagos y soporte con seguros básicos. Inicialmente, nuestro enfoque estará en jóvenes trabajadores de zonas urbanas y propietarios de autos subutilizados en ciudades como Lima Metropolitana.
 
+---
+
 #### 1.2.2.2. Lean UX Assumptions
 
 **Supuestos de negocio:**
@@ -135,7 +137,6 @@ Planeamos resolver eso con seguros, perfiles verificados y un sistema de reputac
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 
-
   - **Creemos que** los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse.
   - **Cuando** entren a la app, van a buscar un auto cerca para unas horas o todo el día.
   - **Entonces** podrán reservarlo desde la app, pagar y usarlo.
@@ -152,7 +153,6 @@ Planeamos resolver eso con seguros, perfiles verificados y un sistema de reputac
   - **Cuando** ocurra un problema, podrán reportarlo por la app.
   - **Entonces** activamos soporte o el seguro según el caso.
   - **Sabremos que** la experiencia es buena si los problemas se resuelven rápido y sin peleas.
-
 
 
 #### 1.2.2.4. Lean UX Canvas
