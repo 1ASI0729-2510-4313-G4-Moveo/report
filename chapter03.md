@@ -106,31 +106,31 @@
 
 ## 3.4. Product Backlog
 |**# Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points(1 / 2 / 3 / 5)**|
-|--|-| --| --|-- |
-|1|US01|Registro de nuevos usuarios|Como visitante de ambos segmentos, quiero registrarme para acceder al servicio de la aplicación.|3|
-|2|US02|Inicio de sesión seguro|Como usuario, quiero iniciar sesión de manera segura para usar la plataforma.|2|
-|3|US03|Registro de autos por proveedor|Como usuario, quiero registrar mis autos para ponerlos en alquiler.|3|
-|4|US04|Visualización de autos disponibles|Como usuario, quiero visualizar los autos disponibles en un mapa para tener un mejor acercamiento a los centros cerca mio.|3|
-|5|US05|Reserva de auto|Como usuario, quiero reservar un auto para asegurar su disponibilidad.|2|
-|6|US06|Implementación de Call to Action| Como visitante de ambos segmentos, quiero encontrar botones de acción clara para facilitar la interacción.|3|
-|7|US07|Creación de Footer Informativo| Como visitante de ambos segmentos, quiero encontrar en el footer información sobre contacto, términos y condiciones y enlaces sociales.|1|
-|8|US08|Sección de Testimonios de Usuarios| Como visitante de ambos segmentos, quiero visualizar opiniones y experiencias de otros usuarios para confiar en el servicio antes de usarlo.|3|
-|9|US09|Sección de Preguntas Frecuentes (FAQ)| Como visitante de ambos segmentos, quiero consultar una sección de preguntas frecuentes para resolver mis dudas sin contacto humano.|2|
-|10|US10|Visualización de estacionamientos en el mapa|Como usuario, quiero ver en el mapa los estacionamientos disponibles cercanos para poder elegir uno al recibir el auto|5|
-|11|US11|Desbloqueo del auto mediante la app|Como usuario, quiero desbloquear el auto desde la aplicación sin necesidad de contacto físico o intermediarios|3|
-|12|US12|Verificación de mantenimiento del vehículo|Como usuario, quiero recibir notificaciones sobre cuándo es necesario realizar mantenimiento a mis vehículos en renta|3|
-|13|US13|Visualizar precios y tarifas|Como visitante del segmento trabajador quisiera poder visualizar los precios y tarifas que ofrece la aplicación para saber si me conviene comprar sus servicios|2|
-|14|US14|Visualizar principales funciones|Como visitante de ambos segmentos, quiero poder ver las funcionalidades que ofrece la aplicación para saber qué beneficio puedo tener|3|
-|15|US15|Ver el nombre, logo y eslogan de la aplicación| Como visitante de ambos segmentos, quiero poder visualizar el nombre y eslogan de la aplicación para saber de qué se trata a primera vista  |1|
-|16|US16|Visualizar el nombre del equipo | Como visitante de ambos segmentos, quiero poder visualizar el nombre del equipo que diseñó la aplicación para saber quién la creó y darle mis respetos|3|
-|17|US17|Sección de contacto|Como visitante de ambos segmentos quiero poder contactar a la startup creadora de la app para notificar si hay algun error o si simplemente quiero hablar con ellos|3|
-|18|US18|Editar información de un vehículo|Como usuario, quiero actualizar datos de un vehículo (tarifa, descripción) para mantener la información al día.|3|
-|19|US19|Desactivar vehículo de la plataforma|Como usuario, quiero desactivar un vehículo para que deje de aparecer disponible en Moveo.|3|
-|20|US20|Subir fotos al listado de vehículo|Como usuario, quiero agregar o eliminar fotos de mis vehículos para mostrarlos mejor a los arrendatarios.|5|
-|21|US21|Visualizar reservas de mis vehículos|Como usuario, quiero consultar un historial y estado de reservas realizadas a mis vehículos|3|
-|22|TS01|Diseño adaptable (responsive)|Cómo developer quiero asegurar que la aplicación web se adapte a cualquier tamaño de pantalla para garantizar una experiencia accesible desde móviles y computadoras.|3|
-|23|TS02|Integración del mapa con geolocalización|Como desarrollador quiero integrar una API de mapas con soporte de geolocalización para mostrar la ubicación de autos y estacionamientos en tiempo real|5|
-|24|TS03|Implementación de sistema de calificación de autos|Como desarrollador quiero permitir que los usuarios califiquen los autos después de un viaje para mantener control sobre la calidad del servicio|3|
+|---------|--------------|--------|-------------|--------------|
+| 1 | US06 | Implementación de Call to Action | **Como** visitante de ambos segmentos, **quiero** encontrar botones de acción clara **para** facilitar la interacción. | 2 |
+| 2 | US07 | Creación de Footer Informativo | **Como** visitante de ambos segmentos, **quiero** encontrar en el footer información sobre contacto, términos y condiciones y enlaces sociales **para** sentir confianza y poder comunicarme fácilmente con la plataforma si lo necesito. | 1 |
+| 3 | US08 | Sección de Testimonios de Usuarios | **Como** visitante de ambos segmentos, **quiero** visualizar opiniones y experiencias de otros usuarios **para** confiar en el servicio antes de usarlo. | 2 |
+| 4 | US09 | Sección de Preguntas Frecuentes (FAQ) | **Como** visitante de ambos segmentos, **quiero** consultar una sección de preguntas frecuentes **para** resolver mis dudas sin contacto humano. | 3 |
+| 5 | US13 | Visualizar precios y tarifas | **Como** visitante del segmento objetivo trabajadores, **quiero** poder visualizar los precios y tarifas que ofrece la aplicación **para** saber si me conviene comprar sus servicios. | 2 |
+| 6 | US14 | Visualizar principales funciones | **Como** visitante de ambos segmentos, **quiero** poder ver las funcionalidades que ofrece la aplicación **para** saber qué beneficio puedo tener. | 1 |
+| 7 | US15 | Visualización de datos de la empresa de la aplicación | **Como** visitante de ambos segmentos, **quiero** poder visualizar el nombre y eslogan de la aplicación **para** saber de qué se trata a primera vista. | 1 |
+| 8 | US16 | Visualizar el nombre del equipo | **Como** visitante de ambos segmentos, **quiero** poder visualizar el nombre del equipo que diseñó la aplicación **para** saber quién la creó y darle mis respetos. | 1 |
+| 9 | US17 | Sección de contacto | **Como** visitante de ambos segmentos, **quiero** poder contactar a la startup creadora de la app **para** notificar si hay algún error o si simplemente quiero hablar con ellos. | 3 |
+| 10 | US01 | Registro de nuevos usuarios | **Como** visitante de ambos segmentos, **quiero** registrarme **para** acceder al servicio de la aplicación. | 5 |
+| 11 | US02 | Inicio de sesión seguro | **Como** usuario, **quiero** iniciar sesión de manera segura **para** usar la plataforma. | 3 |
+| 12 | US03 | Registro de autos por proveedor | **Como** usuario, **quiero** registrar mis autos **para** ponerlos en alquiler. | 5 |
+| 13 | US10 | Visualización de estacionamientos en el mapa | **Como** usuario, **quiero** ver en el mapa los estacionamientos disponibles cercanos **para** poder elegir uno al recibir el auto. | 3 |
+| 14 | US19 | Editar información de un vehículo | **Como** usuario, **quiero** actualizar datos de un vehículo (tarifa, descripción) **para** mantener la información al día. | 2 |
+| 15 | US20 | Desactivar vehículo de la plataforma | **Como** usuario, **quiero** desactivar un vehículo **para** que deje de aparecer disponible en Moveo. | 2 |
+| 16 | US21 | Subir fotos al listado de vehículo | **Como** usuario, **quiero** agregar o eliminar fotos de mis vehículos **para** mostrarlos mejor a los arrendatarios. | 3 |
+| 17 | US22 | Visualizar reservas de mis vehículos | **Como** usuario, **quiero** consultar un historial y estado de reservas realizadas a mis vehículos **para** llevar un control eficiente de su uso y disponibilidad. | 2 |
+| 18 | US04 | Visualización de autos disponibles | **Como** usuario, **quiero** visualizar los autos disponibles en un mapa **para** tener un mejor acercamiento a los centros cerca mío. | 5 |
+| 19 | US11 | Desbloqueo del auto mediante la app | **Como** usuario, **quiero** desbloquear el auto desde la aplicación **para** no necesitar contacto físico o intermediarios. | 5 |
+| 20 | US05 | Reserva de auto | **Como** usuario, **quiero** reservar un auto **para** asegurar su disponibilidad. | 5 |
+| 21 | US12 | Verificación de mantenimiento del vehículo | **Como** usuario, **quiero** recibir notificaciones sobre cuándo es necesario realizar mantenimiento a mis vehículos en renta **para** asegurarme de que estén siempre en buen estado y ofrecer un servicio seguro y confiable. | 3 |
+| 22 | TS01 | Diseño adaptable (responsive) | **Como** developer, **quiero** asegurar que la aplicación web se adapte a cualquier tamaño de pantalla, **para** garantizar una experiencia accesible desde móviles y computadoras. | 5 |
+| 23 | TS02 | Integración del mapa con geolocalización | **Como** desarrollador, **quiero** integrar una API de mapas con soporte de geolocalización, **para** mostrar la ubicación de autos y estacionamientos en tiempo real. | 8 |
+| 24 | TS03 | Implementación de sistema de calificación de autos | **Como** desarrollador, **quiero** permitir que los usuarios califiquen los autos después de un viaje, **para** mantener control sobre la calidad del servicio. | 3 |
 
 <p align="center">
   <a>
