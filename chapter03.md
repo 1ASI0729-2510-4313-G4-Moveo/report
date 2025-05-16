@@ -54,11 +54,12 @@
 
 | Epic ID | Título                                   | Descripción                                                                                                      |
 |---------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| EP01    | Landing Page Informativa                  | **Como** visitante (trabajador o proveedor), **quiero** entender qué es Moveo, cómo funciona y qué beneficios me ofrece, **para** decidir registrarme en la plataforma. |
-| EP02    | Gestión y Registro de Usuarios            | **Como** usuario (trabajador o proveedor), **quiero** poder registrarme y autenticarme fácilmente en la plataforma **para** acceder de forma segura a las funcionalidades de Moveo según mi perfil. |
-| EP03    | Gestión de Vehículos para Proveedores     | **Como** usuario proveedor, **quiero** registrar, listar y administrar mis autos disponibles **para** alquiler de forma flexible y automatizada, y generar ingresos cuando no los utilizo. |
-| EP04    | Solicitud y Reserva de Vehículos          | **Como** usuario trabajador, **quiero** poder buscar, reservar y acceder a vehículos cercanos desde la aplicación **para** movilizarme libremente sin necesidad de comprar un auto. |
-| EP05    | Visualización y Selección de Estacionamientos | **Como** usuario trabajador, **quiero** visualizar en un mapa los estacionamientos disponibles **para** recoger y dejar el vehículo en el punto que más me convenga. |
+| EP01    | Landing Page Informativa                  | **Como** visitante (trabajador o proveedor) **quiero** entender qué es Moveo, cómo funciona y qué beneficios me ofrece, **para** decidir registrarme en la plataforma. |
+| EP02    | Gestión y Registro de Usuarios            | **Como** usuario (trabajador o proveedor) **quiero** poder registrarme y autenticarme fácilmente en la plataforma **para** acceder de forma segura a las funcionalidades de Moveo según mi perfil. |
+| EP03    | Gestión de Vehículos para Proveedores     | **Como** usuario proveedor **quiero** registrar, listar y administrar mis autos disponibles **para** alquiler de forma flexible y automatizada, y generar ingresos cuando no los utilizo. |
+| EP04    | Solicitud y Reserva de Vehículos          | **Como** usuario trabajador **quiero** poder buscar, reservar y acceder a vehículos cercanos desde la aplicación **para** movilizarme libremente sin necesidad de comprar un auto. |
+| EP05    | Visualización y Selección de Estacionamientos | **Como** usuario trabajador **quiero** visualizar en un mapa los estacionamientos disponibles **para** recoger y dejar el vehículo en el punto que más me convenga. |
+| EP06    | Manejo de la app web | **Como** desarrollador **quiero** manejar fácilmente la información de la aplicación **para** saber si todo está fluyendo de forma satisfactoria. |
 
 ### User Stories
 
