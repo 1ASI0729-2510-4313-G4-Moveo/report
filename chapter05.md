@@ -209,8 +209,6 @@ Para la realizacion del despliegue debemos seguir los siguientes pasos:
 #### 5.2.1.3. Sprint Backlog 1
 | User Story | Work-Item/Task | Id | Title | Description | Estimation (Hrs) | Assigned To | Status |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| us-1 | T1 | T1.1 | Registro de nuevos usuarios | Permitir a los nuevos usuarios registrarse en la plataforma Moveo. | 5 | Fernando Lizano | DONE |
-| us-2 | T2 | T2.1 | Inicio de sesión seguro | Implementar un sistema de inicio de sesión seguro para usuarios registrados. | 4 | Fernando Lizano |DONE|
 | us-6 | T6 | T6.1 | Implementación de Call to Action | Colocar botones de acción clara para facilitar la navegación. | 5 | Fernando Lizano | DONE |
 | us-7 | T7 | T7.1 | Creación de Footer Informativo | Crear un pie de página con información de contacto y redes sociales. | 4 | Fernando Lizano | DONE |
 | us-8 | T8 | T8.1 | Sección de Testimonios de Usuarios | Mostrar opiniones de usuarios anteriores para generar confianza. | 6 | Fernando Lizano | DONE |
@@ -360,19 +358,14 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 #### 5.2.2.3. Sprint Backlog 2
 | User Story | Work-Item/Task | Id | Title | Description | Estimation (Hrs) | Assigned To | Status |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| |  | |  |  | | |  |
-| |  | | |  |  |  |DONE|
-| |  | |  |  | | | DONE |
-| | | | |  | |  | DONE |
-| |  | |  |  |  |  | DONE |
-| |  | |  |  |  |  | DONE |
-| |  |  |  |  |  | | DONE |
-| | | |  |  |  | |DONE |
-| | |  |  | |  |  | DONE |
-| |  | |  |  | |  | DONE |
-| |  |  |  |  |  | | DONE |
-| |  | | |  | | | DONE |
-| | |  |  |  | | | DONE |
+| US01 | T1 | T1-1 | Registro de nuevos usuarios | Crear pantalla de registro de usuarios | 4 | Carlos Matthew | DONE |
+| US02 | T2 | T2-1 | Inicio de sesión seguro | Creación y almacenamiento de usuarios para la pantalla inicio de sesión  | 4 | Carlos Matthew |DONE|
+| US23 | T23 | T23-1 | Visualizar historial de uso | Creación y codificación de el historial de uso de los usuarios | 5 | Carlos Matthew, Javier Masaru | DONE |
+| US24 | T24 | T24-1 | Visualizar y editar metodos de pago | Creación, edició y eliminación de los metodos de pago | 6 | Carlos Matthew, Javier Masaru  | DONE |
+| TS01 | T6 | T6-1 | Diseño adaptable (responsive) | Realizar diseño responsive a la app web | 6 | Carlos Matthew | DONE |
+| TS04 | T7 | T7-1 | Funcionalidad CRUD en la interfaz | Agregar funcionalidades CRUD a la app web  | 5 | Carlos Matthew |DONE |
+| TS05 | T8 | T8-1 | Despliegue de la aplicación | Desplegar la aplicación en un entorno seguro | 5 | Carlos Matthew | DONE |
+| TS06 | T9 | T9-1 | Configuración de las rutas principales | Asignar rutas para mejorar la fluidez de la app | 6 | Carlos Matthew | DONE |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 A continuación se muestran los commits realizados por los integrantes del equipo, se obviaron los merges y commits incorrectos por razones de mejor visualización acerca de los commits correctamente desarrollados e implementados:
