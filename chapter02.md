@@ -173,15 +173,69 @@ A continuación realizaremos el análisis necesario para ver qué estrategias po
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
--   Se realizarán diversas entrevistas con nuestros segmentos objetivos para comprobar si nuestra idea les parece razonable y si estarían dispuestos a probarla.
-    
--   Con base en los resultados de la investigación, implementaremos las ideas más innovadoras que saquemos e intentemos acoplarlos a nuestra aplicación.
-    
--   Buscaremos una diferenciación clara con nuestros competidores, intentaremos destacar en la autonomia y libertad que puede ofrecer nuestro producto a la hora de desplazarse.
-    
--   Los propietarios de autos que no usan sus vehiculos constantemente son un mercado muy poco atendido que creemos que podemos captar antes de que crezcan nuestros competidores
-    
--   Cada vez más usuarios valoran la flexibilidad de tener un auto solo por horas o días sin asumir costos de propiedad, creemos que nuestra app podria ser de gusto para ellos
+
+#### Estrategias Clave
+
+##### 1. Diferenciación a través de seguridad y facilidad de uso
+- Posicionamiento como plataforma confiable e imparcial (no somos una empresa de transporte ni de alquiler tradicional).
+- Verificación digital y automatizada de usuarios y vehículos.
+- Cobertura de seguros y asistencia como valor diferencial frente a redes informales o apps tradicionales.
+
+> **Promesa clara**: *"Muévete libremente o gana dinero con tu auto, sin complicaciones ni riesgos."*
+
+##### 2. Alianzas estratégicas
+- Convenios con estaciones de servicio, aseguradoras y talleres para ofrecer beneficios a los usuarios Moveo.
+- Integración con apps de movilidad o mapas urbanos para mayor visibilidad.
+
+##### 3. Educación del cliente sobre riesgos y beneficios
+- Contenido educativo multiformato (videos, reels, blogs, mini guías):
+  - Riesgos de alquilar o pedir autos por canales informales.
+  - Cómo protegerse y maximizar beneficios con Moveo.
+- Historias reales de éxito y recomendaciones prácticas.
+
+##### 4. Segmentación clara del mercado
+
+**Mensajes adaptados para:**
+- **Trabajadores urbanos**: “Muévete con independencia, sin tener que comprar un auto.”
+- **Proveedores de autos**: “Haz que tu auto trabaje por ti mientras no lo usas.”
+
+
+#### Tácticas Implementadas
+
+##### 1. Promociones para usuarios tempranos
+- Primer alquiler gratuito o con 50% de descuento.
+- Bonos de bienvenida para quienes registren su auto.
+- Vales de gasolina por primera transacción exitosa.
+
+##### 2. Sistema de reputación visual e incentivos
+- Sistema de puntuación pública para arrendatarios y propietarios.
+- Insignias o sellos de confianza Moveo visibles en los perfiles destacados.
+- Recompensas por buena reputación (descuentos, prioridad en resultados).
+
+##### 3. Campañas en redes sociales geolocalizadas
+- Publicidad segmentada en Facebook, Instagram y TikTok.
+- Enfoque en zonas urbanas con alto tráfico y baja eficiencia de transporte público (ej. San Isidro, Surco, Magdalena, La Molina).
+- Audiencias:
+  - Personas que buscan transporte diario económico.
+  - Propietarios de autos subutilizados (familias, adultos mayores, trabajadores remotos).
+
+
+##### 4. Programa de referidos
+- Recompensas para quien refiere y para el nuevo usuario.
+- Créditos de alquiler o comisiones por cada transacción generada.
+- Escalamiento del sistema: embajadores Moveo.
+
+##### 5. Suscripciones para propietarios frecuentes
+- Planes mensuales/anuales para dueños de flotas pequeñas.
+- Beneficios:
+  - Prioridad en búsquedas dentro de la app.
+  - Reportes de ingresos mensuales.
+  - Diagnósticos preventivos y asistencia técnica express.
+
+##### 6. Funcionalidades clave de la plataforma
+- Reserva instantánea y contratos digitales automáticos.
+- Panel web y móvil para gestionar alquileres e ingresos.
+- Descarga de recibos e informes en PDF.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
@@ -321,12 +375,21 @@ Esta tabla resume las tareas que realiza un proveedor de auto (persona que ofrec
 <img src="assets/chapter02/As-Is Proveedor.png">
 
 ## 2.4. Ubiquitous Language.
-| **Término (Inglés)** |**Término (Español)** | **Definición** |
-|-------------------------|--------------------------|-------------------|
-|Vehicle Provider |Proveedor de Vehículo|Persona que ofrece su auto personal para ser alquilado mediante la aplicación Moveo|
-|Renter|Arrendatario / Usuario|Persona que alquila un vehículo disponible mediante la plataforma para su transporte|
-|Fixed Rate|Tarifa Fija|Monto económico predeterminado que un usuario paga por el uso del vehículo en un periodo|
-|Delivery Point|Punto de Entrega|Lugar físico, mostrado en el mapa, donde el auto es dejado por el proveedor para el usuario|
-|Parking Hub|Centro de Estacionamiento|Estacionamiento asociado al sistema donde se permite el intercambio o almacenamiento de autos|
-|Remote Unlock|Desbloqueo Remoto|Funcionalidad que permite abrir y cerrar el vehículo usando la aplicación sin contacto físico|
-|Available Vehicle|Vehículo Disponible|Auto que ha sido ofrecido por un proveedor y se encuentra visible para ser rentado en la aplicación|
+| Término (Inglés) | Término (Español) | Definición |
+| ----- | ----- | ----- |
+| Vehicle Provider | Proveedor de Vehículo | Persona que ofrece su auto personal para ser alquilado mediante la aplicación Moveo. |
+| Renter | Arrendatario / usuario | Persona que alquila un vehículo disponible mediante la plataforma para su transporte. |
+| Fixed Rate | Tarifa Fija | Monto económico predeterminado que un usuario paga por el uso del vehículo en un periodo. |
+| Delivery Point | Punto de Entrega | Lugar físico, mostrado en el mapa, donde el auto es dejado por el proveedor para el usuario. |
+| Parking Hub | Centro de Estacionamiento | Estacionamiento asociado al sistema donde se permite el intercambio o almacenamiento de autos. |
+| Remote Unlock | Desbloqueo Remoto | Funcionalidad que permite abrir y cerrar el vehículo usando la aplicación sin contacto físico. |
+| Available Vehicle | Vehículo Disponible | Auto que ha sido ofrecido por un proveedor y se encuentra visible para ser rentado en la aplicación. |
+| Rental Agreement | Contrato de Alquiler | Términos y condiciones aceptados electrónicamente al concretar una reserva de vehículo. |
+| Availability Window | Ventana de Disponibilidad | Periodo de tiempo en que el proveedor habilita su auto para ser alquilado. |
+| Usage Period | Periodo de Uso | Tiempo total que el arrendatario tiene derecho a utilizar el vehículo rentado. |
+| Identity Verification | Verificación de Identidad | Proceso obligatorio para autenticar a proveedores y arrendatarios antes de usar la aplicación. |
+| Insurance Coverage | Cobertura de Seguro | Protección legal y financiera que cubre daños o robos durante el periodo de alquiler. |
+| Community Rating | Calificación Comunitaria | Sistema de evaluación basado en comentarios y puntuaciones de usuarios y proveedores. |
+| Peer-to-Peer Rental | Alquiler entre Particulares | Modalidad en la que personas alquilan directamente sus autos a otras personas mediante la app. |
+| Self-Service Mobility | Movilidad Autoservicio | Sistema en el cual el usuario puede reservar, recoger y devolver vehículos sin intermediarios. |
+| Fleet Owner | Propietario de Flota | Persona o empresa que pone a disposición varios vehículos dentro del ecosistema Moveo. |

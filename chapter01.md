@@ -105,13 +105,6 @@ Así mismo, Para analizar los antecedentes y problemáticas del desarrollo nuest
 - **How Much:** El impacto económico varía: para los usuarios frecuentes de transporte, los costos pueden ser elevados, especialmente si requieren desplazamientos largos o diarios. Para los propietarios, se traduce en una pérdida de oportunidades de generar ingresos, además del riesgo de que el vehículo represente un pasivo en lugar de un activo, acumulando gastos por mantenimiento, seguro e impuestos.  
 
 <br>
-
-<p align="center">
-  <a>
-    <img src="assets/chapter01/5W2H/5w2h.jpg" style="width:500px; height:auto;" alt="">
-  </a>
-</p>
-
 El problema en sí puede variar de precios, en este caso para los trabajadores puede ser un promedio elevado especialmente si necesitan de movilidad frecuente y por largos trayectos. Para los propietarios de autos en este caso sería una perdida de oportunidades económicas, sus autos podrían generar gastos a futuro como mantenimiento y seguro.
 
 ### 1.2.2. Lean UX Process
@@ -127,55 +120,40 @@ Nuestra solución abordará este problema mediante Moveo, una aplicación que co
 
 **Supuestos de negocio:**
 
-1. Creemos que los usuarios quieren alquilar autos sin tantas vueltas, sin ir a una agencia.
-2. Pensamos que con una app donde todo esté claro (precios, disponibilidad, contacto) se animarían más.
-3. Los primeros que usarán la app serían trabajadores que se movilizan a diario y dueños de autos que no usan mucho su carro.
-4. El valor que más les importa es sentirse seguros y que el servicio sea práctico.
-5. También valoran el hecho de que puedan resolver todo desde su celular, sin salir de casa.
-6. Vamos a llegar a los usuarios por redes, referidos, promociones y quizás convenios con empresas.
-7. La app ganaría por comisión en cada alquiler o planes premium para dueños frecuentes.
-8. Nuestra competencia serían agencias de alquiler, Uber o incluso grupos de Facebook para alquilar carros.
-9. Nuestra ventaja es que somos más accesibles, rápidos y enfocados en trayectos diarios o alquileres cortos.
-10. Un riesgo es que la gente tenga miedo de prestar su carro.
-11. Planeamos resolver eso con seguros, perfiles verificados y un sistema de reputación.
-
-**Supuestos de usuario:**
-
-- **¿Quiénes son?** Trabajadores sin auto propio y dueños de autos que no usan mucho.
-- **¿Qué queremos resolver?** Que los primeros puedan movilizarse mejor y los segundos ganen dinero con sus autos.
-- **¿Qué buscan en la app?** Que sea clara, que no se complique, y que se sientan protegidos.
-- **¿Dónde encaja en su vida?** Para el trabajador, es una forma de llegar al trabajo o moverse sin depender de buses o taxis caros. Para el dueño del auto, es una forma pasiva de tener ingresos extra.
-- **¿Cuándo y cómo usan la app?** Cuando necesitan moverse o cuando su carro esté libre. Desde el celular, viendo autos cercanos o viendo si alguien quiere usar su auto.
-- **¿Cómo debe verse la app?** Bonita, simple, con botones grandes. Que no te pierdas buscando funciones, y que puedas hacer todo en pocos pasos.
+Creemos que los usuarios quieren alquilar autos sin tantas vueltas, sin ir a una agencia.
+Pensamos que con una app donde todo esté claro (precios, disponibilidad, contacto) se animarían más.
+Los primeros que usarán la app serían trabajadores que se movilizan a diario y dueños de autos que no usan mucho su carro.
+El valor que más les importa es sentirse seguros y que el servicio sea práctico.
+También valoran el hecho de que puedan resolver todo desde su celular, sin salir de casa.
+Vamos a llegar a los usuarios por redes, referidos, promociones y quizás convenios con empresas.
+La app ganaría por comisión en cada alquiler o planes premium para dueños frecuentes.
+Nuestra competencia serían agencias de alquiler, Uber o incluso grupos de Facebook para alquilar carros.
+Nuestra ventaja es que somos más accesibles, rápidos y enfocados en trayectos diarios o alquileres cortos.
+Un riesgo es que la gente tenga miedo de prestar su carro.
+Planeamos resolver eso con seguros, perfiles verificados y un sistema de reputación.
 
 ---
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-Con el fin de guiar el desarrollo inicial de Moveo, formulamos nuestro Lean UX Hypothesis Statement. A través de esta hipótesis, establecemos de manera estructurada nuestras suposiciones sobre quiénes son nuestros usuarios, qué necesidades específicas tienen, qué solución les ofreceremos y cómo esperamos validar nuestro enfoque a partir de sus comportamientos y resultados medibles.
+
+  - **Creemos que** los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse.
+  - **Cuando** entren a la app, van a buscar un auto cerca para unas horas o todo el día.
+  - **Entonces** podrán reservarlo desde la app, pagar y usarlo.
+  - **Sabremos que** funcionó si repiten el uso varias veces en una semana.
 
 
-
-  **Creemos que** los trabajadores quieren alquilar un auto sin pagar tanto ni complicarse. <br>
-  **Cuando entren** a la app, van a buscar un auto cerca para unas horas o todo el día. <br>
-  **Entonces** podrán reservarlo desde la app, pagar y usarlo. <br>
-  **Sabremos que** funcionó si repiten el uso varias veces en una semana. <br>
-
+  - **Creemos que** los dueños de autos quieren una forma de ganar dinero sin estrés.
+  - **Cuando suban** su auto a Moveo, pondrán su horario y condiciones.
+  - **Entonces** alguien lo reservará y ellos solo tendrán que entregarlo (o no, si se hace con recojo automático).
+  - **Sabremos que** está funcionando si hay más autos publicados y los dueños están contentos con sus ganancias.
 
 
-  **Creemos que** los dueños de autos quieren una forma de ganar dinero sin estrés. <br>
-  **Cuando** suban su auto a Moveo, pondrán su horario y condiciones. <br>
-  **Entonces** alguien lo reservará y ellos solo tendrán que entregarlo (o no, si se hace con recojo automático). <br>
-  **Sabremos que** está funcionando si hay más autos publicados y los dueños están contentos con sus ganancias. <br>
+  - **Creemos que** los usuarios quieren saber que están protegidos si pasa algo malo.
+  - **Cuando** ocurra un problema, podrán reportarlo por la app.
+  - **Entonces** activamos soporte o el seguro según el caso.
+  - **Sabremos que** la experiencia es buena si los problemas se resuelven rápido y sin peleas.
 
-
-
-  **Creemos que** los usuarios quieren saber que están protegidos si pasa algo malo. <br>
-  **Cuando** ocurra un problema, podrán reportarlo por la app. <br>
-  **Entonces** activamos soporte o el seguro según el caso. <br>
-  **Sabremos que** la experiencia es buena si los problemas se resuelven rápido y sin peleas. <br>
-
----
 
 #### 1.2.2.4. Lean UX Canvas
 
