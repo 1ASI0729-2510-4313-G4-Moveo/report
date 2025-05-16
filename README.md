@@ -311,12 +311,16 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Castañeda, Santiago - TB1:</strong> Durante el desarrollo del proyecto, realice actividades como la descripción de la startup, entrevistar a los segmentos objetivos y hacer sus anilisis, las tablas competitivas y el analisis competitivo, ademas me dedique a realizar diseño Lean UX y UI, el prototipado del proyecto y el resto del capitulo 5 en lo que vendria a ser las evidencias, los insights y las evidencias de la Landing, ademas de las conclusiones, recomendaciones y anexos.
         <br><br>
+        <strong>Castañeda, Santiago - TP1:</strong> Para el desarrollo de esta entrega hice las correciones a partes especificas como las user stories, el product backlog, el C4, el diagrama de clases y su diccionario, ademas de la implementación del sprint 2.    
+        <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Durante el desarrollo del proyecto, realice las actividades, como la landing page en el tema de las imagenes, traduccion, me encargue de realizar las entrevistas junto con el analisis de las entrevistas, aplique HTML, CSS y JS en la landing page, tambien realice el searching systems, navigation system, software architecture components diagrams, apoye con mi equipo en las actividades que les faltaban tambien.
         <br><br>
         <strong>Lizano, Fernando - TB1:</strong> Durante el desarrollo del proyecto, me enfoqué en comunicar de manera clara y efectiva el orden y la estructura del informe en las reuniones grupales. Cada vez que surgieron dudas o propuestas de mejora, expuse de forma precisa los cambios necesarios, adaptando mi comunicación según el perfil de los integrantes del equipo, buscando siempre asegurar que todos comprendieran el objetivo común. Además, fomenté un espacio de retroalimentación constante para que las mejoras en los capítulos fueran comprendidas y aplicadas correctamente.
         <br><br>
         <strong>Nikaido, Javier - TB1:</strong> Durante el desarrollo de proyectos como el de VeciHub, he demostrado mi capacidad para redactar informes técnicos claros y concisos, adaptados a diferentes audiencias, usando un lenguaje adecuado según el nivel de especialización. Esto lo logré a través de la documentación de cada fase del proceso Lean UX, la matriz de tareas del usuario y el backlog de sprint.
-        <br><br> <strong>Nikaido, Javier - TP1: </strong> Creacion de views: car-record, corolla-page, payment-edit, payment-view y record archived.    <br><br>
+        <br><br> 
+        <strong>Nikaido, Javier - TP1: </strong> Creacion de views: car-record, corolla-page, payment-edit, payment-view y record archived.    
+        <br><br>
         <strong>Trillo, Anghel - TB1:</strong> Durante el proyecto Moveo, logré comunicarme oralmente de manera efectiva con diferentes audiencias, adaptando mi mensaje según su nivel de conocimiento. Puedo explicar conceptos técnicos de desarrollo de software como User Persona, User Journey Map, Empathy Map, Product Backlog, Class Diagram, Class Dictionary, Database Diagram y Software Configuration Management. Además, supe cómo presentar estos elementos y su rol en el diseño, planificación y desarrollo de un producto, facilitando la colaboración y comprensión dentro de un equipo multidisciplinario.
       <td>
          TB1: Al trabajar como equipo en este proyecto, hemos aprendido a comunicarnos de manera más efectiva y a distribuir tareas según las fortalezas de cada miembro. La colaboración constante nos permitió mejorar nuestra organización y gestionar los tiempos de forma eficiente. Además, enfrentamos desafíos técnicos y de coordinación que nos enseñaron a adaptarnos rápidamente y a buscar soluciones conjuntas. Esta experiencia ha reforzado la importancia de la confianza y el apoyo mutuo dentro de un equipo de trabajo, lo cual fue clave para el avance y éxito del proyecto.
@@ -328,6 +332,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>ENTREGABLE TB1:</strong>
         <br><br>
         <strong>Castañeda, Santiago - TB1:</strong> Como equipo, aprendimos a trabajar en ambientes dificultosos y a veces tardados. Despues de lograr resolver algunas dificultades demostramos ser un buen grupo que cuenta con muchas habilidades individual y grupalmente hablando. Nos faltaria lograr una mejor estructuración del tiempo para lograr tener un mejor margen de error
+        <br><br>
+        <strong>Castañeda, Santiago - TP1:</strong> Como equipo logramos acabar determinar instacias y tiempos para poder terminar el trabajo mas eficientemente y de manera proactiva 
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Como grupo tenemos un buen ambiente y siempre sabemos trabajar bajo a presion, incluso si tenemos dificultades con un compañero sabemos como solucionarlo de inmediato, solo nos faltaria mejorar en el aspecto de tener una mejor estructura del tiempo, pero del resto tenemos buena comunicacion, buen ambiente y sabemos trabajar individualmente cada uno.
         <br><br>
