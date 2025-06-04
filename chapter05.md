@@ -416,6 +416,201 @@ URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Mo
 |  | |
 |  | |
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Sprint Planning 3.
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name)  | GitHub Username | Aspect Diseño UX/UI y Prototipado (L/C) | Aspect Programación de la app web (L/C)      | Aspect Arquitectura de Información y Sistemas de Organización/Navegación (L/C) |
+| ------------------------------------ | --------------- | --------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Castañeda Guimas, Giancarlo Santiago | Darksens01      | L                                       | C                                            | C                                                                                             |
+| Gonzales Valverde, Carlos Matthew    | Carlos12324     | L                                       | L                                            | L                                                                                             |
+| Nikaido Vargas, Javier Nikaido       | MassiFlip       | L                                       | C                                            | C                                                                                             |
+| Lizano Coll Cardenas, Fernando Jesus | GuardianDeity   | L                                       | L                                            | L                                                                                             |
+| Trillo Hernandez, Anghel Melanie     | AM27TH          | L                                       | L                                            | L                                                                                             |
+
+
+| Id | Title | Id | Title | Description | Estimation (Hours)  | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+|  |  |  |  |  |  | Done |
+|  |  |  |  |  |  | Done |
+|  |  |  |  |  |  | Done |
+|  |  |  |  |  |  | Done |
+|  |  |  |  |  |  | Done |
+|  |  |  |  |  |  | Done |
+|  |  |  |  |  |  | Done |
+|  |  |  |  |  |  | Done |
+|  |  |  |  |  |  | Done |
+|  |  |  |  |  |  | Done |
+
+
+A continuación se muestran los commits realizados por los integrantes del equipo durante el desarrollo de la SPA Moveo. Se han excluido los merges automáticos y repetitivos para mostrar solo los commits funcionales más relevantes.
+
+| Repository                                  | Branch                | Commit Id | Commit Message                                     | Commit Message Body | Commited on      |
+|---------------------------------------------|-----------------------|-----------|----------------------------------------------------|---------------------|------------------|
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
+
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+| Participante | Actividades de implementación |
+| :---- | :---- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+| Segmento Objetivo | Estudiantes |
+| ----- | ----- |
+| **Número de registro** | **Datos del entrevistado** |
+| 01 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  **Distrito:**  <br>**Inicio \- Duración:** \- <br> ![interview-image]() |
+|  | **Resumen:**   |
+| 02 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]() |
+|  | **Resumen:** |
+| 03 | **Nombre:**   <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-  <br> ![interview-image]() |
+|  | **Resumen:** |
+| **Segmento Objetivo** | **Turistas** |
+| **04** | **Nombre:**  <br>**Edad:**  <br>**Profesión:** <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]()|
+|  | **Resumen:** |
+| **05** | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-   <br> ![interview-image]()|
+|  | **Resumen:**  |
+|**06**| **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:** **Inicio \- Duración:**  \-  <br> ![interview-image]() |
+|  | **Resumen:** |
+| Link de la entrevista |  | 
+
+### 5.3.3. Evaluaciones según heuristicas
+
+**UX Heuristics & Principles Evaluation**  
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA            	: Ingeniería de Software**  
+**CURSO                	: Open Source**  
+**SECCIÓN              	:** 4313
+
+**PROFESORES      	: Alberto Wilmer Sanchez Seña**
+
+**AUDITOR            	:** GPT4
+**CLIENTE(S)          	:** Nombre de las personas que participan en la sesión
+
+*NOTA: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.*
+
+***SITE o APP A EVALUAR:***
+
+*Nombre de App*
+
+***TAREAS A EVALUAR:***
+
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+1\.     *Registro de un usuario nuevo*
+
+2\.     *Publicación de un post*
+
+3\.     *Búsqueda de un paquete turístico*
+
+4\.     *Reserva de un viaje*
+
+5\.     *Cancelación de una reserva*
+
+6\.     *Agregar ítems a un pedido*
+
+7\.     *Pago de un paquete turístico*
+
+8\.     *Etc.*
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+
+1\.     *Compartir reservas entre usuarios*
+
+2\.     *Presentar ofertas de último minuto*
+
+3\.     *Administrar puntos del programa de fidelización de viajes*
+
+4\.     *Guardar “alerta de paquetes”*
+
+5\.     *Etc.*
+
+***ESCALA DE SEVERIDAD:***
+
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*  
+ 
+
+| Nivel | Descripción |
+| :---- | :---- |
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+
+***TABLA RESUMEN:***
+
+| \# | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :---: | ----- | ----- | :---- |
+| 1 | No hay un control que permita regresar a la tienda durante el trámite de compra | 3 | Usability: Libertad y control del usuario |
+| 2 | Se repiten constantemente algunas opciones | 1 | Usability: Consistencia y estándares |
+| 3 | Imágenes sin atributo “alt” | 3 | Inclusive Design: Proporciona experiencias comparables |
+| 4 | Incluye un botón “Ver más” pero no existe contenido al que dirigirse | 3 | Information Architecture: Is it usable? |
+| 5 | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| … | …. |   |   |
+
+Etc.
+
+***DESCRIPCIÓN DE PROBLEMAS:*** 
+
+*PROBLEMA \#1: No hay un control que permita regresar a la tienda durante el trámite de compra*
+
+*Severidad: 3*
+
+*Heurística violada: Usabilidad \- Libertad y control del usuario*
+
+*Problema:*
+
+*Al momento de ingresar nuestros datos, no podemos regresar a la tienda en caso así lo Una vez el cliente pase al trámite de compra, en caso de que este quiera regresar a la tienda, no hay un botón que lo envié al inicio de la web, lo cual nos obliga a efectuar el trámite y al momento de elegir más productos, realizar otro, incrementándose así la cantidad de esfuerzo del usuario.*
+
+*(Incluir además una captura de pantalla ilustrando el problema).*
+
+*Recomendación:*
+
+*La más práctica es que al momento en que queramos realizar dicho trámite, el navegador lo abra en una ventana aparte para no perder los cambios realizados en nuestro carrito de compras.*  
+
+### 5.4. Video About the Product
+
 ## Conclusiones
 
 - **Solución a una necesidad real:**
@@ -497,3 +692,4 @@ https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/97804
 
 ## Anexo B: Videos de exposiciones: 
 - [Link a video de exposición de TB1 en Microsoft Stream]()
+- Link a video de exposición de TB2 en Microsoft Stream
