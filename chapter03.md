@@ -121,25 +121,25 @@
 | 8 | US16 | Visualizar el nombre del equipo | **Como** visitante de ambos segmentos, **quiero** poder visualizar el nombre del equipo que diseñó la aplicación **para** saber quién la creó y darle mis respetos. | 1 |
 | 9 | US17 | Sección de contacto | **Como** visitante de ambos segmentos, **quiero** poder contactar a la startup creadora de la app **para** notificar si hay algún error o si simplemente quiero hablar con ellos. | 3 |
 | 10 | US01 | Registro de nuevos usuarios | **Como** visitante de ambos segmentos, **quiero** registrarme **para** acceder al servicio de la aplicación. | 5 |
-| 11 | US02 | Inicio de sesión seguro | **Como** usuario, **quiero** iniciar sesión de manera segura **para** usar la plataforma. | 3 |
-| 12 | US03 | Registro de autos por proveedor | **Como** usuario, **quiero** registrar mis autos **para** ponerlos en alquiler. | 5 |
-| 13 | US10 | Visualización de estacionamientos en el mapa | **Como** usuario, **quiero** ver en el mapa los estacionamientos disponibles cercanos **para** poder elegir uno al recibir el auto. | 3 |
-| 14 | US19 | Editar información de un vehículo | **Como** usuario, **quiero** actualizar datos de un vehículo (tarifa, descripción) **para** mantener la información al día. | 2 |
-| 15 | US20 | Desactivar vehículo de la plataforma | **Como** usuario, **quiero** desactivar un vehículo **para** que deje de aparecer disponible en Moveo. | 2 |
-| 16 | US21 | Subir fotos al listado de vehículo | **Como** usuario, **quiero** agregar o eliminar fotos de mis vehículos **para** mostrarlos mejor a los arrendatarios. | 3 |
-| 17 | US22 | Visualizar reservas de mis vehículos | **Como** usuario, **quiero** consultar un historial y estado de reservas realizadas a mis vehículos **para** llevar un control eficiente de su uso y disponibilidad. | 2 |
-| 18 | US04 | Visualización de autos disponibles | **Como** usuario, **quiero** visualizar los autos disponibles en un mapa **para** tener un mejor acercamiento a los centros cerca mío. | 5 |
-| 19 | US11 | Desbloqueo del auto mediante la app | **Como** usuario, **quiero** desbloquear el auto desde la aplicación **para** no necesitar contacto físico o intermediarios. | 5 |
-| 20 | US05 | Reserva de auto | **Como** usuario, **quiero** reservar un auto **para** asegurar su disponibilidad. | 5 |
-| 21 | US12 | Verificación de mantenimiento del vehículo | **Como** usuario, **quiero** recibir notificaciones sobre cuándo es necesario realizar mantenimiento a mis vehículos en renta **para** asegurarme de que estén siempre en buen estado y ofrecer un servicio seguro y confiable. | 3 |
-| 22 | US23 | Visualizar historial de uso |  **Como** usuario, **quiero** consultar un historial de carros que eh usado en un pasado **para** llevar un control eficiente de uso y gasto en la aplicación.| 5 |
-| 23 | US24 | Visualizar y editar metodos de pago | **Como** usuario, **quiero** editar el metodo de pago **para** cambiar de tarjeta a una donde si tengo fondos  | 3 |
-| 24 | TS01 | Diseño adaptable (responsive) | **Como** developer, **quiero** asegurar que la aplicación web se adapte a cualquier tamaño de pantalla, **para** garantizar una experiencia accesible desde móviles y computadoras. | 5 |
-| 25 | TS02 | Integración del mapa con geolocalización | **Como** desarrollador, **quiero** integrar una API de mapas con soporte de geolocalización, **para** mostrar la ubicación de autos y estacionamientos en tiempo real. | 8 |
-| 26 | TS03 | Implementación de sistema de calificación de autos | **Como** desarrollador, **quiero** permitir que los usuarios califiquen los autos después de un viaje, **para** mantener control sobre la calidad del servicio. | 3 |
-| 27 | TS04 | Funcionalidad CRUD en la interfaz | Como developer quiero implementar funcionalidades CRUD (Crear, leer, actualizar, eliminar)  en la interfaz para gestionar los recursos de manera dinamica desde el frontend | 5 |
-| 28 | TS05 | Despliegue de la aplicación | Como developer quiero desplegar la aplicación en un entorno accesible públicamente para que otros usuarios puedan probar su funcionamiento | 3 |
-| 29 | TS06 | Configuración de las rutas principales | Como developer, quiero configurar las rutas principales de la aplicación para permitir la navegación entre las diferentes vistas de forma fluida | 3 |
+| 11 | TS01 | Diseño adaptable (responsive) | **Como** developer, **quiero** asegurar que la aplicación web se adapte a cualquier tamaño de pantalla, **para** garantizar una experiencia accesible desde móviles y computadoras. | 5 |
+| 12 | TS02 | Integración del mapa con geolocalización | **Como** desarrollador, **quiero** integrar una API de mapas con soporte de geolocalización, **para** mostrar la ubicación de autos y estacionamientos en tiempo real. | 8 |
+| 13 | TS03 | Implementación de sistema de calificación de autos | **Como** desarrollador, **quiero** permitir que los usuarios califiquen los autos después de un viaje, **para** mantener control sobre la calidad del servicio. | 3 |
+| 14 | TS04 | Funcionalidad CRUD en la interfaz | Como developer quiero implementar funcionalidades CRUD (Crear, leer, actualizar, eliminar)  en la interfaz para gestionar los recursos de manera dinamica desde el frontend | 5 |
+| 15 | TS05 | Despliegue de la aplicación | Como developer quiero desplegar la aplicación en un entorno accesible públicamente para que otros usuarios puedan probar su funcionamiento | 3 |
+| 16 | TS06 | Configuración de las rutas principales | Como developer, quiero configurar las rutas principales de la aplicación para permitir la navegación entre las diferentes vistas de forma fluida | 3 |
+| 17 | US02 | Inicio de sesión seguro | **Como** usuario, **quiero** iniciar sesión de manera segura **para** usar la plataforma. | 3 |
+| 18 | US03 | Registro de autos por proveedor | **Como** usuario, **quiero** registrar mis autos **para** ponerlos en alquiler. | 5 |
+| 19 | US10 | Visualización de estacionamientos en el mapa | **Como** usuario, **quiero** ver en el mapa los estacionamientos disponibles cercanos **para** poder elegir uno al recibir el auto. | 3 |
+| 20 | US19 | Editar información de un vehículo | **Como** usuario, **quiero** actualizar datos de un vehículo (tarifa, descripción) **para** mantener la información al día. | 2 |
+| 21 | US20 | Desactivar vehículo de la plataforma | **Como** usuario, **quiero** desactivar un vehículo **para** que deje de aparecer disponible en Moveo. | 2 |
+| 22 | US21 | Subir fotos al listado de vehículo | **Como** usuario, **quiero** agregar o eliminar fotos de mis vehículos **para** mostrarlos mejor a los arrendatarios. | 3 |
+| 23 | US22 | Visualizar reservas de mis vehículos | **Como** usuario, **quiero** consultar un historial y estado de reservas realizadas a mis vehículos **para** llevar un control eficiente de su uso y disponibilidad. | 2 |
+| 24 | US04 | Visualización de autos disponibles | **Como** usuario, **quiero** visualizar los autos disponibles en un mapa **para** tener un mejor acercamiento a los centros cerca mío. | 5 |
+| 25 | US11 | Desbloqueo del auto mediante la app | **Como** usuario, **quiero** desbloquear el auto desde la aplicación **para** no necesitar contacto físico o intermediarios. | 5 |
+| 26 | US05 | Reserva de auto | **Como** usuario, **quiero** reservar un auto **para** asegurar su disponibilidad. | 5 |
+| 27 | US12 | Verificación de mantenimiento del vehículo | **Como** usuario, **quiero** recibir notificaciones sobre cuándo es necesario realizar mantenimiento a mis vehículos en renta **para** asegurarme de que estén siempre en buen estado y ofrecer un servicio seguro y confiable. | 3 |
+| 28 | US23 | Visualizar historial de uso |  **Como** usuario, **quiero** consultar un historial de carros que eh usado en un pasado **para** llevar un control eficiente de uso y gasto en la aplicación.| 5 |
+| 29 | US24 | Visualizar y editar metodos de pago | **Como** usuario, **quiero** editar el metodo de pago **para** cambiar de tarjeta a una donde si tengo fondos  | 3 |
 
 <p align="center">
   <a>
