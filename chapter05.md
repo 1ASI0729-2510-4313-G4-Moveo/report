@@ -418,6 +418,23 @@ URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Mo
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1.Sprint Planning 3.
+
+| Sprint \# | 3 |
+| :---- | :---- |
+| Sprint # | 3 |
+| :---- | :---- |
+| Sprint Planning Background | |
+| Date | 2025-06-15 |
+| Time | 12:00 PM |
+| Location | Discord |
+| Prepared by | Giancarlo Castañeda |
+| Attendees (to planning meeting) | Fernando Lizano, Carlos Matthew, Masaru Nikaido, Anghel Trillo |
+| Sprint n – 3 Review Summary | Se avanzó en la estructura de base de datos; además, se ajustaron los endpoints a la arquitectura final definida. |
+| Sprint n – 3 Retrospective Summary | Consolidar la conexión entre frontend y backend para garantizar integraciones más rápidas. Aumentar y conseguir terminar con los endpoints propuestos |
+| Sprint 3 Goal | En este Sprint, nuestro objetivo es tener implementados los endpoints principales, asegurar la conexión estable con el frontend y avanzar en la documentación técnica completa del backend. Esto se validará cuando los endpoints estén funcionales y documentados, y exista una integración estable entre backend y frontend. |
+| Sprint 3 Velocity | Para este sprint nuestro equipo puede aceptar hasta 50 story points |
+| Sum of Story Points | 49 story points |
+
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 | Team Member (Last Name, First Name)  | GitHub Username | Aspect Diseño UX/UI y Prototipado (L/C) | Aspect Programación de la app web (L/C)      | Aspect Arquitectura de Información y Sistemas de Organización/Navegación (L/C) |
 | ------------------------------------ | --------------- | --------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -427,19 +444,46 @@ URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Mo
 | Lizano Coll Cardenas, Fernando Jesus | GuardianDeity   | L                                       | L                                            | L                                                                                             |
 | Trillo Hernandez, Anghel Melanie     | AM27TH          | L                                       | L                                            | L                                                                                             |
 
+#### 5.2.3.3. Sprint Backlog 3
 
 | Id | Title | Id | Title | Description | Estimation (Hours)  | Assigned To | Status (To-do / InProcess / ToReview / Done) |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-|  |  |  |  |  |  | Done |
-|  |  |  |  |  |  | Done |
-|  |  |  |  |  |  | Done |
-|  |  |  |  |  |  | Done |
-|  |  |  |  |  |  | Done |
-|  |  |  |  |  |  | Done |
-|  |  |  |  |  |  | Done |
-|  |  |  |  |  |  | Done |
-|  |  |  |  |  |  | Done |
-|  |  |  |  |  |  | Done |
+| TS06 | Endpoint de IAM | T1 | Implementar POST, PUT, DELETE para IAM | Desarrollo de endpoints para crear, actualizar y eliminar usuarios. | 6 | Giancarlo Castañeda | To-do |
+| TS06 | Endpoint de IAM | T2 | Implementar GET (GetById, GetAll) para IAM | Desarrollo de endpoints para obtener usuarios por ID y listado. | 5 | Giancarlo Castañeda | To-do |
+| TS11 | Endpoint de Car | T1 | Implementar POST, PUT, DELETE para Car | Desarrollo de endpoints para registrar, actualizar y eliminar autos. | 6 | Giancarlo Castañeda | To-do |
+| TS11 | Endpoint de Car | T2 | Implementar GET (GetById, GetAllAvailableCars) para Car | Desarrollo de endpoints para obtener autos disponibles. | 5 | Giancarlo Castañeda | To-do |
+| TS07 | Endpoint de Rents | T1 | Implementar POST, PUT, DELETE para Rents | Desarrollo de endpoints para registrar, actualizar y cancelar rentas. | 6 | Giancarlo Castañeda | To-do |
+| TS07 | Endpoint de Rents | T2 | Implementar GET (GetById, GetAll) para Rents | Desarrollo de endpoints para obtener rentas por ID y listado. | 5 | Giancarlo Castañeda | To-do |
+| TS12 | Endpoint de CarStation | T1 | Implementar POST, PUT, DELETE para CarStation | Desarrollo de endpoints para registrar, actualizar y eliminar estaciones. | 6h | Giancarlo Castañeda | To-do |
+| TS12 | Endpoint de CarStation | T2 | Implementar GET (GetById, GetAll) para CarStation | Desarrollo de endpoints para obtener estaciones. | 5 | Giancarlo Castañeda | To-do |
+| TS08 | Endpoint de Payment | T1 | Implementar POST, PUT, DELETE para Payment | Desarrollo de endpoints para gestionar pagos de reservas. | 6 | Masaru Nikaido | To-do |
+| TS08 | Endpoint de Payment | T2 | Implementar GET (GetById, GetAll) para Payment | Desarrollo de endpoints para consultar pagos. | 5 | Masaru Nikaido | To-do |
+| TS09 | Endpoint de PaymentInformation | T1 | Implementar POST, PUT, DELETE para PaymentInformation | Desarrollo de endpoints para registrar, actualizar y eliminar métodos de pago. | 6h | Masaru Nikaido | To-do |
+| TS09 | Endpoint de PaymentInformation | T2 | Implementar GET (GetById, GetAll) para PaymentInformation | Desarrollo de endpoints para obtener métodos de pago. | 5 | Masaru Nikaido | To-do |
+| US33 | Métodos de pago | T1 | Desarrollo de lógica para registrar métodos de pago | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| US34 | Edición de métodos de pago | T1 | Desarrollo de lógica para editar/eliminar métodos de pago | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| US35 | Edición de perfil | T1 | Desarrollo de lógica para editar información de perfil | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| US36 | Cambio de contraseña | T1 | Desarrollo de lógica para cambiar contraseña de usuario | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| TS05 | Endpoint de Providing | T1 | Implementar POST, PUT, DELETE para Providing | Desarrollo de endpoints para gestionar oferta de autos. | 6 | Anghel Trillo | To-do |
+| TS05 | Endpoint de Providing | T2 | Implementar GET (GetById, GetAll) para Providing | Desarrollo de endpoints para obtener ofertas de autos. | 5 | Anghel Trillo | To-do |
+| TS04 | Endpoint de ProvidedCarRecord | T1 | Implementar POST, PUT, DELETE para ProvidedCarRecord | Desarrollo de endpoints para gestionar registros de autos. | 6 | Anghel Trillo | To-do |
+| TS04 | Endpoint de ProvidedCarRecord | T2 | Implementar GET (GetById, GetAll) para ProvidedCarRecord | Desarrollo de endpoints para obtener registros de autos. | 5 | Anghel Trillo | To-do |
+| TS10 | Endpoint de Record | T1 | Implementar POST, PUT, DELETE para Record | Desarrollo de endpoints para registrar logs. | 6 | Fernando Lizando | To-do |
+| TS10 | Endpoint de Record | T2 | Implementar GET (GetById, GetAll) para Record | Desarrollo de endpoints para consultar logs. | 5 | Fernando Lizando | To-do |
+| US23 | Need Finding | T1 | Investigación y levantamiento de necesidades de usuarios | Realización de entrevistas y análisis de resultados. | 6 | Giancarlo Castañeda | To-do |
+| US24 | User Task Matrix | T1 | Mapeo de tareas principales de los usuarios | Desarrollo del documento de matriz de tareas. | 5 | Giancarlo Castañeda | To-do |
+| US25 | User Journey Map | T1 | Elaboración de mapas de recorrido de usuario | Identificación de puntos críticos y oportunidades de mejora. | 6 | Giancarlo Castañeda | To-do |
+| US26 | Empathy Mapping | T1 | Creación de mapas de empatía | Identificación de emociones, pensamientos y frustraciones. | 5 | Giancarlo Castañeda | To-do |
+| US27 | Scenario Mapping | T1 | Elaboración de escenarios As-Is y To-Be | Definición y documentación de escenarios actuales e ideales. | 5 | Giancarlo Castañeda | To-do |
+| US28 | Impact Mapping | T1 | Creación de mapa de impacto | Relación entre objetivos de negocio y funcionalidades. | 6 | Giancarlo Castañeda | To-do |
+| US29 | Product Backlog | T1 | Construcción y priorización del backlog | Documentación de funcionalidades esenciales. | 5 | Giancarlo Castañeda | To-do |
+| US30 | Modelado C4 | T1 | Modelado de contexto en C4 | Elaboración del nivel de contexto. | 5 | Giancarlo Castañeda | To-do |
+| US30 | Modelado C4 | T2 | Modelado de contenedores en C4 | Elaboración del nivel de contenedores. | 5 | Giancarlo Castañeda | To-do |
+| US30 | Modelado C4 | T3 | Modelado de componentes en C4 | Elaboración del nivel de componentes. | 5 | Giancarlo Castañeda | To-do |
+| US31 | Diagrama de Clases | T1 | Identificación de entidades y relaciones | Desarrollo del diagrama de clases. | 5 | Giancarlo Castañeda | To-do |
+| US31 | Diagrama de Clases | T2 | Validación del diagrama de clases | Revisión y ajuste del diagrama. | 5 | Giancarlo Castañeda | To-do |
+| US32 | Diagrama de Base de Datos | T1 | Diseño de modelo relacional | Desarrollo del diagrama ER. | 5 | Giancarlo Castañeda | To-do |
+| US32 | Diagrama de Base de Datos | T2 | Validación del diagrama ER | Revisión y ajuste del diagrama. | 5 | Giancarlo Castañeda | To-do |
 
 
 A continuación se muestran los commits realizados por los integrantes del equipo durante el desarrollo de la SPA Moveo. Se han excluido los merges automáticos y repetitivos para mostrar solo los commits funcionales más relevantes.
