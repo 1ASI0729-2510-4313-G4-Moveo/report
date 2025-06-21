@@ -537,6 +537,31 @@ En esta sección se presentan las evidencias de la ejecución de la aplicación 
 
 #### 5.3.1. Diseño de Entrevistas
 
+#### **Usuarios Potenciales**
+
+- ¿Te queda claro cómo funciona Moveo y qué puedes hacer en esta pantalla?
+- ¿Hay algo que te haya confundido o que no entiendas?
+- ¿Te parece fácil moverte por la app y volver atrás si es necesario?
+- ¿Los textos y precios te resultan claros?
+- ¿Te pareció sencillo y rápido el proceso para reservar un auto?
+- ¿Qué parte te pareció más lenta o con pasos de más?
+- ¿El diseño general (colores, orden) te resulta agradable o cambiarías algo?
+- ¿Si tuvieras un problema, sabes cómo pedir ayuda o contactar soporte?
+- ¿Qué es lo que más te gustó?
+- ¿Qué mejorarías?
+
+#### **Proveedores**
+- ¿Te queda claro cómo funciona Moveo para ofrecer tu auto?
+- ¿Hay algo que te haya confundido o que no entiendas?
+- ¿Te parece fácil moverte por la app y volver atrás si es necesario?
+- ¿Los textos, comisiones y reglas te resultan claros?
+- ¿Te pareció sencillo y rápido el proceso para publicar tu auto?
+- ¿Qué parte te pareció más lenta o con pasos de más?
+- ¿El diseño general (colores, orden) te resulta agradable o cambiarías algo?
+- ¿Si tuvieras un problema, sabes cómo pedir ayuda o contactar soporte?
+- ¿Qué es lo que más te gustó?
+- ¿Qué mejorarías?
+  
 ### 5.3.2. Registro de Entrevistas
 
 | Segmento Objetivo | Estudiantes |
