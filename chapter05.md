@@ -370,35 +370,15 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 #### 5.2.2.4. Development Evidence for Sprint Review
 A continuación se muestran los commits realizados por los integrantes del equipo, se obviaron los merges y commits incorrectos por razones de mejor visualización acerca de los commits correctamente desarrollados e implementados:
 
-| Repository  | Branch  | Commit Id  | Commit Message  | Commit Message Body  | Commited on (Date) |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
+<img src="./assets/chapter05/insights3.webp" />
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+<img src="./assets/chapter05/evidence1.webp" />
+
+<img src="./assets/chapter05/evidence2.webp" />
+
+<img src="./assets/chapter05/evidence3.webp" />
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -407,14 +387,19 @@ Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la
 URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Moveo/backend
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para esta entrega no pudimos realizar el deploy, intentaremos realizarlo para la siguiente entrega
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-| Participante | Actividades de implementación |
-| :---- | :---- |
-|  | |
-|  | |
-|  | |
+<img src="./assets/chapter05/insights1.webp" />
+
+<img src="./assets/chapter05/insights2.webp" />
+
+
+| Participante                                                                                                                          | Actividades de implementación |
+|:--------------------------------------------------------------------------------------------------------------------------------------| :---- |
+| Lizano Coll Cardenas, Fernando. Castañeda Guimas, Giancarlo Santiago, Trillo Hernandez, Anghel Melanie, Nikaido Vargas, Javier Masaru | Organization fixes |
+| Carlos Matthew                                                                                                                        | Creación de la app web |
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1.Sprint Planning 3.
