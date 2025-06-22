@@ -543,23 +543,28 @@ Insights de colaboración en github del backend
   
 ### 5.3.2. Registro de Entrevistas
 
-| Segmento Objetivo | Estudiantes |
-| ----- | ----- |
-| **Número de registro** | **Datos del entrevistado** |
-| 01 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  **Distrito:**  <br>**Inicio \- Duración:** \- <br> ![interview-image]() |
-|  | **Resumen:**   |
-| 02 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]() |
-|  | **Resumen:** |
-| 03 | **Nombre:**   <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-  <br> ![interview-image]() |
-|  | **Resumen:** |
-| **Segmento Objetivo** | **Turistas** |
-| **04** | **Nombre:**  <br>**Edad:**  <br>**Profesión:** <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]()|
-|  | **Resumen:** |
-| **05** | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-   <br> ![interview-image]()|
-|  | **Resumen:**  |
-|**06**| **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:** **Inicio \- Duración:**  \-  <br> ![interview-image]() |
-|  | **Resumen:** |
-| Link de la entrevista | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=x6cKdO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=x6cKdO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+
+| Nº  | Datos del Entrevistado                                                                                                                                      | Resumen                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01  | **Nombre:** Carlos Coca  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante* <br> **Distrito:** *San Miguel*  <br> **Inicio:** 00:00  <br> 📷 ![image]() | - **Registro e inicio de sesión:** Interfaz limpia, formularios claros, colores suaves.<br>- **Proceso de renta:** Intuitivo, opción de seleccionar horas y ver precio total. Sugiere más variedad de vehículos.<br>- **Sección Records:** Confusión al buscar más info del vehículo. Sugiere hacer clic en imagen o botón "See More Info".<br>- **Diseño y usabilidad:** Claro, simple y funcional.<br>- **Pago:** Le gustó PayPal, sugiere Yape.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Proceso claro y personalizado. |
+| 02  | **Nombre:** Paolo Chinen  <br> **Edad:** *20*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Magdalena*  <br> **Inicio:** 11:56  <br> 📷 ![image]() | - **Registro e interfaz:** Clara e intuitiva.<br>- **Proceso de renta:** Rápido y fácil. Precios por hora razonables.<br>- **Navegación:** Fluida, fácil volver a secciones previas.<br>- **Diseño:** Agradable, pero recomienda tipografía más dinámica.<br>- **Sección Payment:** Valoró edición de datos y uso de PayPal.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Claridad en precios por hora.                             |
+| 03  | **Nombre:** Matias Torres  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Huaral*  <br> **Inicio:** 21:50  <br> 📷 ![image]()  | - **Registro y navegación:** Fluida, interfaz clara y bien estructurada.<br>- **Proceso de renta:** Eficiente, buen sistema de selección por horas.<br>- **Interfaz:** Diseño minimalista, organizado por secciones.<br>- **Recomendaciones:** Agregar sección de ayuda o contacto visible.<br>- **Flujo general:** Lógico, sin pasos innecesarios.<br>- **Valorado:** Rapidez del flujo y visibilidad del vehículo.                         |
+
+---
+
+## 🌍 Segmento Objetivo: Turistas
+
+| Nº  | Datos del Entrevistado                                                                                  | Resumen |
+|-----|-----------------------------------------------------------------------------------------------------------|---------|
+| 04  | **Nombre:** — <br> **Edad:** — <br> **Profesión:** — <br> **Distrito:** — <br> **Inicio:** — <br> 📷 ![image]() | —       |
+| 05  | **Nombre:** — <br> **Edad:** — <br> **Profesión:** — <br> **Distrito:** — <br> **Inicio:** — <br> 📷 ![image]() | —       |
+| 06  | **Nombre:** — <br> **Edad:** — <br> **Profesión:** — <br> **Distrito:** — <br> **Inicio:** — <br> 📷 ![image]() | —       |
+
+---
+
+🔗 **Link de la entrevista completa**:  
+[Ver en OneDrive](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=PFqEtF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 ### 5.3.3. Evaluaciones según heuristicas
 
