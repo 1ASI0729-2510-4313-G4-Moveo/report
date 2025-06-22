@@ -736,7 +736,9 @@ https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/97804
 
 - [link a prototype](https://www.figma.com/proto/nrxEj7WzMbOci6Qe0h9zGO/Untitled?node-id=1-49&t=OV9Jld3INRoD278N-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A49)
 
-- [link al About The Team](https://youtu.be/KWXhfRw9ePE?feature=shared)
+- [link al About The Product](https://youtu.be/KWXhfRw9ePE?feature=shared)
+
+- [link al About The Team](https://youtu.be/0Ey6b6XOmtI)
 
 <div style="page-break-after: always; break-after: page;"></div>
 
