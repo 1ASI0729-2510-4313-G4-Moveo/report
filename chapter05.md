@@ -396,10 +396,10 @@ Para esta entrega no pudimos realizar el deploy, intentaremos realizarlo para la
 <img src="./assets/chapter05/insights2.webp" />
 
 
-| Participante | Actividades de implementación |
-| :---- | :---- |
-| Castañeda Guimas, Giancarlo Santiago, Trillo Hernandez, Anghel Melanie, Nikaido Vargas, Javier Masaru | Organization fixes |
-| Carlos Matthew | Creación de la app web |
+| Participante                                                                                                                          | Actividades de implementación |
+|:--------------------------------------------------------------------------------------------------------------------------------------| :---- |
+| Lizano Coll Cardenas, Fernando. Castañeda Guimas, Giancarlo Santiago, Trillo Hernandez, Anghel Melanie, Nikaido Vargas, Javier Masaru | Organization fixes |
+| Carlos Matthew                                                                                                                        | Creación de la app web |
 
 ## Conclusiones
 
