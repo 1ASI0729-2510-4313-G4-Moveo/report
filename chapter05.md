@@ -506,22 +506,26 @@ En esta sección se presentan las evidencias de la ejecución de la aplicación 
 
 Para la documentación del backend se ha utilizado swagger
 
-<img src="./assets/chapter05/evidence/backend/1.png" />
-<img src="./assets/chapter05/evidence/backend/2.png" />
-<img src="./assets/chapter05/evidence/backend/3.png" />
-<img src="./assets/chapter05/evidence/backend/4.png" />
+<img src="assets/chapter05/evidence/backend/1.png" />
+<img src="assets/chapter05/evidence/backend/2.png" />
+<img src="assets/chapter05/evidence/backend/3.png" />
+<img src="assets/chapter05/evidence/backend/4.png" />
 
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+<img src="assets/chapter05/DeployBackend.PNG" />
+<img src="assets/chapter05/DeployBackend2.PNG" />
+<img src="assets/chapter05/DeployBackend3.PNG" />
 
 
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 Insights de colaboración en github del backend
 
-<img src="./assets/chapter05/insights/insights31.PNG" />
-<img src="./assets/chapter05/insights/insights32.PNG" />
-<img src="./assets/chapter05/insights/insights33.PNG" />
+<img src="assets/chapter05/insights/insights31.PNG" />
+<img src="assets/chapter05/insights/insights32.PNG" />
+<img src="assets/chapter05/insights/insights33.PNG" />
 
 ### 5.3. Validation Interviews
 
@@ -570,7 +574,7 @@ Insights de colaboración en github del backend
 |  | **Resumen:**  |
 |**06**| **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:** **Inicio \- Duración:**  \-  <br> ![interview-image]() |
 |  | **Resumen:** |
-| Link de la entrevista |  | 
+| Link de la entrevista | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=x6cKdO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=x6cKdO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
 
 ### 5.3.3. Evaluaciones según heuristicas
 
@@ -581,7 +585,7 @@ Insights de colaboración en github del backend
 **CURSO                	: Open Source**  
 **SECCIÓN              	:** 4313
 
-**PROFESORES      	: Alberto Wilmer Sanchez Seña**
+**PROFESORES      	: Todos **
 
 **AUDITOR            	:** GPT4
 **CLIENTE(S)          	:** Nombre de las personas que participan en la sesión
