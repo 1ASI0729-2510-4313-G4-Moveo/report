@@ -370,33 +370,72 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 #### 5.2.2.4. Development Evidence for Sprint Review
 A continuación se muestran los commits realizados por los integrantes del equipo, se obviaron los merges y commits incorrectos por razones de mejor visualización acerca de los commits correctamente desarrollados e implementados:
 
-| Repository  | Branch  | Commit Id  | Commit Message  | Commit Message Body  | Commited on (Date) |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0729-2510-4313-G4-Moveo/frontend</td>
+        <td colspan="2">main</td>
+        <td colspan="2">bb58aa6</td>
+        <td colspan="2">feat: add routes</td>
+        <td colspan="2">-</td>
+        <td colspan="2">21/06/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0729-2510-4313-G4-Moveo/frontend</td>
+        <td colspan="2">main</td>
+        <td colspan="2">5a15443</td>
+        <td colspan="2">feat: add provider profile</td>
+        <td colspan="2">-</td>
+        <td colspan="2">21/06/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0729-2510-4313-G4-Moveo/frontend</td>
+        <td colspan="2">main</td>
+        <td colspan="2">c427ee5</td>
+        <td colspan="2">Merge pull request #5 from 1ASI0729-2510-4313-G4-Moveo/heuristic</td>
+        <td colspan="2">-</td>
+        <td colspan="2">21/06/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0729-2510-4313-G4-Moveo/frontend</td>
+        <td colspan="2">main</td>
+        <td colspan="2">4b5ac10</td>
+        <td colspan="2">feat: frontend corrections project add</td>
+        <td colspan="2">-</td>
+        <td colspan="2">21/06/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0729-2510-4313-G4-Moveo/frontend</td>
+        <td colspan="2">main</td>
+        <td colspan="2">f4d8654</td>
+        <td colspan="2">feat: front end correction features</td>
+        <td colspan="2">-</td>
+        <td colspan="2">21/06/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0729-2510-4313-G4-Moveo/frontend</td>
+        <td colspan="2">main</td>
+        <td colspan="2">ed533b8</td>
+        <td colspan="2">feat(rent): add rent main</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/05/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0729-2510-4313-G4-Moveo/frontend</td>
+        <td colspan="2">main</td>
+        <td colspan="2">b7c6627</td>
+        <td colspan="2">chore: delete some strings</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/05/2025</td>
+    </tr>
+</table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -757,7 +796,6 @@ https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/97804
 
 - [link a prototype](https://www.figma.com/proto/nrxEj7WzMbOci6Qe0h9zGO/Untitled?node-id=1-49&t=OV9Jld3INRoD278N-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A49)
 
-<div style="page-break-after: always; break-after: page;"></div>
 
 ## Anexo B: Videos de exposiciones: 
 - [Link a video de exposición de TB1 en Microsoft Stream]()
