@@ -142,45 +142,46 @@
 | 7  | US15 | Visualización de datos de la empresa de la aplicación | **Como** visitante de ambos segmentos, **quiero** poder visualizar el nombre y eslogan de la aplicación **para** saber de qué se trata a primera vista | 1 |
 | 8  | US16 | Visualizar el nombre del equipo |**Como** visitante de ambos segmentos, **quiero** poder visualizar el nombre del equipo que diseñó la aplicación **para** saber quién la creó | 1 |
 | 9  | US17 | Sección de contacto |  **Como** visitante de ambos segmentos **quiero** poder contactar a la startup creadora de la app **para** notificar si hay algun error o si simplemente quiero hablar con ellos | 2 |
-| 19 | US01 | Registro de nuevos usuarios |  **Como** visitante de ambos segmentos, **quiero** registrarme **para** acceder al servicio de la aplicación | 2 |
-| 10 | US23 | Need Finding |  **Como** equipo de desarrollo de Moveo, queremos identificar las necesidades y frustraciones de los usuarios objetivo (trabajadores y turistas) **para** diseñar una solución que responda efectivamente a sus problemas de movilidad urbana | 2 |
-| 11 | US24 | User Task Matrix | **Como** equipo de diseño de Moveo, queremos mapear las tareas principales que realizan nuestros usuarios objetivo (trabajadores y turistas) **para** priorizar las funcionalidades que la aplicación debe ofrecerles | 2 |
-| 12 | US25 | User Journey Map |  **Como** equipo de UX de Moveo, queremos visualizar el recorrido completo de los usuarios desde el descubrimiento hasta el uso del servicio **para** detectar oportunidades de mejora en su experiencia. | 3 |
-| 13 | US26 | Empathy Mapping | **Como** equipo de Moveo, queremos identificar lo que piensan, sienten, dicen y hacen nuestros usuarios **para** diseñar una solución que conecte empáticamente con sus motivaciones y frustraciones | 2 |
-| 14 | US27 | Scenario Mapping | **Como** equipo de análisis de Moveo, queremos mapear la experiencia actual (As-Is) y la experiencia ideal (To-Be) de los usuarios **para** identificar mejoras claras en su recorrido | 2 |
-| 15 | US28 | Impact Mapping | **Como** equipo estratégico de Moveo, queremos construir un mapa de impacto **para** alinear objetivos de negocio con acciones técnicas y funcionalidades que generen valor real para los usuarios | 3 |
-| 16 | US29 | Product Backlog |  **Como** equipo de producto de Moveo, queremos construir y priorizar un backlog que contenga las funcionalidades esenciales **para** trabajadores y turistas, a fin de entregar valor desde las primeras versiones del producto | 3 |
-| 17 | US30 | Modelado C4 | **Como** equipo técnico de Moveo, queremos representar la arquitectura de la aplicación utilizando el modelo C4 **para** entender mejor la relación entre contexto, contenedores y componentes del sistema | 3 |
-| 18 | US31 | Diagrama de Clases | **Como** equipo de desarrollo de Moveo, queremos crear un diagrama de clases que represente las entidades principales del dominio y sus relaciones **para** guiar la implementación orientada a objetos del sistema | 2 |
+| 10 | US01 | Registro de nuevos usuarios |  **Como** visitante de ambos segmentos, **quiero** registrarme **para** acceder al servicio de la aplicación | 2 |
+| 11 | US23 | Need Finding |  **Como** equipo de desarrollo de Moveo, queremos identificar las necesidades y frustraciones de los usuarios objetivo (trabajadores y turistas) **para** diseñar una solución que responda efectivamente a sus problemas de movilidad urbana | 2 |
+| 12 | US24 | User Task Matrix | **Como** equipo de diseño de Moveo, queremos mapear las tareas principales que realizan nuestros usuarios objetivo (trabajadores y turistas) **para** priorizar las funcionalidades que la aplicación debe ofrecerles | 2 |
+| 13 | US25 | User Journey Map |  **Como** equipo de UX de Moveo, queremos visualizar el recorrido completo de los usuarios desde el descubrimiento hasta el uso del servicio **para** detectar oportunidades de mejora en su experiencia. | 3 |
+| 14 | US26 | Empathy Mapping | **Como** equipo de Moveo, queremos identificar lo que piensan, sienten, dicen y hacen nuestros usuarios **para** diseñar una solución que conecte empáticamente con sus motivaciones y frustraciones | 2 |
+| 15 | US27 | Scenario Mapping | **Como** equipo de análisis de Moveo, queremos mapear la experiencia actual (As-Is) y la experiencia ideal (To-Be) de los usuarios **para** identificar mejoras claras en su recorrido | 2 |
+| 16 | US28 | Impact Mapping | **Como** equipo estratégico de Moveo, queremos construir un mapa de impacto **para** alinear objetivos de negocio con acciones técnicas y funcionalidades que generen valor real para los usuarios | 3 |
+| 17 | US29 | Product Backlog |  **Como** equipo de producto de Moveo, queremos construir y priorizar un backlog que contenga las funcionalidades esenciales **para** trabajadores y turistas, a fin de entregar valor desde las primeras versiones del producto | 3 |
+| 18 | US30 | Modelado C4 | **Como** equipo técnico de Moveo, queremos representar la arquitectura de la aplicación utilizando el modelo C4 **para** entender mejor la relación entre contexto, contenedores y componentes del sistema | 3 |
+| 19 | US31 | Diagrama de Clases | **Como** equipo de desarrollo de Moveo, queremos crear un diagrama de clases que represente las entidades principales del dominio y sus relaciones **para** guiar la implementación orientada a objetos del sistema | 2 |
 | 20 | US32 | Diagrama de Base de Datos | **Como** equipo de backend de Moveo, queremos diseñar un diagrama de base de datos que refleje cómo se almacenan y relacionan los datos de usuarios, autos, reservas y pagos **para** facilitar la implementación y escalabilidad del sistema | 3 |
-| 39 | US05 | Reserva de auto | **Como** usuario, **quiero** reservar un auto **para** asegurar su disponibilidad. | 3 |
-| 40 | US12 | Verificación de mantenimiento del vehículo |  **Como** usuario, **quiero** recibir notificaciones sobre cuándo es necesario realizar mantenimiento a mis vehículos en renta **para** asegurarme de que estén siempre en buen estado y ofrecer un servicio seguro y confiable. | 2 |
-| 41 | US19 | Editar información de un vehículo |  **Como** usuario, **quiero** actualizar datos de un vehículo (tarifa, descripción) **para** mantener la información al día | 2 |
-| 42 | US20 | Desactivar vehículo de la plataforma |  **Como** usuario, **quiero** desactivar un vehículo **para** que deje de aparecer disponible en Moveo | 2 |
-| 43 | US21 | Subir fotos al listado de vehículo |**Como** usuario, **quiero** agregar o eliminar fotos de mis vehículos **para** mostrarlos mejor a los arrendatarios | 2 |
-| 44 | US22 | Visualizar reservas de mis vehículos |  **Como** usuario, **quiero** consultar un historial y estado de reservas realizadas a mis vehículos **para** llevar un control eficiente de su uso y disponibilidad | 2 |
-| 45 | US33 | Métodos de pago | *Como** usuario **quiero**  quiero poder registrar uno o más métodos de pago en mi cuenta **para** realizar reservas de forma rápida y segura | 3 |
-| 46 | US34 | Edición de métodos de pago | **Como**  usuario **quiero**   poder editar o eliminar mis métodos de pago guardados **para** mantener la información financiera actualizada | 2 |
-| 21 | US04 | Visualización de autos disponibles | **Como** usuario, **quiero** visualizar los autos disponibles en un mapa **para** tener un mejor acercamiento a los centros cerca mio | 5 |
-| 22 | US10 | Visualización de estacionamientos en el mapa | *Como** usuario, **quiero** ver en el mapa los estacionamientos disponibles cercanos **para** poder elegir uno al recibir el auto | 5 |
-| 23 | US11 | Desbloqueo del auto mediante la app | **Como** usuario, **quiero** desbloquear el auto desde la aplicación **para** no necesitar contacto físico o intermediarios | 5 |
-| 38 | US03 | Registro de autos por proveedor | **Como** usuario, **quiero** registrar mis autos **para** ponerlos en alquiler| 3 |
-| 24 | US37 | Cambio de idioma | **Como** usuario **quiero**  poder cambiar el idioma de la aplicación web  **para** usarla en el idioma que prefiera | 2 |
-| 25 | TS01 | Diseño adaptable (responsive) | C**Como** developer  **quiero** asegurar que la aplicación web se adapte a cualquier tamaño de pantalla, **para** garantizar una experiencia accesible desde móviles y computadoras | 2 |
-| 26 | TS02 | Integración del mapa con geolocalización | **Como** desarrollador, **quiero** integrar una API de mapas con soporte de geolocalización, **para** mostrar la ubicación de autos y estacionamientos en tiempo real | 5 |
-| 27 | TS03 | Implementación de sistema de calificación de autos | **Como** desarrollador, **quiero** permitir que los usuarios califiquen los autos después de un viaje, **para** mantener control sobre la calidad del servicio | 3 |
-| 28 | TS04 | Endpoint de ProvidedCarRecord | **Como** developer, quiero implementar el endpoint `/provided-car-record` **para** gestionar registros de autos ya registrados por los proveedores | 2 |
-| 29 | TS05 | Endpoint de Providing | **Como** developer, quiero implementar el endpoint `/providing` **para** permitir a proveedores gestionar el proceso de oferta de sus autos en la plataforma. | 2 |
-| 30 | TS07 | Endpoint de Rents |  **Como** developer, quiero implementar el endpoint `/rents` **para** permitir la gestión de alquileres de autos en la plataforma. | 3 |
-| 31 | TS08 | Endpoint de Payment | **Como** developer, quiero crear el endpoint `/payment` **para** procesar pagos de reservas | 3 |
-| 32 | TS09 | Endpoint de PaymentInformation | **Como** developer, quiero crear el endpoint `/payment-information` **para** gestionar métodos de pago asociados a la cuenta del usuario | 3 |
-| 33 | TS10 | Endpoint de Record |  **Como** developer, quiero implementar el endpoint `/record` **para** registrar logs de uso de la aplicación o del sistema | 2 |
-| 34 | TS11 | Endpoint de Car | **Como** developer, quiero implementar el endpoint `/car` **para** gestionar CRUD de autos en la plataforma. | 3 |
-| 35 | TS12 | Endpoint de CarStation |**Como** developer, quiero crear el endpoint `/carstation` **para** gestionar CRUD de estaciones o ubicaciones de retiro/entrega de autos. | 2 |
-| 36 | TS06 | Endpoint de IAM | **Como** developer, quiero crear el endpoint `/iam` **para** gestionar identidad y autenticación de usuarios en Moveo. | 3 |
-| 37 | US02 | Inicio de sesión seguro |  **Como** usuario, **quiero** iniciar sesión de manera segura **para** usar la plataforma | 2 |
-| 47 | US35 | Edición de perfil | **Como** usuario **quiero**  quiero poder editar mi información personal **para** para mantener mi cuenta actualizada | 2 |
-| 48 | US36 | Cambio de contraseña | **Como** usuario **quiero**  poder cambiar mi contraseña desde el perfil **para** mantener la seguridad de mi cuenta | 2 |
+| 21 | US05 | Reserva de auto | **Como** usuario, **quiero** reservar un auto **para** asegurar su disponibilidad. | 3 |
+| 22 | US12 | Verificación de mantenimiento del vehículo |  **Como** usuario, **quiero** recibir notificaciones sobre cuándo es necesario realizar mantenimiento a mis vehículos en renta **para** asegurarme de que estén siempre en buen estado y ofrecer un servicio seguro y confiable. | 2 |
+| 23 | US19 | Editar información de un vehículo |  **Como** usuario, **quiero** actualizar datos de un vehículo (tarifa, descripción) **para** mantener la información al día | 2 |
+| 24 | US20 | Desactivar vehículo de la plataforma |  **Como** usuario, **quiero** desactivar un vehículo **para** que deje de aparecer disponible en Moveo | 2 |
+| 25 | US21 | Subir fotos al listado de vehículo |**Como** usuario, **quiero** agregar o eliminar fotos de mis vehículos **para** mostrarlos mejor a los arrendatarios | 2 |
+| 26 | US22 | Visualizar reservas de mis vehículos |  **Como** usuario, **quiero** consultar un historial y estado de reservas realizadas a mis vehículos **para** llevar un control eficiente de su uso y disponibilidad | 2 |
+| 27 | US33 | Métodos de pago | *Como** usuario **quiero**  quiero poder registrar uno o más métodos de pago en mi cuenta **para** realizar reservas de forma rápida y segura | 3 |
+| 28 | US34 | Edición de métodos de pago | **Como**  usuario **quiero**   poder editar o eliminar mis métodos de pago guardados **para** mantener la información financiera actualizada | 2 |
+| 29 | US04 | Visualización de autos disponibles | **Como** usuario, **quiero** visualizar los autos disponibles en un mapa **para** tener un mejor acercamiento a los centros cerca mio | 5 |
+| 30 | US10 | Visualización de estacionamientos en el mapa | *Como** usuario, **quiero** ver en el mapa los estacionamientos disponibles cercanos **para** poder elegir uno al recibir el auto | 5 |
+| 31 | US11 | Desbloqueo del auto mediante la app | **Como** usuario, **quiero** desbloquear el auto desde la aplicación **para** no necesitar contacto físico o intermediarios | 5 |
+| 32 | US03 | Registro de autos por proveedor | **Como** usuario, **quiero** registrar mis autos **para** ponerlos en alquiler| 3 |
+| 33 | US38 | Visualizar historial de uso  | **Como** usuario, **quiero** consultar un historial de carros que eh usado en un pasado **para** llevar un control eficiente de uso y gasto en la aplicación. | 5 |
+| 34 | US37 | Cambio de idioma | **Como** usuario **quiero**  poder cambiar el idioma de la aplicación web  **para** usarla en el idioma que prefiera | 2 |
+| 35 | TS01 | Diseño adaptable (responsive) | C**Como** developer  **quiero** asegurar que la aplicación web se adapte a cualquier tamaño de pantalla, **para** garantizar una experiencia accesible desde móviles y computadoras | 2 |
+| 36 | TS02 | Integración del mapa con geolocalización | **Como** desarrollador, **quiero** integrar una API de mapas con soporte de geolocalización, **para** mostrar la ubicación de autos y estacionamientos en tiempo real | 5 |
+| 37 | TS03 | Implementación de sistema de calificación de autos | **Como** desarrollador, **quiero** permitir que los usuarios califiquen los autos después de un viaje, **para** mantener control sobre la calidad del servicio | 3 |
+| 38 | TS04 | Endpoint de ProvidedCarRecord | **Como** developer, quiero implementar el endpoint `/provided-car-record` **para** gestionar registros de autos ya registrados por los proveedores | 2 |
+| 39 | TS05 | Endpoint de Providing | **Como** developer, quiero implementar el endpoint `/providing` **para** permitir a proveedores gestionar el proceso de oferta de sus autos en la plataforma. | 2 |
+| 40 | TS07 | Endpoint de Rents |  **Como** developer, quiero implementar el endpoint `/rents` **para** permitir la gestión de alquileres de autos en la plataforma. | 3 |
+| 41 | TS08 | Endpoint de Payment | **Como** developer, quiero crear el endpoint `/payment` **para** procesar pagos de reservas | 3 |
+| 42 | TS09 | Endpoint de PaymentInformation | **Como** developer, quiero crear el endpoint `/payment-information` **para** gestionar métodos de pago asociados a la cuenta del usuario | 3 |
+| 43 | TS10 | Endpoint de Record |  **Como** developer, quiero implementar el endpoint `/record` **para** registrar logs de uso de la aplicación o del sistema | 2 |
+| 44 | TS11 | Endpoint de Car | **Como** developer, quiero implementar el endpoint `/car` **para** gestionar CRUD de autos en la plataforma. | 3 |
+| 45 | TS12 | Endpoint de CarStation |**Como** developer, quiero crear el endpoint `/carstation` **para** gestionar CRUD de estaciones o ubicaciones de retiro/entrega de autos. | 2 |
+| 46 | TS06 | Endpoint de IAM | **Como** developer, quiero crear el endpoint `/iam` **para** gestionar identidad y autenticación de usuarios en Moveo. | 3 |
+| 47 | US02 | Inicio de sesión seguro |  **Como** usuario, **quiero** iniciar sesión de manera segura **para** usar la plataforma | 2 |
+| 48 | US35 | Edición de perfil | **Como** usuario **quiero**  quiero poder editar mi información personal **para** para mantener mi cuenta actualizada | 2 |
+| 49 | US36 | Cambio de contraseña | **Como** usuario **quiero**  poder cambiar mi contraseña desde el perfil **para** mantener la seguridad de mi cuenta | 2 |
 
 
 <p align="center">
