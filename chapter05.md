@@ -488,30 +488,13 @@ URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Mo
 
 A continuación se muestran los commits realizados por los integrantes del equipo durante el desarrollo de la SPA Moveo. Se han excluido los merges automáticos y repetitivos para mostrar solo los commits funcionales más relevantes.
 
-| Repository                                  | Branch                | Commit Id | Commit Message                                     | Commit Message Body | Commited on      |
-|---------------------------------------------|-----------------------|-----------|----------------------------------------------------|---------------------|------------------|
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | |    |  | * No aplica         |    |
+| Repository                                  | Branch                | Commit Id | Commit Message                                     | Commited on      |
+|---------------------------------------------|-----------------------|----------------------------------------------------|---------------------|------------------|
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | ac7ba89 | fix: reorganize structure | 20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 4313bc6 | feat: Add feature payments |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 8f57f4a | fix: reorganize structure  |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 9c3ce9c | Add feature/records |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | d0d0789 | feat: add rent table |  17-06-2025 |
 
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
@@ -521,17 +504,24 @@ En esta sección se presentan las evidencias de la ejecución de la aplicación 
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
+Para la documentación del backend se ha utilizado swagger
+
+<img src="./assets/chapter05/evidence/backend/1.png" />
+<img src="./assets/chapter05/evidence/backend/2.png" />
+<img src="./assets/chapter05/evidence/backend/3.png" />
+<img src="./assets/chapter05/evidence/backend/4.png" />
+
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
 
-| Participante | Actividades de implementación |
-| :---- | :---- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+Insights de colaboración en github del backend
+
+<img src="./assets/chapter05/insights/insights31.PNG" />
+<img src="./assets/chapter05/insights/insights32.PNG" />
+<img src="./assets/chapter05/insights/insights33.PNG" />
 
 ### 5.3. Validation Interviews
 
