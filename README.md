@@ -115,10 +115,10 @@
       <td>Se realizo la entrega parcial de manera eficiente, cumpliendo con los objetivos establecidos y intentando resolver las observaciones del profesor. Durante el desarrollo se identificaron diversas medidas de mejora como ahorro de tiempo y optimización de resultados</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>3.0</td>
+      <td>22/06/25</td>
+      <td>Castañeda, Giancarlo. Lizano, Fernando</td>
+      <td>Para esta entrega, se separó con base en lo elaborado en la parte del frontend, la parte de los servicios en el backend, logrando de manera semi satisfactoria la conclusión de este de manera parcial. Quedando para una futura mejora en la próxima entrega</td>
     </tr>
     <tr>
       <td></td>
@@ -183,7 +183,7 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
   <img src="assets/icons/insights-tb1.png"  style="width:800px; height:auto;" alt="">
 </p>
 
-### Entregable TP1
+### Entregable TB2
 
 A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
 
@@ -321,6 +321,10 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Lizano, Fernando - TB1:</strong> Durante el desarrollo del proyecto, me enfoqué en comunicar de manera clara y efectiva el orden y la estructura del informe en las reuniones grupales. Cada vez que surgieron dudas o propuestas de mejora, expuse de forma precisa los cambios necesarios, adaptando mi comunicación según el perfil de los integrantes del equipo, buscando siempre asegurar que todos comprendieran el objetivo común. Además, fomenté un espacio de retroalimentación constante para que las mejoras en los capítulos fueran comprendidas y aplicadas correctamente.
         <br><br>
+        <strong>Lizano, Fernando - TP1:</strong> Durante el desarrollo del frontend, me aseguré de comunicar con claridad la estructura y lógica visual del proyecto. Expliqué los cambios necesarios según el perfil del equipo y promoví una retroalimentación constante para aplicar mejoras de forma efectiva.
+        <br><br>
+        <strong>Lizano, Fernando - TB2:</strong> Durante el desarrollo del backend, me aseguré de comunicar con claridad la estructura del código y la lógica del sistema. Expliqué los cambios necesarios según el perfil del equipo y fomenté una retroalimentación constante para implementar mejoras de forma efectiva.
+        <br><br>
         <strong>Nikaido, Javier - TB1:</strong> Durante el desarrollo de proyectos como el de VeciHub, he demostrado mi capacidad para redactar informes técnicos claros y concisos, adaptados a diferentes audiencias, usando un lenguaje adecuado según el nivel de especialización. Esto lo logré a través de la documentación de cada fase del proceso Lean UX, la matriz de tareas del usuario y el backlog de sprint.
         <br><br> 
         <strong>Nikaido, Javier - TP1: </strong> Creacion de views: car-record, corolla-page, payment-edit, payment-view y record archived.    
@@ -344,6 +348,10 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Gonzales, Carlos - TB1:</strong> Como grupo tenemos un buen ambiente y siempre sabemos trabajar bajo a presion, incluso si tenemos dificultades con un compañero sabemos como solucionarlo de inmediato, solo nos faltaria mejorar en el aspecto de tener una mejor estructura del tiempo, pero del resto tenemos buena comunicacion, buen ambiente y sabemos trabajar individualmente cada uno.
         <br><br>
         <strong>Lizano, Fernando - TB1:</strong> En la elaboración del informe, trabajé en mantener un estilo de redacción claro, ordenado y adecuado para distintos tipos de lectores, asegurando que cada capítulo tuviera coherencia y consistencia. También participé en la elaboración y el apoyo en la creación de la landing page, donde la comunicación escrita debía ser precisa y atractiva para los usuarios. Mi enfoque estuvo en transmitir de manera sencilla pero profesional la información, respetando la estructura formal requerida por el curso y adaptándome a las necesidades de comunicación digital para la web.
+        <br><br>
+        <strong>Lizano, Fernando - TB1:</strong> En la elaboración del frontend, trabajé en mantener una estructura visual clara, ordenada y coherente, pensando en distintos tipos de usuarios. También apoyé en la creación de la landing page, donde la comunicación visual debía ser precisa y atractiva. Mi enfoque estuvo en transmitir la información de forma sencilla pero profesional, respetando tanto los lineamientos del curso como las buenas prácticas del diseño web.
+        <br><br>
+        <strong>Lizano, Fernando - TB2:</strong> En el backend, mantuve una estructura clara y funcional, asegurando una integración efectiva con el frontend. Me enfoqué en una lógica limpia y profesional, cumpliendo los estándares del curso y las necesidades del proyecto.
         <br><br>
         <strong>Nikaido, Javier - TB1:</strong> En presentaciones de avance y reuniones con miembros del equipo , he demostrado habilidad para exponer resultados y decisiones, facilitando la comprensión de conceptos técnicos y estratégicos. He utilizado un enfoque directo y estructurado en cada fase del proceso, desde la investigación de usuarios hasta la especificación de requerimientos, asegurando que todos los involucrados pudieran entender y aportar a los objetivos del proyecto.         <br><br> <strong>Nikaido, Javier - TP1: </strong> Creacion de views: car-record, corolla-page, payment-edit, payment-view y record archived.    <br><br>
         <strong>Trillo, Anghel - TB1:</strong> Durante el proyecto Moveo, logré comunicarme por escrito de manera efectiva con diferentes audiencias, ajustando mi estilo y nivel de detalle según el público al que me dirigía. Fui capaz de redactar documentos técnicos, informes y presentaciones claras y concisas, explicando de manera efectiva conceptos complejos del desarrollo de software como User Persona, User Journey Map, Empathy Map, Product Backlog, Class Diagram, Class Dictionary, Database Diagram y Software Configuration Management. Mi capacidad para transmitir información por escrito facilitó la comprensión y colaboración dentro del equipo y con las partes interesadas.
