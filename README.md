@@ -332,6 +332,9 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Trillo, Anghel - TB1:</strong> Durante el proyecto Moveo, logré comunicarme oralmente de manera efectiva con diferentes audiencias, adaptando mi mensaje según su nivel de conocimiento. Puedo explicar conceptos técnicos de desarrollo de software como User Persona, User Journey Map, Empathy Map, Product Backlog, Class Diagram, Class Dictionary, Database Diagram y Software Configuration Management. Además, supe cómo presentar estos elementos y su rol en el diseño, planificación y desarrollo de un producto, facilitando la colaboración y comprensión dentro de un equipo multidisciplinario.
          <br><br>
         <strong>Trillo, Anghel - TP1:</strong> Para el desarrollo de esta entrega hice las correciones de la diferenciación de estrategias y tácticas, mejore la definición de epics y user stories, asi como la priorización en el product backlog, adicional a ello aplique mejoras continuas en la landing page y desarrollo la vista de renta para el app.
+        <br><br>
+        <strong>Trillo, Anghel - TB2:</strong> Durante el desarrollo del backend, me encargué de comunicar de manera clara tanto la estructura del código como la lógica del sistema. Adapté las explicaciones a las características del equipo y promoví una retroalimentación continua para aplicar mejoras de manera eficiente.
+        <br><br>
       <td>
          TB1: Al trabajar como equipo en este proyecto, hemos aprendido a comunicarnos de manera más efectiva y a distribuir tareas según las fortalezas de cada miembro. La colaboración constante nos permitió mejorar nuestra organización y gestionar los tiempos de forma eficiente. Además, enfrentamos desafíos técnicos y de coordinación que nos enseñaron a adaptarnos rápidamente y a buscar soluciones conjuntas. Esta experiencia ha reforzado la importancia de la confianza y el apoyo mutuo dentro de un equipo de trabajo, lo cual fue clave para el avance y éxito del proyecto.
       </td>
@@ -357,6 +360,9 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Trillo, Anghel - TB1:</strong> Durante el proyecto Moveo, logré comunicarme por escrito de manera efectiva con diferentes audiencias, ajustando mi estilo y nivel de detalle según el público al que me dirigía. Fui capaz de redactar documentos técnicos, informes y presentaciones claras y concisas, explicando de manera efectiva conceptos complejos del desarrollo de software como User Persona, User Journey Map, Empathy Map, Product Backlog, Class Diagram, Class Dictionary, Database Diagram y Software Configuration Management. Mi capacidad para transmitir información por escrito facilitó la comprensión y colaboración dentro del equipo y con las partes interesadas.
         <br><br>
         <strong>Trillo, Anghel - TP1:</strong> Como equipo logramos planificarnos para poder llevar a cabo el trabajo de manera proactiva.
+        <br><br>
+        <strong>Trillo, Anghel - TB2:</strong> En la implementación del backend, mantuve una organización coherente y funcional, garantizando su correcta integración con el frontend. Priorizando una lógica ordenada y profesional, aseguré el cumplimiento de los lineamientos del curso y los objetivos del proyecto.
+        br><br>
       <td>
         TB1: Como equipo, hemos aprendido a trabajar juntos en un ambiente colaborativo y adaptativo. La gestión de tareas fue fundamental para aprovechar al máximo nuestras habilidades individuales, mientras nos asegurábamos de mantener el enfoque común. Aprendimos a valorar la importancia de la comunicación constante y la resolución conjunta de problemas, lo que nos permitió crecer como equipo y mejorar tanto a nivel personal como colectivo. Esta experiencia nos ha mostrado cómo las diferentes perspectivas pueden enriquecer un proyecto, haciéndolo más robusto y exitoso.
       </td>
