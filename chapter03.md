@@ -130,7 +130,7 @@
   <img src="assets/chapter03/impact%20mapping/impact_provedor.png"  style="width:650px; height:auto;" alt="">
 </p>
 
-## 3.4. Product Backlog}
+## 3.4. Product Backlog
 | **# Orden** | **User Story Id** | **Título** | **Descripción** | **Story Points (1 / 2 / 3 / 5)** |
 |-------------|-------------------|------------|------------------------------------|-----------------------------------|
 | 1  | US06 | Implementación de Call to Action | **Como** visitante de ambos segmentos, **quiero** encontrar botones de acción clara **para** facilitar la interacción. | 2 |
@@ -183,6 +183,8 @@
 | 48 | US35 | Edición de perfil | **Como** usuario **quiero**  quiero poder editar mi información personal **para** para mantener mi cuenta actualizada | 2 |
 | 49 | US36 | Cambio de contraseña | **Como** usuario **quiero**  poder cambiar mi contraseña desde el perfil **para** mantener la seguridad de mi cuenta | 2 |
 
+
+Enlace a trello: https://trello.com/invite/b/6840f71892f8726a5811c541/ATTI6dec0bfe869d0d49f3b584047d213019D62C56FC/moveo
 
 <p align="center">
   <a>
