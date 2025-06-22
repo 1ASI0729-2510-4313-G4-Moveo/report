@@ -439,11 +439,65 @@ A continuación se muestran los commits realizados por los integrantes del equip
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
+
+- **Sección de Login**: Se implementó el login para la aplicación web
+
+<p>
+  <img src="assets/chapter05/screen/screen_login.png" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Register**: Se implementó el register para la aplicación web
+
+<p>
+  <img src="assets/chapter05/screen/register_login.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p>
+  <img src="assets/chapter05/screen/register_login2.png" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección Menú**: Se implementó el menú para la aplicación web y sus funcionalidades
+
+<p>
+  <img src="assets/chapter05/screen/main_screen.png" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Rentas**: Se implementó la sección de rentas para la aplicación web 
+
+<p>
+  <img src="assets/chapter05/screen/rent_screen.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p>
+  <img src="assets/chapter05/screen/rent_screen2.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p>
+  <img src="assets/chapter05/screen/rent_screen3.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p>
+  <img src="assets/chapter05/screen/screen_cancel.png" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Records**: Se implementó la sección de records para la aplicación web y ver el historial de autos rentados
+
+<p>
+  <img src="assets/chapter05/screen/screen_record.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p>
+  <img src="assets/chapter05/screen/screen_record2.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p>
+  <img src="assets/chapter05/screen/screen_record3.png" style="width:700px; height:auto;" alt="">
+</p>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints. Sin embargo, se adjunta la url del repositorio que contenera los servicios.
 
-URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Moveo/backend
+Para el Sprint 2,
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
