@@ -116,9 +116,11 @@
     </tr>
     <tr>
       <td>3.0</td>
-      <td>22/06/25</td>
-      <td>Castañeda, Giancarlo. Lizano, Fernando</td>
-      <td>Para esta entrega, se separó con base en lo elaborado en la parte del frontend, la parte de los servicios en el backend, logrando de manera semi satisfactoria la conclusión de este de manera parcial. Quedando para una futura mejora en la próxima entrega</td>
+      <td>15/06/25</td>
+      <td>Castañeda, Giancarlo</td>
+      <td>Se realizo la segunda entrega de manera eficiente, cumpliento con los objetivos 
+      establecidos. Se levanto las respectivas observaciones hechas por el profesor y ademas se
+      empezo a plantear como llegariamos para el final del curso.</td>
     </tr>
     <tr>
       <td></td>
@@ -186,6 +188,12 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 ### Entregable TB2
 
 A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
+- **Insights**
+
+### Entregable TB2
+
+A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
+- **Insights**
 
 <p align="center">
   <img src="assets/chapter01/insightsTP1.PNG"  style="width:800px; height:auto;" alt="">
@@ -317,6 +325,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Castañeda, Santiago - TP1:</strong> Para el desarrollo de esta entrega hice las correciones a partes especificas como las user stories, el product backlog, el C4, el diagrama de clases y su diccionario, ademas de la implementación del sprint 2.    
         <br><br>
+        <strong>Castañeda, Santiago - TB2:</strong> Para el desarrollo de esta entrega hice las respectivas correciones y actualizaciones que vendrian con el sprint 3, como pueden ser el diarama de clases, datos y el modelado C4, y me dedique por completo con el Backend, desplegandolo y configurando todas sus endpoints   
+        <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Durante el desarrollo del proyecto, realice las actividades, como la landing page en el tema de las imagenes, traduccion, me encargue de realizar las entrevistas junto con el analisis de las entrevistas, aplique HTML, CSS y JS en la landing page, tambien realice el searching systems, navigation system, software architecture components diagrams, apoye con mi equipo en las actividades que les faltaban tambien.
         <br><br>
         <strong>Lizano, Fernando - TB1:</strong> Durante el desarrollo del proyecto, me enfoqué en comunicar de manera clara y efectiva el orden y la estructura del informe en las reuniones grupales. Cada vez que surgieron dudas o propuestas de mejora, expuse de forma precisa los cambios necesarios, adaptando mi comunicación según el perfil de los integrantes del equipo, buscando siempre asegurar que todos comprendieran el objetivo común. Además, fomenté un espacio de retroalimentación constante para que las mejoras en los capítulos fueran comprendidas y aplicadas correctamente.
@@ -337,6 +347,10 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
       <td>
          TB1: Al trabajar como equipo en este proyecto, hemos aprendido a comunicarnos de manera más efectiva y a distribuir tareas según las fortalezas de cada miembro. La colaboración constante nos permitió mejorar nuestra organización y gestionar los tiempos de forma eficiente. Además, enfrentamos desafíos técnicos y de coordinación que nos enseñaron a adaptarnos rápidamente y a buscar soluciones conjuntas. Esta experiencia ha reforzado la importancia de la confianza y el apoyo mutuo dentro de un equipo de trabajo, lo cual fue clave para el avance y éxito del proyecto.
+         <br><br>
+         TP1: Al trabajar como equipo en este proyecto, hemos aprendido a comunicarnos de manera más efectiva y a distribuir tareas según las fortalezas de cada miembro. La colaboración constante nos permitió mejorar nuestra organización y gestionar los tiempos de forma eficiente. Además, enfrentamos desafíos técnicos y de coordinación que nos enseñaron a adaptarnos rápidamente y a buscar soluciones conjuntas. Esta experiencia ha reforzado la importancia de la confianza y el apoyo mutuo dentro de un equipo de trabajo, lo cual fue clave para el avance y éxito del proyecto.
+         <br><br>
+         TB2: En esta entrega nos enfocamos mas en la organización y tomar riesgos, hemos aprendido que la colaboración y distribución de asignaciones según las fortalezas de cada miembro. Cda uno tiene especialidades y se deben aprovechar para estas entregas las cuales se van volviendo mucho mas dificiles cuanto mas las dejamos pasar
       </td>
       </tr>
       <tr>
@@ -347,6 +361,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Castañeda, Santiago - TB1:</strong> Como equipo, aprendimos a trabajar en ambientes dificultosos y a veces tardados. Despues de lograr resolver algunas dificultades demostramos ser un buen grupo que cuenta con muchas habilidades individual y grupalmente hablando. Nos faltaria lograr una mejor estructuración del tiempo para lograr tener un mejor margen de error
         <br><br>
         <strong>Castañeda, Santiago - TP1:</strong> Como equipo logramos acabar determinar instacias y tiempos para poder terminar el trabajo mas eficientemente y de manera proactiva 
+        <br><br>
+        <strong>Castañeda, Santiago - TB2:</strong> Como grupo logramos la constancia necesaria para terminar nuestros proyectos con tiempo de antelación, de una manera relajada y tranquila  
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Como grupo tenemos un buen ambiente y siempre sabemos trabajar bajo a presion, incluso si tenemos dificultades con un compañero sabemos como solucionarlo de inmediato, solo nos faltaria mejorar en el aspecto de tener una mejor estructura del tiempo, pero del resto tenemos buena comunicacion, buen ambiente y sabemos trabajar individualmente cada uno.
         <br><br>
@@ -365,6 +381,11 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         br><br>
       <td>
         TB1: Como equipo, hemos aprendido a trabajar juntos en un ambiente colaborativo y adaptativo. La gestión de tareas fue fundamental para aprovechar al máximo nuestras habilidades individuales, mientras nos asegurábamos de mantener el enfoque común. Aprendimos a valorar la importancia de la comunicación constante y la resolución conjunta de problemas, lo que nos permitió crecer como equipo y mejorar tanto a nivel personal como colectivo. Esta experiencia nos ha mostrado cómo las diferentes perspectivas pueden enriquecer un proyecto, haciéndolo más robusto y exitoso.
+        <br><br>
+        TP1: Como equipo, hemos aprendido a trabajar juntos en un ambiente colaborativo y adaptativo. La gestión de tareas fue fundamental para aprovechar al máximo nuestras habilidades individuales, mientras nos asegurábamos de mantener el enfoque común. Aprendimos a valorar la importancia de la comunicación constante y la resolución conjunta de problemas, lo que nos permitió crecer como equipo y mejorar tanto a nivel personal como colectivo. Esta experiencia nos ha mostrado cómo las diferentes perspectivas pueden enriquecer un proyecto, haciéndolo más robusto y exitoso
+        <br><br>
+        TB2: Como equipo, logramos trabajar de una manera efectiva y aplicada en todo momento, manteniendo comunicación y facilitandonos la capacidad de interactuar entre nosotros.
+        Esto nos permitio tener mejores tiempos de entrega y perfeccionar nuestras habilidades criticas con nosotros mismos
       </td>
 </tr>
 </tbody>

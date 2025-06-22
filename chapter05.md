@@ -401,6 +401,264 @@ Para esta entrega no pudimos realizar el deploy, intentaremos realizarlo para la
 | Lizano Coll Cardenas, Fernando. Castañeda Guimas, Giancarlo Santiago, Trillo Hernandez, Anghel Melanie, Nikaido Vargas, Javier Masaru | Organization fixes |
 | Carlos Matthew                                                                                                                        | Creación de la app web |
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Sprint Planning 3.
+
+| Sprint \# | 3 |
+| :---- | :---- |
+| Sprint # | 3 |
+| :---- | :---- |
+| Sprint Planning Background | |
+| Date | 2025-06-15 |
+| Time | 12:00 PM |
+| Location | Discord |
+| Prepared by | Giancarlo Castañeda |
+| Attendees (to planning meeting) | Fernando Lizano, Carlos Matthew, Masaru Nikaido, Anghel Trillo |
+| Sprint n – 3 Review Summary | Se avanzó en la estructura de base de datos; además, se ajustaron los endpoints a la arquitectura final definida. |
+| Sprint n – 3 Retrospective Summary | Consolidar la conexión entre frontend y backend para garantizar integraciones más rápidas. Aumentar y conseguir terminar con los endpoints propuestos |
+| Sprint 3 Goal | En este Sprint, nuestro objetivo es tener implementados los endpoints principales, asegurar la conexión estable con el frontend y avanzar en la documentación técnica completa del backend. Esto se validará cuando los endpoints estén funcionales y documentados, y exista una integración estable entre backend y frontend. |
+| Sprint 3 Velocity | Para este sprint nuestro equipo puede aceptar hasta 50 story points |
+| Sum of Story Points | 49 story points |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name)  | GitHub Username | Aspect Diseño UX/UI y Prototipado (L/C) | Aspect Programación de la app web (L/C)      | Aspect Arquitectura de Información y Sistemas de Organización/Navegación (L/C) |
+| ------------------------------------ | --------------- | --------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Castañeda Guimas, Giancarlo Santiago | Darksens01      | L                                       | C                                            | C                                                                                             |
+| Gonzales Valverde, Carlos Matthew    | Carlos12324     | L                                       | L                                            | L                                                                                             |
+| Nikaido Vargas, Javier Nikaido       | MassiFlip       | L                                       | C                                            | C                                                                                             |
+| Lizano Coll Cardenas, Fernando Jesus | GuardianDeity   | L                                       | L                                            | L                                                                                             |
+| Trillo Hernandez, Anghel Melanie     | AM27TH          | L                                       | L                                            | L                                                                                             |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+| Id | Title | Id | Title | Description | Estimation (Hours)  | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| TS06 | Endpoint de IAM | T1 | Implementar POST, PUT, DELETE para IAM | Desarrollo de endpoints para crear, actualizar y eliminar usuarios. | 6 | Giancarlo Castañeda | To-do |
+| TS06 | Endpoint de IAM | T2 | Implementar GET (GetById, GetAll) para IAM | Desarrollo de endpoints para obtener usuarios por ID y listado. | 5 | Giancarlo Castañeda | To-do |
+| TS11 | Endpoint de Car | T1 | Implementar POST, PUT, DELETE para Car | Desarrollo de endpoints para registrar, actualizar y eliminar autos. | 6 | Giancarlo Castañeda | To-do |
+| TS11 | Endpoint de Car | T2 | Implementar GET (GetById, GetAllAvailableCars) para Car | Desarrollo de endpoints para obtener autos disponibles. | 5 | Giancarlo Castañeda | To-do |
+| TS07 | Endpoint de Rents | T1 | Implementar POST, PUT, DELETE para Rents | Desarrollo de endpoints para registrar, actualizar y cancelar rentas. | 6 | Giancarlo Castañeda | To-do |
+| TS07 | Endpoint de Rents | T2 | Implementar GET (GetById, GetAll) para Rents | Desarrollo de endpoints para obtener rentas por ID y listado. | 5 | Giancarlo Castañeda | To-do |
+| TS12 | Endpoint de CarStation | T1 | Implementar POST, PUT, DELETE para CarStation | Desarrollo de endpoints para registrar, actualizar y eliminar estaciones. | 6h | Giancarlo Castañeda | To-do |
+| TS12 | Endpoint de CarStation | T2 | Implementar GET (GetById, GetAll) para CarStation | Desarrollo de endpoints para obtener estaciones. | 5 | Giancarlo Castañeda | To-do |
+| TS08 | Endpoint de Payment | T1 | Implementar POST, PUT, DELETE para Payment | Desarrollo de endpoints para gestionar pagos de reservas. | 6 | Masaru Nikaido | To-do |
+| TS08 | Endpoint de Payment | T2 | Implementar GET (GetById, GetAll) para Payment | Desarrollo de endpoints para consultar pagos. | 5 | Masaru Nikaido | To-do |
+| TS09 | Endpoint de PaymentInformation | T1 | Implementar POST, PUT, DELETE para PaymentInformation | Desarrollo de endpoints para registrar, actualizar y eliminar métodos de pago. | 6h | Masaru Nikaido | To-do |
+| TS09 | Endpoint de PaymentInformation | T2 | Implementar GET (GetById, GetAll) para PaymentInformation | Desarrollo de endpoints para obtener métodos de pago. | 5 | Masaru Nikaido | To-do |
+| US33 | Métodos de pago | T1 | Desarrollo de lógica para registrar métodos de pago | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| US34 | Edición de métodos de pago | T1 | Desarrollo de lógica para editar/eliminar métodos de pago | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| US35 | Edición de perfil | T1 | Desarrollo de lógica para editar información de perfil | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| US36 | Cambio de contraseña | T1 | Desarrollo de lógica para cambiar contraseña de usuario | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| TS05 | Endpoint de Providing | T1 | Implementar POST, PUT, DELETE para Providing | Desarrollo de endpoints para gestionar oferta de autos. | 6 | Anghel Trillo | To-do |
+| TS05 | Endpoint de Providing | T2 | Implementar GET (GetById, GetAll) para Providing | Desarrollo de endpoints para obtener ofertas de autos. | 5 | Anghel Trillo | To-do |
+| TS04 | Endpoint de ProvidedCarRecord | T1 | Implementar POST, PUT, DELETE para ProvidedCarRecord | Desarrollo de endpoints para gestionar registros de autos. | 6 | Anghel Trillo | To-do |
+| TS04 | Endpoint de ProvidedCarRecord | T2 | Implementar GET (GetById, GetAll) para ProvidedCarRecord | Desarrollo de endpoints para obtener registros de autos. | 5 | Anghel Trillo | To-do |
+| TS10 | Endpoint de Record | T1 | Implementar POST, PUT, DELETE para Record | Desarrollo de endpoints para registrar logs. | 6 | Fernando Lizando | To-do |
+| TS10 | Endpoint de Record | T2 | Implementar GET (GetById, GetAll) para Record | Desarrollo de endpoints para consultar logs. | 5 | Fernando Lizando | To-do |
+| US23 | Need Finding | T1 | Investigación y levantamiento de necesidades de usuarios | Realización de entrevistas y análisis de resultados. | 6 | Giancarlo Castañeda | To-do |
+| US24 | User Task Matrix | T1 | Mapeo de tareas principales de los usuarios | Desarrollo del documento de matriz de tareas. | 5 | Giancarlo Castañeda | To-do |
+| US25 | User Journey Map | T1 | Elaboración de mapas de recorrido de usuario | Identificación de puntos críticos y oportunidades de mejora. | 6 | Giancarlo Castañeda | To-do |
+| US26 | Empathy Mapping | T1 | Creación de mapas de empatía | Identificación de emociones, pensamientos y frustraciones. | 5 | Giancarlo Castañeda | To-do |
+| US27 | Scenario Mapping | T1 | Elaboración de escenarios As-Is y To-Be | Definición y documentación de escenarios actuales e ideales. | 5 | Giancarlo Castañeda | To-do |
+| US28 | Impact Mapping | T1 | Creación de mapa de impacto | Relación entre objetivos de negocio y funcionalidades. | 6 | Giancarlo Castañeda | To-do |
+| US29 | Product Backlog | T1 | Construcción y priorización del backlog | Documentación de funcionalidades esenciales. | 5 | Giancarlo Castañeda | To-do |
+| US30 | Modelado C4 | T1 | Modelado de contexto en C4 | Elaboración del nivel de contexto. | 5 | Giancarlo Castañeda | To-do |
+| US30 | Modelado C4 | T2 | Modelado de contenedores en C4 | Elaboración del nivel de contenedores. | 5 | Giancarlo Castañeda | To-do |
+| US30 | Modelado C4 | T3 | Modelado de componentes en C4 | Elaboración del nivel de componentes. | 5 | Giancarlo Castañeda | To-do |
+| US31 | Diagrama de Clases | T1 | Identificación de entidades y relaciones | Desarrollo del diagrama de clases. | 5 | Giancarlo Castañeda | To-do |
+| US31 | Diagrama de Clases | T2 | Validación del diagrama de clases | Revisión y ajuste del diagrama. | 5 | Giancarlo Castañeda | To-do |
+| US32 | Diagrama de Base de Datos | T1 | Diseño de modelo relacional | Desarrollo del diagrama ER. | 5 | Giancarlo Castañeda | To-do |
+| US32 | Diagrama de Base de Datos | T2 | Validación del diagrama ER | Revisión y ajuste del diagrama. | 5 | Giancarlo Castañeda | To-do |
+
+
+A continuación se muestran los commits realizados por los integrantes del equipo durante el desarrollo de la SPA Moveo. Se han excluido los merges automáticos y repetitivos para mostrar solo los commits funcionales más relevantes.
+
+| Repository                                  | Branch                | Commit Id | Commit Message                                     | Commited on      |
+|---------------------------------------------|-----------------------|----------------------------------------------------|---------------------|------------------|
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | ac7ba89 | fix: reorganize structure | 20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 4313bc6 | feat: Add feature payments |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 8f57f4a | fix: reorganize structure  |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 9c3ce9c | Add feature/records |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | d0d0789 | feat: add rent table |  17-06-2025 |
+
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
+
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Para la documentación del backend se ha utilizado swagger
+
+<img src="assets/chapter05/evidence/backend/1.png" />
+<img src="assets/chapter05/evidence/backend/2.png" />
+<img src="assets/chapter05/evidence/backend/3.png" />
+<img src="assets/chapter05/evidence/backend/4.png" />
+
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+<img src="assets/chapter05/DeployBackend.PNG" />
+<img src="assets/chapter05/DeployBackend2.PNG" />
+<img src="assets/chapter05/DeployBackend3.PNG" />
+
+
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+Insights de colaboración en github del backend
+
+<img src="assets/chapter05/insights/insights31.PNG" />
+<img src="assets/chapter05/insights/insights32.PNG" />
+<img src="assets/chapter05/insights/insights33.PNG" />
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+#### **Usuarios Potenciales**
+
+- ¿Te queda claro cómo funciona Moveo y qué puedes hacer en esta pantalla?
+- ¿Hay algo que te haya confundido o que no entiendas?
+- ¿Te parece fácil moverte por la app y volver atrás si es necesario?
+- ¿Los textos y precios te resultan claros?
+- ¿Te pareció sencillo y rápido el proceso para reservar un auto?
+- ¿Qué parte te pareció más lenta o con pasos de más?
+- ¿El diseño general (colores, orden) te resulta agradable o cambiarías algo?
+- ¿Si tuvieras un problema, sabes cómo pedir ayuda o contactar soporte?
+- ¿Qué es lo que más te gustó?
+- ¿Qué mejorarías?
+
+#### **Proveedores**
+- ¿Te queda claro cómo funciona Moveo para ofrecer tu auto?
+- ¿Hay algo que te haya confundido o que no entiendas?
+- ¿Te parece fácil moverte por la app y volver atrás si es necesario?
+- ¿Los textos, comisiones y reglas te resultan claros?
+- ¿Te pareció sencillo y rápido el proceso para publicar tu auto?
+- ¿Qué parte te pareció más lenta o con pasos de más?
+- ¿El diseño general (colores, orden) te resulta agradable o cambiarías algo?
+- ¿Si tuvieras un problema, sabes cómo pedir ayuda o contactar soporte?
+- ¿Qué es lo que más te gustó?
+- ¿Qué mejorarías?
+  
+### 5.3.2. Registro de Entrevistas
+
+| Segmento Objetivo | Estudiantes |
+| ----- | ----- |
+| **Número de registro** | **Datos del entrevistado** |
+| 01 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  **Distrito:**  <br>**Inicio \- Duración:** \- <br> ![interview-image]() |
+|  | **Resumen:**   |
+| 02 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]() |
+|  | **Resumen:** |
+| 03 | **Nombre:**   <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-  <br> ![interview-image]() |
+|  | **Resumen:** |
+| **Segmento Objetivo** | **Turistas** |
+| **04** | **Nombre:**  <br>**Edad:**  <br>**Profesión:** <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]()|
+|  | **Resumen:** |
+| **05** | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-   <br> ![interview-image]()|
+|  | **Resumen:**  |
+|**06**| **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:** **Inicio \- Duración:**  \-  <br> ![interview-image]() |
+|  | **Resumen:** |
+| Link de la entrevista | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=x6cKdO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=x6cKdO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+
+### 5.3.3. Evaluaciones según heuristicas
+
+**UX Heuristics & Principles Evaluation**  
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA            	: Ingeniería de Software**  
+**CURSO                	: Open Source**  
+**SECCIÓN              	:** 4313
+
+**PROFESORES      	: Todos **
+
+**AUDITOR            	:** GPT4
+**CLIENTE(S)          	:** Nombre de las personas que participan en la sesión
+
+*NOTA: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.*
+
+***SITE o APP A EVALUAR:***
+
+*Nombre de App*
+
+***TAREAS A EVALUAR:***
+
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+1\.     *Registro de un usuario nuevo*
+
+2\.     *Publicación de un post*
+
+3\.     *Búsqueda de un paquete turístico*
+
+4\.     *Reserva de un viaje*
+
+5\.     *Cancelación de una reserva*
+
+6\.     *Agregar ítems a un pedido*
+
+7\.     *Pago de un paquete turístico*
+
+8\.     *Etc.*
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+
+1\.     *Compartir reservas entre usuarios*
+
+2\.     *Presentar ofertas de último minuto*
+
+3\.     *Administrar puntos del programa de fidelización de viajes*
+
+4\.     *Guardar “alerta de paquetes”*
+
+5\.     *Etc.*
+
+***ESCALA DE SEVERIDAD:***
+
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*  
+ 
+
+| Nivel | Descripción |
+| :---- | :---- |
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+
+***TABLA RESUMEN:***
+
+| \# | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :---: | ----- | ----- | :---- |
+| 1 | No hay un control que permita regresar a la tienda durante el trámite de compra | 3 | Usability: Libertad y control del usuario |
+| 2 | Se repiten constantemente algunas opciones | 1 | Usability: Consistencia y estándares |
+| 3 | Imágenes sin atributo “alt” | 3 | Inclusive Design: Proporciona experiencias comparables |
+| 4 | Incluye un botón “Ver más” pero no existe contenido al que dirigirse | 3 | Information Architecture: Is it usable? |
+| 5 | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+| … | …. |   |   |
+
+Etc.
+
+***DESCRIPCIÓN DE PROBLEMAS:*** 
+
+*PROBLEMA \#1: No hay un control que permita regresar a la tienda durante el trámite de compra*
+
+*Severidad: 3*
+
+*Heurística violada: Usabilidad \- Libertad y control del usuario*
+
+*Problema:*
+
+*Al momento de ingresar nuestros datos, no podemos regresar a la tienda en caso así lo Una vez el cliente pase al trámite de compra, en caso de que este quiera regresar a la tienda, no hay un botón que lo envié al inicio de la web, lo cual nos obliga a efectuar el trámite y al momento de elegir más productos, realizar otro, incrementándose así la cantidad de esfuerzo del usuario.*
+
+*(Incluir además una captura de pantalla ilustrando el problema).*
+
+*Recomendación:*
+
+*La más práctica es que al momento en que queramos realizar dicho trámite, el navegador lo abra en una ventana aparte para no perder los cambios realizados en nuestro carrito de compras.*  
+
+### 5.4. Video About the Product
+
 ## Conclusiones
 
 - **Solución a una necesidad real:**
@@ -478,7 +736,10 @@ https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/97804
 
 - [link a prototype](https://www.figma.com/proto/nrxEj7WzMbOci6Qe0h9zGO/Untitled?node-id=1-49&t=OV9Jld3INRoD278N-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A49)
 
+- [link al About The Team](https://youtu.be/KWXhfRw9ePE?feature=shared)
+
 <div style="page-break-after: always; break-after: page;"></div>
 
 ## Anexo B: Videos de exposiciones: 
 - [Link a video de exposición de TB1 en Microsoft Stream]()
+- Link a video de exposición de TB2 en Microsoft Stream
