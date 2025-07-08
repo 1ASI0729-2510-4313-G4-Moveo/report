@@ -692,6 +692,8 @@ La interfaz de Moveo presenta demasiados espacios en blanco o componentes vacío
 **Recomendación:**
 Reorganizar los elementos visuales, incorporar contenido de valor como recomendaciones, tips, o accesos rápidos que llenen visualmente la vista y mejoren la percepción de completitud.
 
+<img src="assets/chapter05/heuristicas/heu1.png" />
+
 ---
 
 **PROBLEMA #2: El usuario pierde el interés por la falta de elementos interactivos o llamativos**
@@ -705,6 +707,8 @@ La experiencia del usuario es monótona y carece de componentes que generen inte
 
 **Recomendación:**
 Incluir animaciones sutiles, gamificación o mensajes que generen conexión emocional con el usuario.
+
+<img src="assets/chapter05/heuristicas/heu4.png" />
 
 ---
 
@@ -720,6 +724,8 @@ El logo ubicado en la parte superior no actúa como acceso a la página de inici
 **Recomendación:**
 Habilitar el logo como hipervínculo hacia la pantalla principal de la aplicación.
 
+<img src="assets/chapter05/heuristicas/heu2.png" />
+
 ---
 
 **PROBLEMA #4: La sección “Providers” carece de diseño atractivo o estructura clara**
@@ -733,6 +739,8 @@ La vista de proveedores no tiene jerarquía visual ni componentes claramente dif
 
 **Recomendación:**
 Reestructurar la sección con cards visuales, botones claros y una separación adecuada de la información.
+
+<img src="assets/chapter05/heuristicas/heu7.png" />
 
 ---
 
@@ -748,6 +756,8 @@ En ocasiones, tras completar el registro, el usuario no queda almacenado en la b
 **Recomendación:**
 Implementar validaciones en el backend y confirmaciones de éxito al guardar el usuario.
 
+<img src="assets/chapter05/heuristicas/heu11.png" />
+
 ---
 
 **PROBLEMA #6: El mapa no muestra correctamente las estaciones disponibles**
@@ -761,6 +771,8 @@ El mapa actual no proporciona una visualización clara de las estaciones disponi
 
 **Recomendación:**
 Ajustar el mapa con marcadores dinámicos, etiquetas y filtros por tipo de estación.
+
+<img src="assets/chapter05/heuristicas/heu3.png" />
 
 ---
 
@@ -790,8 +802,11 @@ No existe un mecanismo simple para cambiar entre las funciones de usuario y prov
 **Recomendación:**
 Implementar un selector de roles o una opción de cambio rápido en el menú de usuario.
 
+<img src="assets/chapter05/heuristicas/heu8.png" />
 
 ### 5.4. Video About the Product
+
+Video publicando en Youtube About the Product: [https://youtu.be/KWXhfRw9ePE?si=QFw8_jg230vlGtep](https://youtu.be/KWXhfRw9ePE?si=QFw8_jg230vlGtep)
 
 ## Conclusiones
 
