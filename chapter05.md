@@ -512,6 +512,84 @@ Insights de colaboración en github del backend
 <img src="assets/chapter05/insights/insights32.PNG" />
 <img src="assets/chapter05/insights/insights33.PNG" />
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1.Sprint Planning 4.
+
+| Sprint \# | 4 |
+| :---- | :---- |
+| Sprint # | 4 |
+| :---- | :---- |
+| Sprint Planning Background | |
+| Date | 2025-06-15 |
+| Time | 12:00 PM |
+| Location | Discord |
+| Prepared by | Giancarlo Castañeda |
+| Attendees (to planning meeting) | Fernando Lizano, Carlos Matthew, Masaru Nikaido, Anghel Trillo |
+| Sprint n – 4 Review Summary | Se avanzó en la estructura de base de datos; además, se ajustaron los endpoints a la arquitectura final definida. |
+| Sprint n – 4 Retrospective Summary | Consolidar la conexión entre frontend y backend para garantizar integraciones más rápidas. Aumentar y conseguir terminar con los endpoints propuestos |
+| Sprint 4 Goal | En este Sprint, nuestro objetivo es tener implementados los endpoints principales, asegurar la conexión estable con el frontend y avanzar en la documentación técnica completa del backend. Esto se validará cuando los endpoints estén funcionales y documentados, y exista una integración estable entre backend y frontend. |
+| Sprint 4 Velocity | Para este sprint nuestro equipo puede aceptar hasta 50 story points |
+| Sum of Story Points | 49 story points |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name)  | GitHub Username | Aspect Diseño UX/UI y Prototipado (L/C) | Aspect Programación de la app web (L/C)      | Aspect Arquitectura de Información y Sistemas de Organización/Navegación (L/C) |
+| ------------------------------------ | --------------- | --------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Castañeda Guimas, Giancarlo Santiago | Darksens01      | L                                       | C                                            | C                                                                                             |
+| Gonzales Valverde, Carlos Matthew    | Carlos12324     | L                                       | L                                            | L                                                                                             |
+| Nikaido Vargas, Javier Nikaido       | MassiFlip       | L                                       | C                                            | C                                                                                             |
+| Lizano Coll Cardenas, Fernando Jesus | GuardianDeity   | L                                       | L                                            | L                                                                                             |
+| Trillo Hernandez, Anghel Melanie     | AM27TH          | L                                       | L                                            | L                                                                                             |
+
+#### 5.2.4.3. Sprint Backlog 4
+
+| Id | Title | Id | Title | Description | Estimation (Hours)  | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| TS06 | Endpoint de IAM | T1 | Implementar POST, PUT, DELETE para IAM | Desarrollo de endpoints para crear, actualizar y eliminar usuarios. | 6 | Giancarlo Castañeda | To-do |
+| TS06 | Endpoint de IAM | T2 | Implementar GET (GetById, GetAll) para IAM | Desarrollo de endpoints para obtener usuarios por ID y listado. | 5 | Giancarlo Castañeda | To-do |
+| US35 | Edición de perfil | T1 | Desarrollo de lógica para editar información de perfil | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| US36 | Cambio de contraseña | T1 | Desarrollo de lógica para cambiar contraseña de usuario | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+
+A continuación se muestran los commits realizados por los integrantes del equipo durante el desarrollo de la SPA Moveo. Se han excluido los merges automáticos y repetitivos para mostrar solo los commits funcionales más relevantes.
+
+| Repository                                  | Branch                | Commit Id | Commit Message                                     | Commited on      |
+|---------------------------------------------|-----------------------|----------------------------------------------------|---------------------|------------------|
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | ac7ba89 | fix: reorganize structure | 20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 4313bc6 | feat: Add feature payments |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 8f57f4a | fix: reorganize structure  |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 9c3ce9c | Add feature/records |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | d0d0789 | feat: add rent table |  17-06-2025 |
+
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
+
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+Para la documentación del backend se ha utilizado swagger
+
+<img src="assets/chapter05/evidence/backend/1.png" />
+<img src="assets/chapter05/evidence/backend/2.png" />
+<img src="assets/chapter05/evidence/backend/3.png" />
+<img src="assets/chapter05/evidence/backend/4.png" />
+
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+<img src="assets/chapter05/DeployBackend.PNG" />
+<img src="assets/chapter05/DeployBackend2.PNG" />
+<img src="assets/chapter05/DeployBackend3.PNG" />
+
+
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+Insights de colaboración en github del backend
+
+<img src="assets/chapter05/insights/insights31.PNG" />
+<img src="assets/chapter05/insights/insights32.PNG" />
+<img src="assets/chapter05/insights/insights33.PNG" />
+
 ### 5.3. Validation Interviews
 
 #### 5.3.1. Diseño de Entrevistas
