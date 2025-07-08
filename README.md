@@ -80,6 +80,10 @@
       <td>Trillo Hernandez, Anghel Melanie</td>
       <td>u201912401</td>
     </tr>
+    <tr>
+      <td>Ramos Carío, Karen Stephanie</td>
+      <td>u20201e493</td>
+    </tr>
   </tbody>
 </table>
 
@@ -171,6 +175,10 @@ Para este proyecto hemos utilizado las herramientas GitHub para gestionar el pro
     <tr>
       <td>Trillo Hernandez, Anghel Melanie</td>
       <td>AM27TH</td>
+    </tr>
+     <tr>
+      <td>Ramos Carpio, Karen Stephanie</td>
+      <td>KarenRamos2</td>
     </tr>
   </tbody>
 </table>
