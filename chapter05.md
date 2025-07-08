@@ -370,35 +370,15 @@ Finalmente, se configuro y desplegó la versión inicial del Landing Page en **G
 #### 5.2.2.4. Development Evidence for Sprint Review
 A continuación se muestran los commits realizados por los integrantes del equipo, se obviaron los merges y commits incorrectos por razones de mejor visualización acerca de los commits correctamente desarrollados e implementados:
 
-| Repository  | Branch  | Commit Id  | Commit Message  | Commit Message Body  | Commited on (Date) |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
-|  |  |  |  | \* No aplica | |
+<img src="./assets/chapter05/insights3.webp" />
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+<img src="./assets/chapter05/evidence1.webp" />
+
+<img src="./assets/chapter05/evidence2.webp" />
+
+<img src="./assets/chapter05/evidence3.webp" />
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -407,14 +387,19 @@ Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la
 URL del repositorio de Web Services: https://github.com/1ASI0729-2510-4313-G4-Moveo/backend
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para esta entrega no pudimos realizar el deploy, intentaremos realizarlo para la siguiente entrega
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-| Participante | Actividades de implementación |
-| :---- | :---- |
-|  | |
-|  | |
-|  | |
+<img src="./assets/chapter05/insights1.webp" />
+
+<img src="./assets/chapter05/insights2.webp" />
+
+
+| Participante                                                                                                                          | Actividades de implementación |
+|:--------------------------------------------------------------------------------------------------------------------------------------| :---- |
+| Lizano Coll Cardenas, Fernando. Castañeda Guimas, Giancarlo Santiago, Trillo Hernandez, Anghel Melanie, Nikaido Vargas, Javier Masaru | Organization fixes |
+| Carlos Matthew                                                                                                                        | Creación de la app web |
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1.Sprint Planning 3.
@@ -506,22 +491,104 @@ En esta sección se presentan las evidencias de la ejecución de la aplicación 
 
 Para la documentación del backend se ha utilizado swagger
 
-<img src="./assets/chapter05/evidence/backend/1.png" />
-<img src="./assets/chapter05/evidence/backend/2.png" />
-<img src="./assets/chapter05/evidence/backend/3.png" />
-<img src="./assets/chapter05/evidence/backend/4.png" />
+<img src="assets/chapter05/evidence/backend/1.png" />
+<img src="assets/chapter05/evidence/backend/2.png" />
+<img src="assets/chapter05/evidence/backend/3.png" />
+<img src="assets/chapter05/evidence/backend/4.png" />
 
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+<img src="assets/chapter05/DeployBackend.PNG" />
+<img src="assets/chapter05/DeployBackend2.PNG" />
+<img src="assets/chapter05/DeployBackend3.PNG" />
 
 
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 Insights de colaboración en github del backend
 
-<img src="./assets/chapter05/insights/insights31.PNG" />
-<img src="./assets/chapter05/insights/insights32.PNG" />
-<img src="./assets/chapter05/insights/insights33.PNG" />
+<img src="assets/chapter05/insights/insights31.PNG" />
+<img src="assets/chapter05/insights/insights32.PNG" />
+<img src="assets/chapter05/insights/insights33.PNG" />
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1.Sprint Planning 4.
+
+| Sprint \# | 4 |
+| :---- | :---- |
+| Sprint # | 4 |
+| :---- | :---- |
+| Sprint Planning Background | |
+| Date | 2025-06-15 |
+| Time | 12:00 PM |
+| Location | Discord |
+| Prepared by | Giancarlo Castañeda |
+| Attendees (to planning meeting) | Fernando Lizano, Carlos Matthew, Masaru Nikaido, Anghel Trillo |
+| Sprint n – 4 Review Summary | Se avanzó en la estructura de base de datos; además, se ajustaron los endpoints a la arquitectura final definida. |
+| Sprint n – 4 Retrospective Summary | Consolidar la conexión entre frontend y backend para garantizar integraciones más rápidas. Aumentar y conseguir terminar con los endpoints propuestos |
+| Sprint 4 Goal | En este Sprint, nuestro objetivo es tener implementados los endpoints principales, asegurar la conexión estable con el frontend y avanzar en la documentación técnica completa del backend. Esto se validará cuando los endpoints estén funcionales y documentados, y exista una integración estable entre backend y frontend. |
+| Sprint 4 Velocity | Para este sprint nuestro equipo puede aceptar hasta 50 story points |
+| Sum of Story Points | 49 story points |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name)  | GitHub Username | Aspect Diseño UX/UI y Prototipado (L/C) | Aspect Programación de la app web (L/C)      | Aspect Arquitectura de Información y Sistemas de Organización/Navegación (L/C) |
+| ------------------------------------ | --------------- | --------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Castañeda Guimas, Giancarlo Santiago | Darksens01      | L                                       | C                                            | C                                                                                             |
+| Gonzales Valverde, Carlos Matthew    | Carlos12324     | L                                       | L                                            | L                                                                                             |
+| Nikaido Vargas, Javier Nikaido       | MassiFlip       | L                                       | C                                            | C                                                                                             |
+| Lizano Coll Cardenas, Fernando Jesus | GuardianDeity   | L                                       | L                                            | L                                                                                             |
+| Trillo Hernandez, Anghel Melanie     | AM27TH          | L                                       | L                                            | L                                                                                             |
+
+#### 5.2.4.3. Sprint Backlog 4
+
+| Id | Title | Id | Title | Description | Estimation (Hours)  | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| TS06 | Endpoint de IAM | T1 | Implementar POST, PUT, DELETE para IAM | Desarrollo de endpoints para crear, actualizar y eliminar usuarios. | 6 | Giancarlo Castañeda | To-do |
+| TS06 | Endpoint de IAM | T2 | Implementar GET (GetById, GetAll) para IAM | Desarrollo de endpoints para obtener usuarios por ID y listado. | 5 | Giancarlo Castañeda | To-do |
+| US35 | Edición de perfil | T1 | Desarrollo de lógica para editar información de perfil | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| US36 | Cambio de contraseña | T1 | Desarrollo de lógica para cambiar contraseña de usuario | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+
+A continuación se muestran los commits realizados por los integrantes del equipo durante el desarrollo de la SPA Moveo. Se han excluido los merges automáticos y repetitivos para mostrar solo los commits funcionales más relevantes.
+
+| Repository                                  | Branch                | Commit Id | Commit Message                                     | Commited on      |
+|---------------------------------------------|-----------------------|----------------------------------------------------|---------------------|------------------|
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | ac7ba89 | fix: reorganize structure | 20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 4313bc6 | feat: Add feature payments |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 8f57f4a | fix: reorganize structure  |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 9c3ce9c | Add feature/records |  20-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | d0d0789 | feat: add rent table |  17-06-2025 |
+
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
+
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+Para la documentación del backend se ha utilizado swagger
+
+<img src="assets/chapter05/evidence/backend/1.png" />
+<img src="assets/chapter05/evidence/backend/2.png" />
+<img src="assets/chapter05/evidence/backend/3.png" />
+<img src="assets/chapter05/evidence/backend/4.png" />
+
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+<img src="assets/chapter05/DeployBackend.PNG" />
+<img src="assets/chapter05/DeployBackend2.PNG" />
+<img src="assets/chapter05/DeployBackend3.PNG" />
+
+
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+Insights de colaboración en github del backend
+
+<img src="assets/chapter05/insights/insights31.PNG" />
+<img src="assets/chapter05/insights/insights32.PNG" />
+<img src="assets/chapter05/insights/insights33.PNG" />
 
 ### 5.3. Validation Interviews
 
@@ -554,23 +621,28 @@ Insights de colaboración en github del backend
   
 ### 5.3.2. Registro de Entrevistas
 
-| Segmento Objetivo | Estudiantes |
-| ----- | ----- |
-| **Número de registro** | **Datos del entrevistado** |
-| 01 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  **Distrito:**  <br>**Inicio \- Duración:** \- <br> ![interview-image]() |
-|  | **Resumen:**   |
-| 02 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]() |
-|  | **Resumen:** |
-| 03 | **Nombre:**   <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-  <br> ![interview-image]() |
-|  | **Resumen:** |
-| **Segmento Objetivo** | **Turistas** |
-| **04** | **Nombre:**  <br>**Edad:**  <br>**Profesión:** <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]()|
-|  | **Resumen:** |
-| **05** | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-   <br> ![interview-image]()|
-|  | **Resumen:**  |
-|**06**| **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:** **Inicio \- Duración:**  \-  <br> ![interview-image]() |
-|  | **Resumen:** |
-| Link de la entrevista |  | 
+
+| Nº  | Datos del Entrevistado                                                                                                                                      | Resumen                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01  | **Nombre:** Carlos Coca  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante* <br> **Distrito:** *San Miguel*  <br> **Inicio:** 00:00  <br> 📷 ![image]() | - **Registro e inicio de sesión:** Interfaz limpia, formularios claros, colores suaves.<br>- **Proceso de renta:** Intuitivo, opción de seleccionar horas y ver precio total. Sugiere más variedad de vehículos.<br>- **Sección Records:** Confusión al buscar más info del vehículo. Sugiere hacer clic en imagen o botón "See More Info".<br>- **Diseño y usabilidad:** Claro, simple y funcional.<br>- **Pago:** Le gustó PayPal, sugiere Yape.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Proceso claro y personalizado. |
+| 02  | **Nombre:** Paolo Chinen  <br> **Edad:** *20*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Magdalena*  <br> **Inicio:** 11:56  <br> 📷 ![image]() | - **Registro e interfaz:** Clara e intuitiva.<br>- **Proceso de renta:** Rápido y fácil. Precios por hora razonables.<br>- **Navegación:** Fluida, fácil volver a secciones previas.<br>- **Diseño:** Agradable, pero recomienda tipografía más dinámica.<br>- **Sección Payment:** Valoró edición de datos y uso de PayPal.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Claridad en precios por hora.                             |
+| 03  | **Nombre:** Matias Torres  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Huaral*  <br> **Inicio:** 21:50  <br> 📷 ![image]()  | - **Registro y navegación:** Fluida, interfaz clara y bien estructurada.<br>- **Proceso de renta:** Eficiente, buen sistema de selección por horas.<br>- **Interfaz:** Diseño minimalista, organizado por secciones.<br>- **Recomendaciones:** Agregar sección de ayuda o contacto visible.<br>- **Flujo general:** Lógico, sin pasos innecesarios.<br>- **Valorado:** Rapidez del flujo y visibilidad del vehículo.                         |
+
+---
+
+## 🌍 Segmento Objetivo: Turistas
+
+| Nº  | Datos del Entrevistado                                                                                  | Resumen |
+|-----|-----------------------------------------------------------------------------------------------------------|---------|
+| 04  | **Nombre:** — <br> **Edad:** — <br> **Profesión:** — <br> **Distrito:** — <br> **Inicio:** — <br> 📷 ![image]() | —       |
+| 05  | **Nombre:** — <br> **Edad:** — <br> **Profesión:** — <br> **Distrito:** — <br> **Inicio:** — <br> 📷 ![image]() | —       |
+| 06  | **Nombre:** — <br> **Edad:** — <br> **Profesión:** — <br> **Distrito:** — <br> **Inicio:** — <br> 📷 ![image]() | —       |
+
+---
+
+🔗 **Link de la entrevista completa**:  
+[Ver en OneDrive](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=PFqEtF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 ### 5.3.3. Evaluaciones según heuristicas
 
@@ -581,7 +653,7 @@ Insights de colaboración en github del backend
 **CURSO                	: Open Source**  
 **SECCIÓN              	:** 4313
 
-**PROFESORES      	: Alberto Wilmer Sanchez Seña**
+**PROFESORES      	: Todos **
 
 **AUDITOR            	:** GPT4
 **CLIENTE(S)          	:** Nombre de las personas que participan en la sesión
@@ -746,6 +818,8 @@ https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/97804
 - [link a userflow diagrams Parte 2](https://lucid.app/lucidchart/cdc929f2-25ef-4684-b019-5a526f18bb35/edit?viewport_loc=-1550%2C-1351%2C5798%2C3748%2C0_0&invitationId=inv_b19dc14a-c643-4ee4-901c-78e25fad7cd7)
 
 - [link a prototype](https://www.figma.com/proto/nrxEj7WzMbOci6Qe0h9zGO/Untitled?node-id=1-49&t=OV9Jld3INRoD278N-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A49)
+
+- [link al About The Team](https://youtu.be/KWXhfRw9ePE?feature=shared)
 
 <div style="page-break-after: always; break-after: page;"></div>
 
