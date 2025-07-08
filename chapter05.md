@@ -624,21 +624,9 @@ Insights de colaboración en github del backend
 
 | Nº  | Datos del Entrevistado                                                                                                                                      | Resumen                                                                                                                                                                                                                                                                                                                                                                                               |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 01  | **Nombre:** Carlos Coca  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante* <br> **Distrito:** *San Miguel*  <br> **Inicio:** 00:00  <br> 📷 ![image]() | - **Registro e inicio de sesión:** Interfaz limpia, formularios claros, colores suaves.<br>- **Proceso de renta:** Intuitivo, opción de seleccionar horas y ver precio total. Sugiere más variedad de vehículos.<br>- **Sección Records:** Confusión al buscar más info del vehículo. Sugiere hacer clic en imagen o botón "See More Info".<br>- **Diseño y usabilidad:** Claro, simple y funcional.<br>- **Pago:** Le gustó PayPal, sugiere Yape.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Proceso claro y personalizado. |
-| 02  | **Nombre:** Paolo Chinen  <br> **Edad:** *20*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Magdalena*  <br> **Inicio:** 11:56  <br> 📷 ![image]() | - **Registro e interfaz:** Clara e intuitiva.<br>- **Proceso de renta:** Rápido y fácil. Precios por hora razonables.<br>- **Navegación:** Fluida, fácil volver a secciones previas.<br>- **Diseño:** Agradable, pero recomienda tipografía más dinámica.<br>- **Sección Payment:** Valoró edición de datos y uso de PayPal.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Claridad en precios por hora.                             |
-| 03  | **Nombre:** Matias Torres  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Huaral*  <br> **Inicio:** 21:50  <br> 📷 ![image]()  | - **Registro y navegación:** Fluida, interfaz clara y bien estructurada.<br>- **Proceso de renta:** Eficiente, buen sistema de selección por horas.<br>- **Interfaz:** Diseño minimalista, organizado por secciones.<br>- **Recomendaciones:** Agregar sección de ayuda o contacto visible.<br>- **Flujo general:** Lógico, sin pasos innecesarios.<br>- **Valorado:** Rapidez del flujo y visibilidad del vehículo.                         |
-
----
-
-## 🌍 Segmento Objetivo: Turistas
-
-| Nº  | Datos del Entrevistado                                                                                  | Resumen |
-|-----|-----------------------------------------------------------------------------------------------------------|---------|
-| 04  | **Nombre:** — <br> **Edad:** — <br> **Profesión:** — <br> **Distrito:** — <br> **Inicio:** — <br> 📷 ![image]() | —       |
-| 05  | **Nombre:** — <br> **Edad:** — <br> **Profesión:** — <br> **Distrito:** — <br> **Inicio:** — <br> 📷 ![image]() | —       |
-| 06  | **Nombre:** — <br> **Edad:** — <br> **Profesión:** — <br> **Distrito:** — <br> **Inicio:** — <br> 📷 ![image]() | —       |
-
----
+| 01  | **Nombre:** Carlos Coca  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante* <br> **Distrito:** *San Miguel*  <br> **Inicio:** 00:00  <br> | - **Registro e inicio de sesión:** Interfaz limpia, formularios claros, colores suaves.<br>- **Proceso de renta:** Intuitivo, opción de seleccionar horas y ver precio total. Sugiere más variedad de vehículos.<br>- **Sección Records:** Confusión al buscar más info del vehículo. Sugiere hacer clic en imagen o botón "See More Info".<br>- **Diseño y usabilidad:** Claro, simple y funcional.<br>- **Pago:** Le gustó PayPal, sugiere Yape.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Proceso claro y personalizado. |
+| 02  | **Nombre:** Paolo Chinen  <br> **Edad:** *20*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Magdalena*  <br> **Inicio:** 11:56  | - **Registro e interfaz:** Clara e intuitiva.<br>- **Proceso de renta:** Rápido y fácil. Precios por hora razonables.<br>- **Navegación:** Fluida, fácil volver a secciones previas.<br>- **Diseño:** Agradable, pero recomienda tipografía más dinámica.<br>- **Sección Payment:** Valoró edición de datos y uso de PayPal.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Claridad en precios por hora.                             |
+| 03  | **Nombre:** Matias Torres  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Huaral*  <br> **Inicio:** 21:50  | - **Registro y navegación:** Fluida, interfaz clara y bien estructurada.<br>- **Proceso de renta:** Eficiente, buen sistema de selección por horas.<br>- **Interfaz:** Diseño minimalista, organizado por secciones.<br>- **Recomendaciones:** Agregar sección de ayuda o contacto visible.<br>- **Flujo general:** Lógico, sin pasos innecesarios.<br>- **Valorado:** Rapidez del flujo y visibilidad del vehículo.                         |
 
 🔗 **Link de la entrevista completa**:  
 [Ver en OneDrive](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=PFqEtF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -656,89 +644,152 @@ Insights de colaboración en github del backend
 **PROFESORES      	: Todos **
 
 **AUDITOR            	:** GPT4
-**CLIENTE(S)          	:** Nombre de las personas que participan en la sesión
+**CLIENTE(S)          	:** Carlos Coca, Paolo Chinen, Matias Torres
 
-*NOTA: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.*
 
 ***SITE o APP A EVALUAR:***
 
-*Nombre de App*
+Moveo
 
 ***TAREAS A EVALUAR:***
 
-*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+1. Inicio de Sesión
 
-1\.     *Registro de un usuario nuevo*
+2. Renta de un vehiculo
 
-2\.     *Publicación de un post*
+3. Proveer un vehiculo
 
-3\.     *Búsqueda de un paquete turístico*
-
-4\.     *Reserva de un viaje*
-
-5\.     *Cancelación de una reserva*
-
-6\.     *Agregar ítems a un pedido*
-
-7\.     *Pago de un paquete turístico*
-
-8\.     *Etc.*
+4. Visualización del historial de los usuarios
 
 *No están incluidas en esta versión de la evaluación las siguientes tareas:*
 
-1\.     *Compartir reservas entre usuarios*
-
-2\.     *Presentar ofertas de último minuto*
-
-3\.     *Administrar puntos del programa de fidelización de viajes*
-
-4\.     *Guardar “alerta de paquetes”*
-
-5\.     *Etc.*
-
-***ESCALA DE SEVERIDAD:***
-
-*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*  
- 
-
-| Nivel | Descripción |
-| :---- | :---- |
-| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
-| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
-| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
-| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
-
+1. Pagos dentro de la aplicación
 
 ***TABLA RESUMEN:***
 
 | \# | Problema | Escala de severidad | Heurística/Principio violada(o) |
-| :---: | ----- | ----- | :---- |
-| 1 | No hay un control que permita regresar a la tienda durante el trámite de compra | 3 | Usability: Libertad y control del usuario |
-| 2 | Se repiten constantemente algunas opciones | 1 | Usability: Consistencia y estándares |
-| 3 | Imágenes sin atributo “alt” | 3 | Inclusive Design: Proporciona experiencias comparables |
-| 4 | Incluye un botón “Ver más” pero no existe contenido al que dirigirse | 3 | Information Architecture: Is it usable? |
-| 5 | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| … | …. |   |   |
+| :---: | ------- | ------------------ | ------------------------------- |
+| 1 | El sitio genera una sensación de vacío o incompletitud visual | 2 | Usabilidad: Estética y diseño minimalista |
+| 2 | El usuario pierde el interés por la falta de elementos interactivos o llamativos | 3 | Usabilidad: Motivación e implicación del usuario |
+| 3 | El logo no redirige a la página principal | 2 | Usabilidad: Libertad y control del usuario |
+| 4 | La sección “Providers” carece de diseño atractivo o estructura clara | 2 | Information Architecture: Is it usable? |
+| 5 | El usuario no se guarda correctamente tras el registro | 3 | Usabilidad: Prevención de errores |
+| 6 | El mapa no muestra correctamente las estaciones disponibles | 2 | Visual Design: Feedback inmediato |
+| 7 | Hay pocas estaciones visibles, se limita la exploración | 2 | Inclusividad: Accesibilidad geográfica |
+| 8 | No se puede cambiar fácilmente entre vista de usuario y proveedor | 2 | Usabilidad: Flexibilidad y eficiencia del uso |
 
-Etc.
+***DESCRIPCIÓN DE PROBLEMAS:***
 
-***DESCRIPCIÓN DE PROBLEMAS:*** 
+**PROBLEMA #1: El sitio genera una sensación de vacío o incompletitud visual**
 
-*PROBLEMA \#1: No hay un control que permita regresar a la tienda durante el trámite de compra*
+**Severidad: 2**
 
-*Severidad: 3*
+**Heurística violada:** Usabilidad - Estética y diseño minimalista
 
-*Heurística violada: Usabilidad \- Libertad y control del usuario*
+**Problema:**
+La interfaz de Moveo presenta demasiados espacios en blanco o componentes vacíos que generan la sensación de que la aplicación está incompleta o no completamente cargada.
 
-*Problema:*
+**Recomendación:**
+Reorganizar los elementos visuales, incorporar contenido de valor como recomendaciones, tips, o accesos rápidos que llenen visualmente la vista y mejoren la percepción de completitud.
 
-*Al momento de ingresar nuestros datos, no podemos regresar a la tienda en caso así lo Una vez el cliente pase al trámite de compra, en caso de que este quiera regresar a la tienda, no hay un botón que lo envié al inicio de la web, lo cual nos obliga a efectuar el trámite y al momento de elegir más productos, realizar otro, incrementándose así la cantidad de esfuerzo del usuario.*
+---
 
-*(Incluir además una captura de pantalla ilustrando el problema).*
+**PROBLEMA #2: El usuario pierde el interés por la falta de elementos interactivos o llamativos**
 
-*Recomendación:*
+**Severidad: 3**
 
-*La más práctica es que al momento en que queramos realizar dicho trámite, el navegador lo abra en una ventana aparte para no perder los cambios realizados en nuestro carrito de compras.*  
+**Heurística violada:** Usabilidad - Motivación e implicación del usuario
+
+**Problema:**
+La experiencia del usuario es monótona y carece de componentes que generen interés o motivación para continuar explorando la app.
+
+**Recomendación:**
+Incluir animaciones sutiles, gamificación o mensajes que generen conexión emocional con el usuario.
+
+---
+
+**PROBLEMA #3: El logo no redirige a la página principal**
+
+**Severidad: 2**
+
+**Heurística violada:** Usabilidad - Libertad y control del usuario
+
+**Problema:**
+El logo ubicado en la parte superior no actúa como acceso a la página de inicio, rompiendo una convención ampliamente entendida por los usuarios.
+
+**Recomendación:**
+Habilitar el logo como hipervínculo hacia la pantalla principal de la aplicación.
+
+---
+
+**PROBLEMA #4: La sección “Providers” carece de diseño atractivo o estructura clara**
+
+**Severidad: 2**
+
+**Heurística violada:** Information Architecture - Is it usable?
+
+**Problema:**
+La vista de proveedores no tiene jerarquía visual ni componentes claramente diferenciados, lo cual dificulta su entendimiento.
+
+**Recomendación:**
+Reestructurar la sección con cards visuales, botones claros y una separación adecuada de la información.
+
+---
+
+**PROBLEMA #5: El usuario no se guarda correctamente tras el registro**
+
+**Severidad: 3**
+
+**Heurística violada:** Usabilidad - Prevención de errores
+
+**Problema:**
+En ocasiones, tras completar el registro, el usuario no queda almacenado en la base de datos, generando pérdida de sesión o datos.
+
+**Recomendación:**
+Implementar validaciones en el backend y confirmaciones de éxito al guardar el usuario.
+
+---
+
+**PROBLEMA #6: El mapa no muestra correctamente las estaciones disponibles**
+
+**Severidad: 2**
+
+**Heurística violada:** Visual Design - Feedback inmediato
+
+**Problema:**
+El mapa actual no proporciona una visualización clara de las estaciones disponibles, lo que puede generar confusión o frustración en el usuario.
+
+**Recomendación:**
+Ajustar el mapa con marcadores dinámicos, etiquetas y filtros por tipo de estación.
+
+---
+
+**PROBLEMA #7: Hay pocas estaciones visibles, se limita la exploración**
+
+**Severidad: 2**
+
+**Heurística violada:** Inclusividad - Accesibilidad geográfica
+
+**Problema:**
+El número limitado de estaciones hace que muchos usuarios no puedan utilizar la app en sus zonas.
+
+**Recomendación:**
+Ampliar la cobertura de estaciones y mostrar futuras expansiones como parte del roadmap.
+
+---
+
+**PROBLEMA #8: No se puede cambiar fácilmente entre vista de usuario y proveedor**
+
+**Severidad: 2**
+
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia del uso
+
+**Problema:**
+No existe un mecanismo simple para cambiar entre las funciones de usuario y proveedor dentro de la misma cuenta o app.
+
+**Recomendación:**
+Implementar un selector de roles o una opción de cambio rápido en el menú de usuario.
+
 
 ### 5.4. Video About the Product
 
