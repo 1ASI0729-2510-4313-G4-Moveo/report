@@ -75,6 +75,14 @@ Nuestra Startup “GPT4” ofrece una aplicación innovadora de préstamos de au
     <td><img src="/assets/chapter01/team/trillo.jpg" style="width:700px; height:auto;" alt=""></td> 
     <td>Estudiante de la carrera de Ingenieria de Software de la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to ciclo, lo que me gusta de la carrera es desarrollar soluciones innovadoras que contribuyen a la sociedad. Me considero una persona responsable y orientada a resultados. Asimismo, me comprometo a colaborar en el equipo de forma continua y puntual.</td>
   </tr>
+
+   <tr>
+    <th colspan="2">Ramos Carpio, Karen Stephanie</th>
+  </tr>
+  <tr>
+    <td><img src="/assets/chapter01/team/Ramos.jpg" style="width:700px; height:auto;" alt=""></td> 
+    <td>Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML, CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándome de que se completen en el plazo establecido.</td>
+  </tr>
 </table>
 
 ## 1.2. Solution Profile
