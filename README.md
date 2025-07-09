@@ -340,6 +340,15 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Durante el desarrollo del proyecto, realice las actividades, como la landing page en el tema de las imagenes, traduccion, me encargue de realizar las entrevistas junto con el analisis de las entrevistas, aplique HTML, CSS y JS en la landing page, tambien realice el searching systems, navigation system, software architecture components diagrams, apoye con mi equipo en las actividades que les faltaban tambien.
         <br><br>
+        <br><br>
+        <strong>Gonzales, Carlos - TP1:</strong> Durante el desarrollo del TP realice lo que viene siendo las siguientes actividades como la realizacion del frontend con sus respectivas fakeAPI y me encargue de apoyar en documentacion a mis compañeros luego, realice todas las rutas necesarias para el frontend y los consumos de la fakeAPI.
+        <br><br>
+        <br><br>
+        <strong>Gonzales, Carlos - TB2:</strong> Durante el desarrollo del TB2 me encargue de realizar algunos endpoints para el backend y apoyar con la creacion de la base de datos tambien, luego me encargue de ayudar en documentacion y poder entregarlo a tiempo como equipo sin problemas.
+        <br><br>
+        <br><br>
+        <strong>Gonzales, Carlos - TF1:</strong> En este desarrollo del TF ultima entrega me encargue de validar las conexiones del frontend con el backend, hacer que las APIS funcionen correctamente con el frontend y se pueda recibir datos y mostrar, como tambien ayude a mis compañeros con respecto a la documentacion y correciones de Heuristicas.
+        <br><br>
         <strong>Lizano, Fernando - TB1:</strong> Durante el desarrollo del proyecto, me enfoqué en comunicar de manera clara y efectiva el orden y la estructura del informe en las reuniones grupales. Cada vez que surgieron dudas o propuestas de mejora, expuse de forma precisa los cambios necesarios, adaptando mi comunicación según el perfil de los integrantes del equipo, buscando siempre asegurar que todos comprendieran el objetivo común. Además, fomenté un espacio de retroalimentación constante para que las mejoras en los capítulos fueran comprendidas y aplicadas correctamente.
         <br><br>
         <strong>Lizano, Fernando - TP1:</strong> Durante el desarrollo del frontend, me aseguré de comunicar con claridad la estructura y lógica visual del proyecto. Expliqué los cambios necesarios según el perfil del equipo y promoví una retroalimentación constante para aplicar mejoras de forma efectiva.
@@ -383,6 +392,15 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Castañeda, Santiago - TF:</strong> Como equipo, en esta etapa final logramos consolidar una dinámica de trabajo eficiente y enfocada. Aprendimos a coordinar nuestras tareas con mayor precisión, aprovechando la experiencia adquirida en entregas anteriores para anticiparnos a posibles obstáculo
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Como grupo tenemos un buen ambiente y siempre sabemos trabajar bajo a presion, incluso si tenemos dificultades con un compañero sabemos como solucionarlo de inmediato, solo nos faltaria mejorar en el aspecto de tener una mejor estructura del tiempo, pero del resto tenemos buena comunicacion, buen ambiente y sabemos trabajar individualmente cada uno.
+        <br><br>
+        <br><br>
+        <strong>Gonzales, Carlos - TP1:</strong> Como grupo para esta entrega tuvimos un muy bien ambiente y pudimos entregar a tiempo ya que nosotros nos establecemos un limite para poder tener el trabajo a tiempo y no estarlo enviando a ultima hora para poder corroborar solo ese dia de la entrega que todo este bien y no nos falte nada, incluso estamos en bastante comunicacion por si alguien se le dificulta.
+        <br><br>
+        <br><br>
+        <strong>Gonzales, Carlos - TB2:</strong> Para esta entrega como grupo hemos realizado todas las actividades que teniamos pendiente, nos apoyamos para realizar el backend y no tuvimos ni un fallo luego conectandolo con la base de datos.
+        <br><br>
+        <br><br>
+        <strong>Gonzales, Carlos - TF1:</strong> Para esta ultima entrega como grupo hemos estado mucho mas atentos con respecto a las Heuristicas y supimos que cambios necesarios hacer para que tengamos los puntos necesarios y poder entregar a tiempo nuestro trabajo, pero siempre hemos mantenido una muy buena comunicacion incluso bajo presion por la hora o cosas que teniamos pendientes.
         <br><br>
         <strong>Lizano, Fernando - TB1:</strong> En la elaboración del informe, trabajé en mantener un estilo de redacción claro, ordenado y adecuado para distintos tipos de lectores, asegurando que cada capítulo tuviera coherencia y consistencia. También participé en la elaboración y el apoyo en la creación de la landing page, donde la comunicación escrita debía ser precisa y atractiva para los usuarios. Mi enfoque estuvo en transmitir de manera sencilla pero profesional la información, respetando la estructura formal requerida por el curso y adaptándome a las necesidades de comunicación digital para la web.
         <br><br>
