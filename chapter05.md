@@ -475,16 +475,16 @@ A continuación se muestran los commits realizados por los integrantes del equip
 
 | Repository                                  | Branch                | Commit Id | Commit Message                                     | Commited on      |
 |---------------------------------------------|-----------------------|----------------------------------------------------|---------------------|------------------|
-| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | ac7ba89 | fix: reorganize structure | 20-06-2025 |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 4313bc6 | feat: Add feature payments |  20-06-2025 |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 8f57f4a | fix: reorganize structure  |  20-06-2025 |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 9c3ce9c | Add feature/records |  20-06-2025 |
-| 1ASI0730-2510-4313-G4-Moveo back-end    | develop | d0d0789 | feat: add rent table |  17-06-2025 |
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | f4ea7a7 | chore: update record detail | 07-07-2025 |
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | 7ab009c | feat: add view for payment checkout |  07-07-2025 |
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | 7ab009c | chore: update view for my cars  |  07-07-2025 |
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | 6ea4fce | feat: add dashboard for provider |  06-07-2025 |
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | b7371b7 | chore: update views for provider user |  06-07-2025 |
 
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
-En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
 
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
