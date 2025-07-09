@@ -123,10 +123,10 @@
       empezo a plantear como llegariamos para el final del curso.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>4.0</td>
+      <td>10/07/25</td>
+      <td>Castañeda, Giancarlo</td>
+      <td>Implementamos el IAM en nuestro FrontEnd para la implementación de usuarios, registro de usuarios y guardado de token </td>
     </tr>
   </tbody>
 </table>
@@ -191,6 +191,15 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 - **Insights**
 
 ### Entregable TB2
+
+A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
+- **Insights**
+
+<p align="center">
+  <img src="assets/chapter01/insightsTP1.PNG"  style="width:800px; height:auto;" alt="">
+</p>
+
+### Entregable TF
 
 A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
 - **Insights**
@@ -327,6 +336,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Castañeda, Santiago - TB2:</strong> Para el desarrollo de esta entrega hice las respectivas correciones y actualizaciones que vendrian con el sprint 3, como pueden ser el diarama de clases, datos y el modelado C4, y me dedique por completo con el Backend, desplegandolo y configurando todas sus endpoints   
         <br><br>
+        <strong>Castañeda, Santiago - TF:</strong> Durante el desarrollo del Trabajo Final me encargué de liderar el diseño y la implementación del backend del sistema, asegurando la correcta configuración y despliegue de los endpoints necesarios para las funcionalidades clave del proyecto 
+        <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Durante el desarrollo del proyecto, realice las actividades, como la landing page en el tema de las imagenes, traduccion, me encargue de realizar las entrevistas junto con el analisis de las entrevistas, aplique HTML, CSS y JS en la landing page, tambien realice el searching systems, navigation system, software architecture components diagrams, apoye con mi equipo en las actividades que les faltaban tambien.
         <br><br>
         <strong>Lizano, Fernando - TB1:</strong> Durante el desarrollo del proyecto, me enfoqué en comunicar de manera clara y efectiva el orden y la estructura del informe en las reuniones grupales. Cada vez que surgieron dudas o propuestas de mejora, expuse de forma precisa los cambios necesarios, adaptando mi comunicación según el perfil de los integrantes del equipo, buscando siempre asegurar que todos comprendieran el objetivo común. Además, fomenté un espacio de retroalimentación constante para que las mejoras en los capítulos fueran comprendidas y aplicadas correctamente.
@@ -351,6 +362,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
          TP1: Al trabajar como equipo en este proyecto, hemos aprendido a comunicarnos de manera más efectiva y a distribuir tareas según las fortalezas de cada miembro. La colaboración constante nos permitió mejorar nuestra organización y gestionar los tiempos de forma eficiente. Además, enfrentamos desafíos técnicos y de coordinación que nos enseñaron a adaptarnos rápidamente y a buscar soluciones conjuntas. Esta experiencia ha reforzado la importancia de la confianza y el apoyo mutuo dentro de un equipo de trabajo, lo cual fue clave para el avance y éxito del proyecto.
          <br><br>
          TB2: En esta entrega nos enfocamos mas en la organización y tomar riesgos, hemos aprendido que la colaboración y distribución de asignaciones según las fortalezas de cada miembro. Cda uno tiene especialidades y se deben aprovechar para estas entregas las cuales se van volviendo mucho mas dificiles cuanto mas las dejamos pasar
+        <br><br>
+         TF: Durante el desarrollo del Trabajo Final, reforzamos nuestras capacidades de colaboración, priorización y toma de decisiones bajo presión. Aprendimos a organizarnos mejor frente a tareas complejas, manteniendo una comunicación clara y efectiva para coordinar la integración entre diferentes componentes del sistema.
       </td>
       </tr>
       <tr>
@@ -363,6 +376,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Castañeda, Santiago - TP1:</strong> Como equipo logramos acabar determinar instacias y tiempos para poder terminar el trabajo mas eficientemente y de manera proactiva 
         <br><br>
         <strong>Castañeda, Santiago - TB2:</strong> Como grupo logramos la constancia necesaria para terminar nuestros proyectos con tiempo de antelación, de una manera relajada y tranquila  
+        <br><br>
+        <strong>Castañeda, Santiago - TF:</strong> Como equipo, en esta etapa final logramos consolidar una dinámica de trabajo eficiente y enfocada. Aprendimos a coordinar nuestras tareas con mayor precisión, aprovechando la experiencia adquirida en entregas anteriores para anticiparnos a posibles obstáculo
         <br><br>
         <strong>Gonzales, Carlos - TB1:</strong> Como grupo tenemos un buen ambiente y siempre sabemos trabajar bajo a presion, incluso si tenemos dificultades con un compañero sabemos como solucionarlo de inmediato, solo nos faltaria mejorar en el aspecto de tener una mejor estructura del tiempo, pero del resto tenemos buena comunicacion, buen ambiente y sabemos trabajar individualmente cada uno.
         <br><br>
@@ -386,6 +401,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         TB2: Como equipo, logramos trabajar de una manera efectiva y aplicada en todo momento, manteniendo comunicación y facilitandonos la capacidad de interactuar entre nosotros.
         Esto nos permitio tener mejores tiempos de entrega y perfeccionar nuestras habilidades criticas con nosotros mismos
+        <br><br>
+        TF: En el Trabajo Final, como equipo consolidamos una forma de trabajo más madura y eficiente, basada en la confianza, la comunicación constante y el compromiso compartido. Supimos adaptarnos a los desafíos técnicos y organizativos con mayor fluidez, lo que nos permitió tomar decisiones más acertadas y distribuir las responsabilidades de forma estratégica.
       </td>
 </tr>
 </tbody>
