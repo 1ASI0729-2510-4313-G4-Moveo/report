@@ -520,22 +520,22 @@ Insights de colaboración en github del backend
 | Sprint # | 4 |
 | :---- | :---- |
 | Sprint Planning Background | |
-| Date | 2025-06-15 |
+| Date | 2025-07-10 |
 | Time | 12:00 PM |
 | Location | Discord |
 | Prepared by | Giancarlo Castañeda |
 | Attendees (to planning meeting) | Fernando Lizano, Carlos Matthew, Masaru Nikaido, Anghel Trillo |
-| Sprint n – 4 Review Summary | Se avanzó en la estructura de base de datos; además, se ajustaron los endpoints a la arquitectura final definida. |
-| Sprint n – 4 Retrospective Summary | Consolidar la conexión entre frontend y backend para garantizar integraciones más rápidas. Aumentar y conseguir terminar con los endpoints propuestos |
-| Sprint 4 Goal | En este Sprint, nuestro objetivo es tener implementados los endpoints principales, asegurar la conexión estable con el frontend y avanzar en la documentación técnica completa del backend. Esto se validará cuando los endpoints estén funcionales y documentados, y exista una integración estable entre backend y frontend. |
-| Sprint 4 Velocity | Para este sprint nuestro equipo puede aceptar hasta 50 story points |
-| Sum of Story Points | 49 story points |
+| Sprint n – 4 Review Summary | Se avanzó en el desarrollo inicial del módulo IAM, incluyendo el diseño del modelo de usuarios y roles, y los primeros endpoints de autenticación. |
+| Sprint n – 4 Retrospective Summary | Es necesario mejorar la coordinación entre los equipos de backend y frontend para que los cambios de IAM se reflejen rápidamente en ambas capas. También se acordó refinar las historias relacionadas con permisos y sesiones para próximas iteraciones. |
+| Sprint 4 Goal | En este Sprint, nuestro objetivo es implementar el módulo completo de IAM: autenticación, autorización basada en roles, manejo de sesiones y recuperación de contraseñas. Esto se validará cuando los endpoints estén funcionales, documentados y conectados correctamente con la interfaz de usuario. |
+| Sprint 4 Velocity | Para este sprint nuestro equipo puede aceptar hasta 20 story points |
+| Sum of Story Points | 15 story points |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
-| Team Member (Last Name, First Name)  | GitHub Username | Aspect Diseño UX/UI y Prototipado (L/C) | Aspect Programación de la app web (L/C)      | Aspect Arquitectura de Información y Sistemas de Organización/Navegación (L/C) |
+| Team Member (Last Name, First Name)  | GitHub Username | Programación del Backend | Conexión con el FrontEnd    | Aspect Arquitectura de Información y Sistemas de Organización/Navegación  |
 | ------------------------------------ | --------------- | --------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Castañeda Guimas, Giancarlo Santiago | Darksens01      | L                                       | C                                            | C                                                                                             |
-| Gonzales Valverde, Carlos Matthew    | Carlos12324     | L                                       | L                                            | L                                                                                             |
+| Castañeda Guimas, Giancarlo Santiago | Darksens01      | C                                       | C                                            | C                                                                                             |
+| Gonzales Valverde, Carlos Matthew    | Carlos12324     | C                                       | L                                            | L                                                                                             |
 | Nikaido Vargas, Javier Nikaido       | MassiFlip       | L                                       | C                                            | C                                                                                             |
 | Lizano Coll Cardenas, Fernando Jesus | GuardianDeity   | L                                       | L                                            | L                                                                                             |
 | Trillo Hernandez, Anghel Melanie     | AM27TH          | L                                       | L                                            | L                                                                                             |
@@ -544,10 +544,10 @@ Insights de colaboración en github del backend
 
 | Id | Title | Id | Title | Description | Estimation (Hours)  | Assigned To | Status (To-do / InProcess / ToReview / Done) |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| TS06 | Endpoint de IAM | T1 | Implementar POST, PUT, DELETE para IAM | Desarrollo de endpoints para crear, actualizar y eliminar usuarios. | 6 | Giancarlo Castañeda | To-do |
-| TS06 | Endpoint de IAM | T2 | Implementar GET (GetById, GetAll) para IAM | Desarrollo de endpoints para obtener usuarios por ID y listado. | 5 | Giancarlo Castañeda | To-do |
-| US35 | Edición de perfil | T1 | Desarrollo de lógica para editar información de perfil | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
-| US36 | Cambio de contraseña | T1 | Desarrollo de lógica para cambiar contraseña de usuario | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | To-do |
+| TS06 | Endpoint de IAM | T1 | Implementar POST, PUT, DELETE para IAM | Desarrollo de endpoints para crear, actualizar y eliminar usuarios. | 6 | Giancarlo Castañeda | Done |
+| TS06 | Endpoint de IAM | T2 | Implementar GET (GetById, GetAll) para IAM | Desarrollo de endpoints para obtener usuarios por ID y listado. | 5 | Giancarlo Castañeda | Done |
+| US35 | Edición de perfil | T1 | Desarrollo de lógica para editar información de perfil | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | Done |
+| US36 | Cambio de contraseña | T1 | Desarrollo de lógica para cambiar contraseña de usuario | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | Done |
 
 A continuación se muestran los commits realizados por los integrantes del equipo durante el desarrollo de la SPA Moveo. Se han excluido los merges automáticos y repetitivos para mostrar solo los commits funcionales más relevantes.
 
@@ -563,6 +563,7 @@ A continuación se muestran los commits realizados por los integrantes del equip
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
+
 
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
