@@ -356,6 +356,9 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <br><br>
         <strong>Trillo, Anghel - TB2:</strong> Durante el desarrollo del backend, me encargué de comunicar de manera clara tanto la estructura del código como la lógica del sistema. Adapté las explicaciones a las características del equipo y promoví una retroalimentación continua para aplicar mejoras de manera eficiente.
         <br><br>
+        <br><br>
+        <strong>Trillo, Anghel - TF:</strong> Durante el desarrollo del Trabajo Final me encargué de diseñar el diagrama de base de datos y mejoras del backend donde estabamos presentando inconvenientes por palabras reservadas del SQL, tambien asegurando la correcta configuración y despliegue de los endpoints clave del proyecto.
+        <br><br>
       <td>
          TB1: Al trabajar como equipo en este proyecto, hemos aprendido a comunicarnos de manera más efectiva y a distribuir tareas según las fortalezas de cada miembro. La colaboración constante nos permitió mejorar nuestra organización y gestionar los tiempos de forma eficiente. Además, enfrentamos desafíos técnicos y de coordinación que nos enseñaron a adaptarnos rápidamente y a buscar soluciones conjuntas. Esta experiencia ha reforzado la importancia de la confianza y el apoyo mutuo dentro de un equipo de trabajo, lo cual fue clave para el avance y éxito del proyecto.
          <br><br>
@@ -393,6 +396,8 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Trillo, Anghel - TP1:</strong> Como equipo logramos planificarnos para poder llevar a cabo el trabajo de manera proactiva.
         <br><br>
         <strong>Trillo, Anghel - TB2:</strong> En la implementación del backend, mantuve una organización coherente y funcional, garantizando su correcta integración con el frontend. Priorizando una lógica ordenada y profesional, aseguré el cumplimiento de los lineamientos del curso y los objetivos del proyecto.
+        br><br>
+        <strong>Trillo, Anghel - TF:</strong> Me mantuve con una organización coherente y funcional al desarrollar el backend, garantizando su correcta integración con el frontend y aseguré el cumplimiento de los lineamientos del curso y los objetivos del proyecto.
         br><br>
       <td>
         TB1: Como equipo, hemos aprendido a trabajar juntos en un ambiente colaborativo y adaptativo. La gestión de tareas fue fundamental para aprovechar al máximo nuestras habilidades individuales, mientras nos asegurábamos de mantener el enfoque común. Aprendimos a valorar la importancia de la comunicación constante y la resolución conjunta de problemas, lo que nos permitió crecer como equipo y mejorar tanto a nivel personal como colectivo. Esta experiencia nos ha mostrado cómo las diferentes perspectivas pueden enriquecer un proyecto, haciéndolo más robusto y exitoso.
