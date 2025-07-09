@@ -564,7 +564,7 @@ A continuación se muestran los commits realizados por los integrantes del equip
 
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
 
-
+<img src="assets/chapter05/sprint 4 evidence/sprint4 evidence.jpg" />
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
