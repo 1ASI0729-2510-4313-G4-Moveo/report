@@ -396,9 +396,9 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Trillo, Anghel - TP1:</strong> Como equipo logramos planificarnos para poder llevar a cabo el trabajo de manera proactiva.
         <br><br>
         <strong>Trillo, Anghel - TB2:</strong> En la implementación del backend, mantuve una organización coherente y funcional, garantizando su correcta integración con el frontend. Priorizando una lógica ordenada y profesional, aseguré el cumplimiento de los lineamientos del curso y los objetivos del proyecto.
-        br><br>
+        <br><br>
         <strong>Trillo, Anghel - TF:</strong> Me mantuve con una organización coherente y funcional al desarrollar el backend, garantizando su correcta integración con el frontend y aseguré el cumplimiento de los lineamientos del curso y los objetivos del proyecto.
-        br><br>
+        <br><br>
       <td>
         TB1: Como equipo, hemos aprendido a trabajar juntos en un ambiente colaborativo y adaptativo. La gestión de tareas fue fundamental para aprovechar al máximo nuestras habilidades individuales, mientras nos asegurábamos de mantener el enfoque común. Aprendimos a valorar la importancia de la comunicación constante y la resolución conjunta de problemas, lo que nos permitió crecer como equipo y mejorar tanto a nivel personal como colectivo. Esta experiencia nos ha mostrado cómo las diferentes perspectivas pueden enriquecer un proyecto, haciéndolo más robusto y exitoso.
         <br><br>
