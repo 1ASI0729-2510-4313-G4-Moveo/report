@@ -475,6 +475,84 @@ A continuación se muestran los commits realizados por los integrantes del equip
 
 | Repository                                  | Branch                | Commit Id | Commit Message                                     | Commited on      |
 |---------------------------------------------|-----------------------|----------------------------------------------------|---------------------|------------------|
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | f4ea7a7 | chore: update record detail | 07-07-2025 |
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | 7ab009c | feat: add view for payment checkout |  07-07-2025 |
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | 7ab009c | chore: update view for my cars  |  07-07-2025 |
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | 6ea4fce | feat: add dashboard for provider |  06-07-2025 |
+| 1ASI0730-2510-4313-G4-Moveo front-end    | release_v2 | b7371b7 | chore: update views for provider user |  06-07-2025 |
+
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
+
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Para la documentación del backend se ha utilizado swagger
+
+<img src="assets/chapter05/evidence/backend/1.png" />
+<img src="assets/chapter05/evidence/backend/2.png" />
+<img src="assets/chapter05/evidence/backend/3.png" />
+<img src="assets/chapter05/evidence/backend/4.png" />
+
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+<img src="assets/chapter05/DeployBackend.PNG" />
+<img src="assets/chapter05/DeployBackend2.PNG" />
+<img src="assets/chapter05/DeployBackend3.PNG" />
+
+
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+Insights de colaboración en github del backend
+
+<img src="assets/chapter05/insights/insights31.PNG" />
+<img src="assets/chapter05/insights/insights32.PNG" />
+<img src="assets/chapter05/insights/insights33.PNG" />
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1.Sprint Planning 4.
+
+| Sprint \# | 4 |
+| :---- | :---- |
+| Sprint # | 4 |
+| :---- | :---- |
+| Sprint Planning Background | |
+| Date | 2025-07-10 |
+| Time | 12:00 PM |
+| Location | Discord |
+| Prepared by | Giancarlo Castañeda |
+| Attendees (to planning meeting) | Fernando Lizano, Carlos Matthew, Masaru Nikaido, Anghel Trillo |
+| Sprint n – 4 Review Summary | Se avanzó en el desarrollo inicial del módulo IAM, incluyendo el diseño del modelo de usuarios y roles, y los primeros endpoints de autenticación. |
+| Sprint n – 4 Retrospective Summary | Es necesario mejorar la coordinación entre los equipos de backend y frontend para que los cambios de IAM se reflejen rápidamente en ambas capas. También se acordó refinar las historias relacionadas con permisos y sesiones para próximas iteraciones. |
+| Sprint 4 Goal | En este Sprint, nuestro objetivo es implementar el módulo completo de IAM: autenticación, autorización basada en roles, manejo de sesiones y recuperación de contraseñas. Esto se validará cuando los endpoints estén funcionales, documentados y conectados correctamente con la interfaz de usuario. |
+| Sprint 4 Velocity | Para este sprint nuestro equipo puede aceptar hasta 20 story points |
+| Sum of Story Points | 15 story points |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name)  | GitHub Username | Programación del Backend | Conexión con el FrontEnd    | Aspect Arquitectura de Información y Sistemas de Organización/Navegación  |
+| ------------------------------------ | --------------- | --------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Castañeda Guimas, Giancarlo Santiago | Darksens01      | C                                       | C                                            | C                                                                                             |
+| Gonzales Valverde, Carlos Matthew    | Carlos12324     | C                                       | L                                            | L                                                                                             |
+| Nikaido Vargas, Javier Nikaido       | MassiFlip       | L                                       | C                                            | C                                                                                             |
+| Lizano Coll Cardenas, Fernando Jesus | GuardianDeity   | L                                       | L                                            | L                                                                                             |
+| Trillo Hernandez, Anghel Melanie     | AM27TH          | L                                       | L                                            | L                                                                                             |
+
+#### 5.2.4.3. Sprint Backlog 4
+
+| Id | Title | Id | Title | Description | Estimation (Hours)  | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| TS06 | Endpoint de IAM | T1 | Implementar POST, PUT, DELETE para IAM | Desarrollo de endpoints para crear, actualizar y eliminar usuarios. | 6 | Giancarlo Castañeda | Done |
+| TS06 | Endpoint de IAM | T2 | Implementar GET (GetById, GetAll) para IAM | Desarrollo de endpoints para obtener usuarios por ID y listado. | 5 | Giancarlo Castañeda | Done |
+| US35 | Edición de perfil | T1 | Desarrollo de lógica para editar información de perfil | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | Done |
+| US36 | Cambio de contraseña | T1 | Desarrollo de lógica para cambiar contraseña de usuario | Implementación en el servicio correspondiente. | 5 | Carlos Matthew | Done |
+
+A continuación se muestran los commits realizados por los integrantes del equipo durante el desarrollo de la SPA Moveo. Se han excluido los merges automáticos y repetitivos para mostrar solo los commits funcionales más relevantes.
+
+| Repository                                  | Branch                | Commit Id | Commit Message                                     | Commited on      |
+|---------------------------------------------|-----------------------|----------------------------------------------------|---------------------|------------------|
 | 1ASI0730-2510-4313-G4-Moveo back-end    | develop | ac7ba89 | fix: reorganize structure | 20-06-2025 |
 | 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 4313bc6 | feat: Add feature payments |  20-06-2025 |
 | 1ASI0730-2510-4313-G4-Moveo back-end    | develop | 8f57f4a | fix: reorganize structure  |  20-06-2025 |
@@ -482,12 +560,13 @@ A continuación se muestran los commits realizados por los integrantes del equip
 | 1ASI0730-2510-4313-G4-Moveo back-end    | develop | d0d0789 | feat: add rent table |  17-06-2025 |
 
 
-#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.4.5.Execution Evidence for Sprint Review.
 
-En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4. En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. 
 
+<img src="assets/chapter05/sprint 4 evidence/sprint4 evidence.jpg" />
 
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
 Para la documentación del backend se ha utilizado swagger
 
@@ -543,23 +622,16 @@ Insights de colaboración en github del backend
   
 ### 5.3.2. Registro de Entrevistas
 
-| Segmento Objetivo | Estudiantes |
-| ----- | ----- |
-| **Número de registro** | **Datos del entrevistado** |
-| 01 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  **Distrito:**  <br>**Inicio \- Duración:** \- <br> ![interview-image]() |
-|  | **Resumen:**   |
-| 02 | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]() |
-|  | **Resumen:** |
-| 03 | **Nombre:**   <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-  <br> ![interview-image]() |
-|  | **Resumen:** |
-| **Segmento Objetivo** | **Turistas** |
-| **04** | **Nombre:**  <br>**Edad:**  <br>**Profesión:** <br>**Distrito:**  <br>**Inicio \- Duración:**  \-  <br> ![interview-image]()|
-|  | **Resumen:** |
-| **05** | **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:**  <br>**Inicio \- Duración:** \-   <br> ![interview-image]()|
-|  | **Resumen:**  |
-|**06**| **Nombre:**  <br>**Edad:**  <br>**Profesión:**  <br>**Distrito:** **Inicio \- Duración:**  \-  <br> ![interview-image]() |
-|  | **Resumen:** |
-| Link de la entrevista | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=x6cKdO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=x6cKdO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+
+| Nº  | Datos del Entrevistado                                                                                                                                      | Resumen                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01  | **Nombre:** Carlos Coca  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante* <br> **Distrito:** *San Miguel*  <br> **Inicio:** 00:00  <br> | - **Registro e inicio de sesión:** Interfaz limpia, formularios claros, colores suaves.<br>- **Proceso de renta:** Intuitivo, opción de seleccionar horas y ver precio total. Sugiere más variedad de vehículos.<br>- **Sección Records:** Confusión al buscar más info del vehículo. Sugiere hacer clic en imagen o botón "See More Info".<br>- **Diseño y usabilidad:** Claro, simple y funcional.<br>- **Pago:** Le gustó PayPal, sugiere Yape.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Proceso claro y personalizado. |
+| 02  | **Nombre:** Paolo Chinen  <br> **Edad:** *20*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Magdalena*  <br> **Inicio:** 11:56  | - **Registro e interfaz:** Clara e intuitiva.<br>- **Proceso de renta:** Rápido y fácil. Precios por hora razonables.<br>- **Navegación:** Fluida, fácil volver a secciones previas.<br>- **Diseño:** Agradable, pero recomienda tipografía más dinámica.<br>- **Sección Payment:** Valoró edición de datos y uso de PayPal.<br>- **Soporte:** Faltó botón de contacto.<br>- **Valorado:** Claridad en precios por hora.                             |
+| 03  | **Nombre:** Matias Torres  <br> **Edad:** *19*  <br> **Profesión:** *Estudiante*  <br> **Distrito:** *Huaral*  <br> **Inicio:** 21:50  | - **Registro y navegación:** Fluida, interfaz clara y bien estructurada.<br>- **Proceso de renta:** Eficiente, buen sistema de selección por horas.<br>- **Interfaz:** Diseño minimalista, organizado por secciones.<br>- **Recomendaciones:** Agregar sección de ayuda o contacto visible.<br>- **Flujo general:** Lógico, sin pasos innecesarios.<br>- **Valorado:** Rapidez del flujo y visibilidad del vehículo.                         |
+
+🔗 **Link de la entrevista completa**:  
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310601_upc_edu_pe/EadOt3-36yVHq5IIKXioo_YBBKIe4bjnl9Xy5h-M8w2RKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TomeIR]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EXZrMN12RddKt6hIACaWQCoBL75h2660O-A_DCDz_T_ElQ?e=PFqEtF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310601_upc_edu_pe/EadOt3-36yVHq5IIKXioo_YBBKIe4bjnl9Xy5h-M8w2RKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TomeIR))
+
 
 ### 5.3.3. Evaluaciones según heuristicas
 
@@ -573,91 +645,169 @@ Insights de colaboración en github del backend
 **PROFESORES      	: Todos **
 
 **AUDITOR            	:** GPT4
-**CLIENTE(S)          	:** Nombre de las personas que participan en la sesión
+**CLIENTE(S)          	:** Carlos Coca, Paolo Chinen, Matias Torres
 
-*NOTA: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.*
 
 ***SITE o APP A EVALUAR:***
 
-*Nombre de App*
+Moveo
 
 ***TAREAS A EVALUAR:***
 
-*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+1. Inicio de Sesión
 
-1\.     *Registro de un usuario nuevo*
+2. Renta de un vehiculo
 
-2\.     *Publicación de un post*
+3. Proveer un vehiculo
 
-3\.     *Búsqueda de un paquete turístico*
-
-4\.     *Reserva de un viaje*
-
-5\.     *Cancelación de una reserva*
-
-6\.     *Agregar ítems a un pedido*
-
-7\.     *Pago de un paquete turístico*
-
-8\.     *Etc.*
+4. Visualización del historial de los usuarios
 
 *No están incluidas en esta versión de la evaluación las siguientes tareas:*
 
-1\.     *Compartir reservas entre usuarios*
-
-2\.     *Presentar ofertas de último minuto*
-
-3\.     *Administrar puntos del programa de fidelización de viajes*
-
-4\.     *Guardar “alerta de paquetes”*
-
-5\.     *Etc.*
-
-***ESCALA DE SEVERIDAD:***
-
-*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*  
- 
-
-| Nivel | Descripción |
-| :---- | :---- |
-| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
-| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
-| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
-| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
-
+1. Pagos dentro de la aplicación
 
 ***TABLA RESUMEN:***
 
 | \# | Problema | Escala de severidad | Heurística/Principio violada(o) |
-| :---: | ----- | ----- | :---- |
-| 1 | No hay un control que permita regresar a la tienda durante el trámite de compra | 3 | Usability: Libertad y control del usuario |
-| 2 | Se repiten constantemente algunas opciones | 1 | Usability: Consistencia y estándares |
-| 3 | Imágenes sin atributo “alt” | 3 | Inclusive Design: Proporciona experiencias comparables |
-| 4 | Incluye un botón “Ver más” pero no existe contenido al que dirigirse | 3 | Information Architecture: Is it usable? |
-| 5 | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
-| … | …. |   |   |
+| :---: | ------- | ------------------ | ------------------------------- |
+| 1 | El sitio genera una sensación de vacío o incompletitud visual | 2 | Usabilidad: Estética y diseño minimalista |
+| 2 | El usuario pierde el interés por la falta de elementos interactivos o llamativos | 3 | Usabilidad: Motivación e implicación del usuario |
+| 3 | El logo no redirige a la página principal | 2 | Usabilidad: Libertad y control del usuario |
+| 4 | La sección “Providers” carece de diseño atractivo o estructura clara | 2 | Information Architecture: Is it usable? |
+| 5 | El usuario no se guarda correctamente tras el registro | 3 | Usabilidad: Prevención de errores |
+| 6 | El mapa no muestra correctamente las estaciones disponibles | 2 | Visual Design: Feedback inmediato |
+| 7 | Hay pocas estaciones visibles, se limita la exploración | 2 | Inclusividad: Accesibilidad geográfica |
+| 8 | No se puede cambiar fácilmente entre vista de usuario y proveedor | 2 | Usabilidad: Flexibilidad y eficiencia del uso |
 
-Etc.
+***DESCRIPCIÓN DE PROBLEMAS:***
 
-***DESCRIPCIÓN DE PROBLEMAS:*** 
+**PROBLEMA #1: El sitio genera una sensación de vacío o incompletitud visual**
 
-*PROBLEMA \#1: No hay un control que permita regresar a la tienda durante el trámite de compra*
+**Severidad: 2**
 
-*Severidad: 3*
+**Heurística violada:** Usabilidad - Estética y diseño minimalista
 
-*Heurística violada: Usabilidad \- Libertad y control del usuario*
+**Problema:**
+La interfaz de Moveo presenta demasiados espacios en blanco o componentes vacíos que generan la sensación de que la aplicación está incompleta o no completamente cargada.
 
-*Problema:*
+**Recomendación:**
+Reorganizar los elementos visuales, incorporar contenido de valor como recomendaciones, tips, o accesos rápidos que llenen visualmente la vista y mejoren la percepción de completitud.
 
-*Al momento de ingresar nuestros datos, no podemos regresar a la tienda en caso así lo Una vez el cliente pase al trámite de compra, en caso de que este quiera regresar a la tienda, no hay un botón que lo envié al inicio de la web, lo cual nos obliga a efectuar el trámite y al momento de elegir más productos, realizar otro, incrementándose así la cantidad de esfuerzo del usuario.*
+<img src="assets/chapter05/heuristicas/heu1.png" />
 
-*(Incluir además una captura de pantalla ilustrando el problema).*
+---
 
-*Recomendación:*
+**PROBLEMA #2: El usuario pierde el interés por la falta de elementos interactivos o llamativos**
 
-*La más práctica es que al momento en que queramos realizar dicho trámite, el navegador lo abra en una ventana aparte para no perder los cambios realizados en nuestro carrito de compras.*  
+**Severidad: 3**
+
+**Heurística violada:** Usabilidad - Motivación e implicación del usuario
+
+**Problema:**
+La experiencia del usuario es monótona y carece de componentes que generen interés o motivación para continuar explorando la app.
+
+**Recomendación:**
+Incluir animaciones sutiles, gamificación o mensajes que generen conexión emocional con el usuario.
+
+<img src="assets/chapter05/heuristicas/heu4.png" />
+
+---
+
+**PROBLEMA #3: El logo no redirige a la página principal**
+
+**Severidad: 2**
+
+**Heurística violada:** Usabilidad - Libertad y control del usuario
+
+**Problema:**
+El logo ubicado en la parte superior no actúa como acceso a la página de inicio, rompiendo una convención ampliamente entendida por los usuarios.
+
+**Recomendación:**
+Habilitar el logo como hipervínculo hacia la pantalla principal de la aplicación.
+
+<img src="assets/chapter05/heuristicas/heu2.png" />
+
+---
+
+**PROBLEMA #4: La sección “Providers” carece de diseño atractivo o estructura clara**
+
+**Severidad: 2**
+
+**Heurística violada:** Information Architecture - Is it usable?
+
+**Problema:**
+La vista de proveedores no tiene jerarquía visual ni componentes claramente diferenciados, lo cual dificulta su entendimiento.
+
+**Recomendación:**
+Reestructurar la sección con cards visuales, botones claros y una separación adecuada de la información.
+
+<img src="assets/chapter05/heuristicas/heu7.png" />
+
+---
+
+**PROBLEMA #5: El usuario no se guarda correctamente tras el registro**
+
+**Severidad: 3**
+
+**Heurística violada:** Usabilidad - Prevención de errores
+
+**Problema:**
+En ocasiones, tras completar el registro, el usuario no queda almacenado en la base de datos, generando pérdida de sesión o datos.
+
+**Recomendación:**
+Implementar validaciones en el backend y confirmaciones de éxito al guardar el usuario.
+
+<img src="assets/chapter05/heuristicas/heu11.png" />
+
+---
+
+**PROBLEMA #6: El mapa no muestra correctamente las estaciones disponibles**
+
+**Severidad: 2**
+
+**Heurística violada:** Visual Design - Feedback inmediato
+
+**Problema:**
+El mapa actual no proporciona una visualización clara de las estaciones disponibles, lo que puede generar confusión o frustración en el usuario.
+
+**Recomendación:**
+Ajustar el mapa con marcadores dinámicos, etiquetas y filtros por tipo de estación.
+
+<img src="assets/chapter05/heuristicas/heu3.png" />
+
+---
+
+**PROBLEMA #7: Hay pocas estaciones visibles, se limita la exploración**
+
+**Severidad: 2**
+
+**Heurística violada:** Inclusividad - Accesibilidad geográfica
+
+**Problema:**
+El número limitado de estaciones hace que muchos usuarios no puedan utilizar la app en sus zonas.
+
+**Recomendación:**
+Ampliar la cobertura de estaciones y mostrar futuras expansiones como parte del roadmap.
+
+---
+
+**PROBLEMA #8: No se puede cambiar fácilmente entre vista de usuario y proveedor**
+
+**Severidad: 2**
+
+**Heurística violada:** Usabilidad - Flexibilidad y eficiencia del uso
+
+**Problema:**
+No existe un mecanismo simple para cambiar entre las funciones de usuario y proveedor dentro de la misma cuenta o app.
+
+**Recomendación:**
+Implementar un selector de roles o una opción de cambio rápido en el menú de usuario.
+
+<img src="assets/chapter05/heuristicas/heu8.png" />
 
 ### 5.4. Video About the Product
+
+Video publicando en Youtube About the Product: [https://youtu.be/KWXhfRw9ePE?si=QFw8_jg230vlGtep](https://youtu.be/KWXhfRw9ePE?si=QFw8_jg230vlGtep)
 
 ## Conclusiones
 
